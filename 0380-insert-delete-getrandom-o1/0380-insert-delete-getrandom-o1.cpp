@@ -8,11 +8,7 @@ public:
     
     /** Inserts a value to the set. Returns true if the set did not already contain the specified element. */
     bool insert(int val) {
-        if(s.find(val) != s.end()){
-            return false;
-        }
-        s.insert(val);
-        return true;
+        return s.insert(val).second;
     }
     
     /** Removes a value from the set. Returns true if the set contained the specified element. */
