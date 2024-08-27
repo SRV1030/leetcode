@@ -4,16 +4,18 @@ public:
         if(i>j)swap(i,j);
         string x=to_string(i),y=to_string(j);
         if(size(x)<size(y)){
-            int d= size(y)-size(x);
-            x.insert(0,"0");
+            int d= size(y)-size(x)+1;
+            while(--d) x.insert(0,"0");
         }
         int d=0;
+        unordered_map<char,int> mp1, mp2;
         for(int i=0;i<size(y);++i){
             d+=x[i]!=y[i];
+            if(d>2) return false;
+            ++mp1[x[i]];
+            ++mp2[y[i]];
         }
-        sort(begin(x),end(x));
-        sort(begin(y),end(y));
-        return d<=2 && x==y;
+        return mp1==mp2;
     }
     int countPairs(vector<int>& nums) {
         int c=0;
