@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0980-find-the-shortest-superstring](https://github.com/SRV1030/leetcode/tree/master/0980-find-the-shortest-superstring) |
 | [1325-path-with-maximum-probability](https://github.com/SRV1030/leetcode/tree/master/1325-path-with-maximum-probability) |
 | [2035-count-sub-islands](https://github.com/SRV1030/leetcode/tree/master/2035-count-sub-islands) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/SRV1030/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -78,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2035-count-sub-islands](https://github.com/SRV1030/leetcode/tree/master/2035-count-sub-islands) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/SRV1030/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 ## String
 |  |
 | ------- |
@@ -90,4 +92,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0980-find-the-shortest-superstring](https://github.com/SRV1030/leetcode/tree/master/0980-find-the-shortest-superstring) |
+## Simulation
+|  |
+| ------- |
+| [2132-convert-1d-array-into-2d-array](https://github.com/SRV1030/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 <!---LeetCode Topics End-->
