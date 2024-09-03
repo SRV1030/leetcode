@@ -85,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0980-find-the-shortest-superstring](https://github.com/SRV1030/leetcode/tree/master/0980-find-the-shortest-superstring) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/SRV1030/leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -97,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/SRV1030/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/SRV1030/leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/SRV1030/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Binary Search
 |  |
