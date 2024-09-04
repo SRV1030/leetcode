@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/SRV1030/leetcode/tree/master/0001-two-sum) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SRV1030/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0906-walking-robot-simulation](https://github.com/SRV1030/leetcode/tree/master/0906-walking-robot-simulation) |
 | [0980-find-the-shortest-superstring](https://github.com/SRV1030/leetcode/tree/master/0980-find-the-shortest-superstring) |
 | [1325-path-with-maximum-probability](https://github.com/SRV1030/leetcode/tree/master/1325-path-with-maximum-probability) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/SRV1030/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -18,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/SRV1030/leetcode/tree/master/0001-two-sum) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SRV1030/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0906-walking-robot-simulation](https://github.com/SRV1030/leetcode/tree/master/0906-walking-robot-simulation) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/SRV1030/leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 ## Bit Manipulation
 |  |
@@ -97,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0906-walking-robot-simulation](https://github.com/SRV1030/leetcode/tree/master/0906-walking-robot-simulation) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/SRV1030/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/SRV1030/leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/SRV1030/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
