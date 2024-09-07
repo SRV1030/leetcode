@@ -24,18 +24,18 @@ public:
     bool preorder(ListNode* head,TreeNode* root){
         if(!head) return true;
         if(!root) return false;
-        bool check = false;
-        if(head->val==root->val)check = check || preorder(head->next,root->left) || preorder(head->next,root->right);
-        return check;
+        if(head->val==root->val){
+            if(preorder(head->next,root->left)) return true;
+            if(preorder(head->next,root->right)) return true;
+        }
+        return false;;
     }
     bool isSubPath(ListNode* head, TreeNode* root) {
         if(!head) return true;
         if(!root) return false;
-        bool result = preorder(head,root);
-        if(result) return true;
-        result |= isSubPath(head,root->left);
-        if(result) return true;
-        result |= isSubPath(head,root->right);
-        return result;
+        if(preorder(head,root)) return true;
+        if(isSubPath(head,root->left)) return true;
+        if(isSubPath(head,root->right)) return true;
+        return false;
     }
 };
