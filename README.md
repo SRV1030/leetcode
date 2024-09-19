@@ -114,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/SRV1030/leetcode/tree/master/0179-largest-number) |
+| [0241-different-ways-to-add-parentheses](https://github.com/SRV1030/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/SRV1030/leetcode/tree/master/0539-minimum-time-difference) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/SRV1030/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0980-find-the-shortest-superstring](https://github.com/SRV1030/leetcode/tree/master/0980-find-the-shortest-superstring) |
@@ -123,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/SRV1030/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0980-find-the-shortest-superstring](https://github.com/SRV1030/leetcode/tree/master/0980-find-the-shortest-superstring) |
 | [3518-maximum-multiplication-score](https://github.com/SRV1030/leetcode/tree/master/3518-maximum-multiplication-score) |
 ## Bitmask
@@ -151,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/SRV1030/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/SRV1030/leetcode/tree/master/0539-minimum-time-difference) |
 | [1276-closest-divisors](https://github.com/SRV1030/leetcode/tree/master/1276-closest-divisors) |
 | [2155-find-missing-observations](https://github.com/SRV1030/leetcode/tree/master/2155-find-missing-observations) |
@@ -181,4 +184,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/SRV1030/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Recursion
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/SRV1030/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
+## Memoization
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/SRV1030/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->
