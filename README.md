@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/SRV1030/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/SRV1030/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3518-maximum-multiplication-score](https://github.com/SRV1030/leetcode/tree/master/3518-maximum-multiplication-score) |
+| [3541-report-spam-message](https://github.com/SRV1030/leetcode/tree/master/3541-report-spam-message) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/SRV1030/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Hash Table
 |  |
@@ -40,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2755-extra-characters-in-a-string](https://github.com/SRV1030/leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/SRV1030/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/SRV1030/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3541-report-spam-message](https://github.com/SRV1030/leetcode/tree/master/3541-report-spam-message) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/SRV1030/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Bit Manipulation
 |  |
@@ -130,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/SRV1030/leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2755-extra-characters-in-a-string](https://github.com/SRV1030/leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/SRV1030/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3541-report-spam-message](https://github.com/SRV1030/leetcode/tree/master/3541-report-spam-message) |
 ## Dynamic Programming
 |  |
 | ------- |
