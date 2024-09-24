@@ -1,7 +1,7 @@
 class Solution {
 public:
     bool reportSpam(vector<string>& message, vector<string>& bannedWords) {
-        set<string>st(begin(bannedWords),end(bannedWords));
+        unordered_set<string>st(begin(bannedWords),end(bannedWords));
         int c=0;
         for(auto&i:message){
             if(st.count(i)) ++c;
