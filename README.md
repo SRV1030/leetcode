@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0179-largest-number](https://github.com/SRV1030/leetcode/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/SRV1030/leetcode/tree/master/0539-minimum-time-difference) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SRV1030/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0729-my-calendar-i](https://github.com/SRV1030/leetcode/tree/master/0729-my-calendar-i) |
 | [0906-walking-robot-simulation](https://github.com/SRV1030/leetcode/tree/master/0906-walking-robot-simulation) |
 | [0980-find-the-shortest-superstring](https://github.com/SRV1030/leetcode/tree/master/0980-find-the-shortest-superstring) |
 | [1325-path-with-maximum-probability](https://github.com/SRV1030/leetcode/tree/master/1325-path-with-maximum-probability) |
@@ -158,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 |  |
 | ------- |
+| [0729-my-calendar-i](https://github.com/SRV1030/leetcode/tree/master/0729-my-calendar-i) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/SRV1030/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Prefix Sum
 |  |
@@ -230,4 +232,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/SRV1030/leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/SRV1030/leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/SRV1030/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+## Design
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/SRV1030/leetcode/tree/master/0729-my-calendar-i) |
+## Segment Tree
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/SRV1030/leetcode/tree/master/0729-my-calendar-i) |
+## Ordered Set
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/SRV1030/leetcode/tree/master/0729-my-calendar-i) |
 <!---LeetCode Topics End-->
