@@ -2,14 +2,14 @@ class Solution {
 public:
     const int N = 1001;
     void fillS(vector<int>&pr){
-        vector<int>isPr(1001);
-        for(int i=3;i<1001;i+=2) isPr[i]=1;
+        vector<int>isPr(N);
+        for(int i=3;i<N;i+=2) isPr[i]=1;
         isPr[2]=1;
-        for(int i=3;i<1001;i++){
-            if(isPr[i]) for(int j=i*i;j<1001;j+=i)isPr[j]=0;
+        for(int i=3;i<N;i++){
+            if(isPr[i]) for(int j=i*i;j<N;j+=i)isPr[j]=0;
         }
         int lp = 2;
-        for(int i=2;i<1001;++i){
+        for(int i=2;i<N;++i){
             if(isPr[i]){
                 pr[i]=i;
                 lp=i;
