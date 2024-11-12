@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/SRV1030/leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/SRV1030/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/SRV1030/leetcode/tree/master/2155-find-missing-observations) |
+| [2179-most-beautiful-item-for-each-query](https://github.com/SRV1030/leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2411-spiral-matrix-iv](https://github.com/SRV1030/leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/SRV1030/leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/SRV1030/leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
@@ -103,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SRV1030/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1675-magnetic-force-between-two-balls](https://github.com/SRV1030/leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 | [1957-closest-room](https://github.com/SRV1030/leetcode/tree/master/1957-closest-room) |
+| [2179-most-beautiful-item-for-each-query](https://github.com/SRV1030/leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/SRV1030/leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/SRV1030/leetcode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Heap (Priority Queue)
@@ -219,6 +221,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1675-magnetic-force-between-two-balls](https://github.com/SRV1030/leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 | [1957-closest-room](https://github.com/SRV1030/leetcode/tree/master/1957-closest-room) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/SRV1030/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2179-most-beautiful-item-for-each-query](https://github.com/SRV1030/leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2716-prime-subtraction-operation](https://github.com/SRV1030/leetcode/tree/master/2716-prime-subtraction-operation) |
 ## Prefix Sum
 |  |
