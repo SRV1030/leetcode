@@ -10,12 +10,9 @@ public:
             mp[i[0]]=mx;
             st.insert(i[0]);
         }
-        for(auto&i:st)cout<<i<<" ";
-        cout<<"\n";
         vector<int> ans;
         for(auto&i:queries){
             auto it = st.lower_bound(i);
-            // cout<<i<<" "<<*it<<" "<<mp[*it]<<"\n";
             if(*it==i){
                 ans.push_back(mp[*it]);
                 continue;
