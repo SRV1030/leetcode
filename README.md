@@ -160,11 +160,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/SRV1030/leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1484-linked-list-in-binary-tree](https://github.com/SRV1030/leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [2035-count-sub-islands](https://github.com/SRV1030/leetcode/tree/master/2035-count-sub-islands) |
+| [2201-valid-arrangement-of-pairs](https://github.com/SRV1030/leetcode/tree/master/2201-valid-arrangement-of-pairs) |
 ## Graph
 |  |
 | ------- |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/SRV1030/leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1325-path-with-maximum-probability](https://github.com/SRV1030/leetcode/tree/master/1325-path-with-maximum-probability) |
+| [2201-valid-arrangement-of-pairs](https://github.com/SRV1030/leetcode/tree/master/2201-valid-arrangement-of-pairs) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/SRV1030/leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/SRV1030/leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2803-modify-graph-edge-weights](https://github.com/SRV1030/leetcode/tree/master/2803-modify-graph-edge-weights) |
@@ -397,4 +399,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/SRV1030/leetcode/tree/master/0493-reverse-pairs) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [2201-valid-arrangement-of-pairs](https://github.com/SRV1030/leetcode/tree/master/2201-valid-arrangement-of-pairs) |
 <!---LeetCode Topics End-->
