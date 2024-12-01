@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1325-path-with-maximum-probability](https://github.com/SRV1030/leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1372-check-if-it-is-a-good-array](https://github.com/SRV1030/leetcode/tree/master/1372-check-if-it-is-a-good-array) |
 | [1435-xor-queries-of-a-subarray](https://github.com/SRV1030/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/SRV1030/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1675-magnetic-force-between-two-balls](https://github.com/SRV1030/leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/SRV1030/leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1694-make-sum-divisible-by-p](https://github.com/SRV1030/leetcode/tree/master/1694-make-sum-divisible-by-p) |
@@ -69,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0906-walking-robot-simulation](https://github.com/SRV1030/leetcode/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/SRV1030/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/SRV1030/leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/SRV1030/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/SRV1030/leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1694-make-sum-divisible-by-p](https://github.com/SRV1030/leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/SRV1030/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -119,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0179-largest-number](https://github.com/SRV1030/leetcode/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/SRV1030/leetcode/tree/master/0539-minimum-time-difference) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SRV1030/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/SRV1030/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1675-magnetic-force-between-two-balls](https://github.com/SRV1030/leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 | [1957-closest-room](https://github.com/SRV1030/leetcode/tree/master/1957-closest-room) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/SRV1030/leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -259,6 +262,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0493-reverse-pairs](https://github.com/SRV1030/leetcode/tree/master/0493-reverse-pairs) |
 | [0729-my-calendar-i](https://github.com/SRV1030/leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/SRV1030/leetcode/tree/master/0731-my-calendar-ii) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/SRV1030/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1675-magnetic-force-between-two-balls](https://github.com/SRV1030/leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/SRV1030/leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1957-closest-room](https://github.com/SRV1030/leetcode/tree/master/1957-closest-room) |
@@ -367,6 +371,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/SRV1030/leetcode/tree/master/0567-permutation-in-string) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/SRV1030/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/SRV1030/leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1923-sentence-similarity-iii](https://github.com/SRV1030/leetcode/tree/master/1923-sentence-similarity-iii) |
 | [1972-rotating-the-box](https://github.com/SRV1030/leetcode/tree/master/1972-rotating-the-box) |
