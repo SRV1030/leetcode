@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SRV1030/leetcode/tree/master/0001-two-sum) |
+| [0031-next-permutation](https://github.com/SRV1030/leetcode/tree/master/0031-next-permutation) |
 | [0051-n-queens](https://github.com/SRV1030/leetcode/tree/master/0051-n-queens) |
 | [0073-set-matrix-zeroes](https://github.com/SRV1030/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/SRV1030/leetcode/tree/master/0118-pascals-triangle) |
@@ -377,6 +378,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/SRV1030/leetcode/tree/master/0031-next-permutation) |
 | [0567-permutation-in-string](https://github.com/SRV1030/leetcode/tree/master/0567-permutation-in-string) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/SRV1030/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/SRV1030/leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
