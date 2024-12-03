@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/SRV1030/leetcode/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/SRV1030/leetcode/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/SRV1030/leetcode/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/SRV1030/leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/SRV1030/leetcode/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/SRV1030/leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -206,6 +207,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/SRV1030/leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/SRV1030/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0787-sliding-puzzle](https://github.com/SRV1030/leetcode/tree/master/0787-sliding-puzzle) |
 | [1972-rotating-the-box](https://github.com/SRV1030/leetcode/tree/master/1972-rotating-the-box) |
@@ -298,6 +300,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/SRV1030/leetcode/tree/master/0048-rotate-image) |
 | [0241-different-ways-to-add-parentheses](https://github.com/SRV1030/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/SRV1030/leetcode/tree/master/0539-minimum-time-difference) |
 | [0670-maximum-swap](https://github.com/SRV1030/leetcode/tree/master/0670-maximum-swap) |
