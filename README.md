@@ -314,6 +314,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/SRV1030/leetcode/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/SRV1030/leetcode/tree/master/0050-powx-n) |
 | [0241-different-ways-to-add-parentheses](https://github.com/SRV1030/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/SRV1030/leetcode/tree/master/0539-minimum-time-difference) |
 | [0670-maximum-swap](https://github.com/SRV1030/leetcode/tree/master/0670-maximum-swap) |
@@ -355,6 +356,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/SRV1030/leetcode/tree/master/0050-powx-n) |
 | [0241-different-ways-to-add-parentheses](https://github.com/SRV1030/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 ## Memoization
 |  |
