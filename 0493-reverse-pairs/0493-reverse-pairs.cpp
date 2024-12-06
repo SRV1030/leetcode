@@ -14,28 +14,24 @@ public:
         
         return ;
     }
-
-    int countInv(vector<int> &arr,int s,int e){
-        int m = (s+e)/2,c=0;
-        int j=m+1;
+    int countInv(vector<int>&nums,int s,int e){
+        int m=(s+e)/2,j=m+1,c=0;
         for(int i=s;i<=m;++i){
-            while(j<=e && 1ll*arr[i]>1ll*2*arr[j])++j;
+            while(j<=e && 1ll*nums[i]>1ll*2*nums[j])++j;
             c+=j-(m+1);
         }
         return c;
     }
-
-    long long  mergeSort(vector<int> &arr,int s,int e){
+    int mergeSort(vector<int>&nums,int s,int e){
         if(s>=e) return 0;
-        int inv =0;
-        int m = (s+e)/2;
-        inv+=mergeSort(arr,s,m);
-        inv+=mergeSort(arr,m+1,e);
-        inv+= countInv(arr,s,e);
-        merge(arr,s,e);
+        int m=(s+e)/2,inv=0;
+        inv+=mergeSort(nums,s,m);
+        inv+=mergeSort(nums,m+1,e);
+        inv+=countInv(nums,s,e);
+        merge(nums,s,e);
         return inv;
     }
     int reversePairs(vector<int>& nums) {
-        return mergeSort(nums,0,nums.size()-1);
+        return mergeSort(nums,0,size(nums)-1);
     }
 };
