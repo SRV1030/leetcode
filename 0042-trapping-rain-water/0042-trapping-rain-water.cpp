@@ -9,7 +9,7 @@ public:
                 l++;
             }
             else{
-                if(h[r]<lmx)ans+=rmx-h[r];
+                if(h[r]<rmx)ans+=rmx-h[r];
                 else rmx=h[r];
                 r--;
             }
