@@ -98,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2868-continuous-subarrays](https://github.com/SRV1030/leetcode/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/SRV1030/leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/SRV1030/leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/SRV1030/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/SRV1030/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3427-special-array-ii](https://github.com/SRV1030/leetcode/tree/master/3427-special-array-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/SRV1030/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -355,6 +356,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/SRV1030/leetcode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3195-separate-black-and-white-balls](https://github.com/SRV1030/leetcode/tree/master/3195-separate-black-and-white-balls) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/SRV1030/leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/SRV1030/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/SRV1030/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3541-report-spam-message](https://github.com/SRV1030/leetcode/tree/master/3541-report-spam-message) |
 ## Dynamic Programming
@@ -521,16 +523,19 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/SRV1030/leetcode/tree/master/0214-shortest-palindrome) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/SRV1030/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## String Matching
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/SRV1030/leetcode/tree/master/0214-shortest-palindrome) |
 | [1524-string-matching-in-an-array](https://github.com/SRV1030/leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/SRV1030/leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/SRV1030/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Hash Function
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/SRV1030/leetcode/tree/master/0214-shortest-palindrome) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/SRV1030/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Trie
 |  |
 | ------- |
@@ -538,6 +543,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/SRV1030/leetcode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/SRV1030/leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/SRV1030/leetcode/tree/master/2755-extra-characters-in-a-string) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/SRV1030/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/SRV1030/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Design
 |  |
