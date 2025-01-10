@@ -247,6 +247,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/SRV1030/leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/SRV1030/leetcode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/SRV1030/leetcode/tree/master/0496-next-greater-element-i) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/SRV1030/leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -333,6 +334,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SRV1030/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SRV1030/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/SRV1030/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/SRV1030/leetcode/tree/master/0022-generate-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/SRV1030/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0179-largest-number](https://github.com/SRV1030/leetcode/tree/master/0179-largest-number) |
