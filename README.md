@@ -135,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/SRV1030/leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/SRV1030/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/SRV1030/leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1502-construct-k-palindrome-strings](https://github.com/SRV1030/leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1694-make-sum-divisible-by-p](https://github.com/SRV1030/leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/SRV1030/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/SRV1030/leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
@@ -175,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0780-max-chunks-to-make-sorted](https://github.com/SRV1030/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/SRV1030/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/SRV1030/leetcode/tree/master/1304-longest-happy-string) |
+| [1502-construct-k-palindrome-strings](https://github.com/SRV1030/leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1917-maximum-average-pass-ratio](https://github.com/SRV1030/leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2089-maximum-matrix-sum](https://github.com/SRV1030/leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/SRV1030/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -350,6 +352,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0980-find-the-shortest-superstring](https://github.com/SRV1030/leetcode/tree/master/0980-find-the-shortest-superstring) |
 | [1304-longest-happy-string](https://github.com/SRV1030/leetcode/tree/master/1304-longest-happy-string) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/SRV1030/leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1502-construct-k-palindrome-strings](https://github.com/SRV1030/leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/SRV1030/leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/SRV1030/leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/SRV1030/leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -515,6 +518,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0229-majority-element-ii](https://github.com/SRV1030/leetcode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/SRV1030/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/SRV1030/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1502-construct-k-palindrome-strings](https://github.com/SRV1030/leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/SRV1030/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2300-construct-string-with-repeat-limit](https://github.com/SRV1030/leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/SRV1030/leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
