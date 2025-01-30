@@ -122,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/SRV1030/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/SRV1030/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3632-button-with-longest-push-time](https://github.com/SRV1030/leetcode/tree/master/3632-button-with-longest-push-time) |
+| [3704-count-partitions-with-even-sum-difference](https://github.com/SRV1030/leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Hash Table
 |  |
 | ------- |
@@ -519,6 +520,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/SRV1030/leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/SRV1030/leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3427-special-array-ii](https://github.com/SRV1030/leetcode/tree/master/3427-special-array-ii) |
+| [3704-count-partitions-with-even-sum-difference](https://github.com/SRV1030/leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Math
 |  |
 | ------- |
@@ -538,6 +540,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/SRV1030/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/SRV1030/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/SRV1030/leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
+| [3704-count-partitions-with-even-sum-difference](https://github.com/SRV1030/leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Linked List
 |  |
 | ------- |
