@@ -10,7 +10,7 @@ public:
             pq.pop();
             long j=pq.top();
             pq.pop();
-            pq.push(min(i,j)*2+max(i,j));
+            pq.push(i*2+j);
         }
         return ops;
 
