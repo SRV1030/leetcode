@@ -1,6 +1,6 @@
 class Solution {
 public:
-    vector<int>vis,ans;
+    vector<int> ans,vis;
     bool dfs(int i){
         if(i==ans.size()) return true;
         if(ans[i]) return dfs(i+1);
