@@ -9,16 +9,16 @@ public:
         return true;
     }
     int solve(string s, int i, int j) {
-        if (i >= j)
-        if (isPal(s, i, j))
-            return dp[i][j]=0;
+        if (i >= j)   
         if (dp[i][j] != -1)
             return dp[i][j];
+        if (isPal(s, i, j))
+            return dp[i][j]=0;
         int mn = INT_MAX;
-        for (int k = i; k <= j; ++k) {
+        for (int k = i; k < j; ++k) {
             if (isPal(s, i, k)) {
                 int t = 1 + solve(s, k + 1, j);
-                if (t < mn)
+                if (mn>t)
                     mn = t;
             }
         }
