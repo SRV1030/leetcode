@@ -21,7 +21,7 @@ int BS(int index,vector<vector<int>>&events,int value)
 
 int helper(int i,vector<vector<int>>&events,int k, vector<vector<int>>&dp)
 {
-  if(i >= events.size() || k == 0 || i == -1) return 0;
+  if(i >= events.size() || k == 0) return 0;
   if(dp[i][k] != -1) return dp[i][k];
 
   int index = BS(i+1,events,events[i][1]);
