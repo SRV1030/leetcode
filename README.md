@@ -82,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1940-maximum-xor-for-each-query](https://github.com/SRV1030/leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [1957-closest-room](https://github.com/SRV1030/leetcode/tree/master/1957-closest-room) |
 | [1972-rotating-the-box](https://github.com/SRV1030/leetcode/tree/master/1972-rotating-the-box) |
+| [1989-minimum-xor-sum-of-two-arrays](https://github.com/SRV1030/leetcode/tree/master/1989-minimum-xor-sum-of-two-arrays) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/SRV1030/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/SRV1030/leetcode/tree/master/2035-count-sub-islands) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/SRV1030/leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
@@ -201,6 +202,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1786-count-the-number-of-consistent-strings](https://github.com/SRV1030/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/SRV1030/leetcode/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [1940-maximum-xor-for-each-query](https://github.com/SRV1030/leetcode/tree/master/1940-maximum-xor-for-each-query) |
+| [1989-minimum-xor-sum-of-two-arrays](https://github.com/SRV1030/leetcode/tree/master/1989-minimum-xor-sum-of-two-arrays) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/SRV1030/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/SRV1030/leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/SRV1030/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -516,6 +518,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/SRV1030/leetcode/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1680-count-all-possible-routes](https://github.com/SRV1030/leetcode/tree/master/1680-count-all-possible-routes) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/SRV1030/leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1989-minimum-xor-sum-of-two-arrays](https://github.com/SRV1030/leetcode/tree/master/1989-minimum-xor-sum-of-two-arrays) |
 | [2164-two-best-non-overlapping-events](https://github.com/SRV1030/leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2562-count-ways-to-build-good-strings](https://github.com/SRV1030/leetcode/tree/master/2562-count-ways-to-build-good-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/SRV1030/leetcode/tree/master/2755-extra-characters-in-a-string) |
@@ -525,6 +528,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0980-find-the-shortest-superstring](https://github.com/SRV1030/leetcode/tree/master/0980-find-the-shortest-superstring) |
 | [1531-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/SRV1030/leetcode/tree/master/1531-number-of-ways-to-wear-different-hats-to-each-other) |
+| [1989-minimum-xor-sum-of-two-arrays](https://github.com/SRV1030/leetcode/tree/master/1989-minimum-xor-sum-of-two-arrays) |
 ## Simulation
 |  |
 | ------- |
