@@ -469,6 +469,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0980-find-the-shortest-superstring](https://github.com/SRV1030/leetcode/tree/master/0980-find-the-shortest-superstring) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/SRV1030/leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/SRV1030/leetcode/tree/master/1160-letter-tile-possibilities) |
+| [1170-shortest-common-supersequence](https://github.com/SRV1030/leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1304-longest-happy-string](https://github.com/SRV1030/leetcode/tree/master/1304-longest-happy-string) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/SRV1030/leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1502-construct-k-palindrome-strings](https://github.com/SRV1030/leetcode/tree/master/1502-construct-k-palindrome-strings) |
@@ -526,6 +527,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1025-minimum-cost-for-tickets](https://github.com/SRV1030/leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1057-numbers-with-repeated-digits](https://github.com/SRV1030/leetcode/tree/master/1057-numbers-with-repeated-digits) |
 | [1063-best-sightseeing-pair](https://github.com/SRV1030/leetcode/tree/master/1063-best-sightseeing-pair) |
+| [1170-shortest-common-supersequence](https://github.com/SRV1030/leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1531-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/SRV1030/leetcode/tree/master/1531-number-of-ways-to-wear-different-hats-to-each-other) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/SRV1030/leetcode/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/SRV1030/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
