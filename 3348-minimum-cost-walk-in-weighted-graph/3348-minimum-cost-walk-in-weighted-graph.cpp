@@ -1,7 +1,7 @@
 class Solution {
 public:
     class DSU {
-        vector<int>mnW;
+        vector<int> mnW;
         vector<int> parent, height;
 
     public:
@@ -9,11 +9,9 @@ public:
             parent.resize(n);
             iota(parent.begin(), parent.end(), 0);
             height.resize(n, 1);
-            mnW.resize(n,-1);
+            mnW.resize(n, -1);
         }
-        void addCost(int root,int w){
-            mnW[root]&=w;
-        }
+        void addCost(int root, int w) { mnW[root] &= w; }
         int getmnW(int x) { return mnW[x]; }
         int find(int x) {
             if (x != parent[x])
@@ -49,7 +47,7 @@ public:
 
         for (auto& q : query) {
             int s1 = uf.find(q[0]), s2 = uf.find(q[1]);
-            cout<<s1<<" "<<s2<<"\n";
+            cout << s1 << " " << s2 << "\n";
             if (s1 == s2)
                 ans.push_back(uf.getmnW(s1));
             else
