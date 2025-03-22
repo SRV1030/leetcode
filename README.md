@@ -425,6 +425,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/SRV1030/leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/SRV1030/leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/SRV1030/leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [2793-count-the-number-of-complete-components](https://github.com/SRV1030/leetcode/tree/master/2793-count-the-number-of-complete-components) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/SRV1030/leetcode/tree/master/3058-maximum-number-of-k-divisible-components) |
 ## Graph
 |  |
@@ -442,6 +443,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/SRV1030/leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/SRV1030/leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/SRV1030/leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [2793-count-the-number-of-complete-components](https://github.com/SRV1030/leetcode/tree/master/2793-count-the-number-of-complete-components) |
 | [2803-modify-graph-edge-weights](https://github.com/SRV1030/leetcode/tree/master/2803-modify-graph-edge-weights) |
 | [3189-find-champion-ii](https://github.com/SRV1030/leetcode/tree/master/3189-find-champion-ii) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/SRV1030/leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
@@ -480,6 +482,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/SRV1030/leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/SRV1030/leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/SRV1030/leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [2793-count-the-number-of-complete-components](https://github.com/SRV1030/leetcode/tree/master/2793-count-the-number-of-complete-components) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/SRV1030/leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Union Find
 |  |
@@ -491,6 +494,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2035-count-sub-islands](https://github.com/SRV1030/leetcode/tree/master/2035-count-sub-islands) |
 | [2125-gcd-sort-of-an-array](https://github.com/SRV1030/leetcode/tree/master/2125-gcd-sort-of-an-array) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/SRV1030/leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [2793-count-the-number-of-complete-components](https://github.com/SRV1030/leetcode/tree/master/2793-count-the-number-of-complete-components) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/SRV1030/leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/SRV1030/leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Matrix
