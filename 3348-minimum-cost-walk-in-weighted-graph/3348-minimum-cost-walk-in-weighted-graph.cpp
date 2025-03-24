@@ -47,7 +47,6 @@ public:
 
         for (auto& q : query) {
             int s1 = uf.find(q[0]), s2 = uf.find(q[1]);
-            cout << s1 << " " << s2 << "\n";
             if (s1 == s2)
                 ans.push_back(uf.getmnW(s1));
             else
