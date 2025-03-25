@@ -755,6 +755,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/SRV1030/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/SRV1030/leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/SRV1030/leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
+| [3817-maximum-containers-on-a-ship](https://github.com/SRV1030/leetcode/tree/master/3817-maximum-containers-on-a-ship) |
 ## Linked List
 |  |
 | ------- |
