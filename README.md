@@ -167,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3643-zero-array-transformation-ii](https://github.com/SRV1030/leetcode/tree/master/3643-zero-array-transformation-ii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/SRV1030/leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/SRV1030/leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
+| [3809-properties-graph](https://github.com/SRV1030/leetcode/tree/master/3809-properties-graph) |
 ## Hash Table
 |  |
 | ------- |
@@ -228,6 +229,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3541-report-spam-message](https://github.com/SRV1030/leetcode/tree/master/3541-report-spam-message) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/SRV1030/leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/SRV1030/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3809-properties-graph](https://github.com/SRV1030/leetcode/tree/master/3809-properties-graph) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -431,6 +433,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/SRV1030/leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/SRV1030/leetcode/tree/master/2793-count-the-number-of-complete-components) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/SRV1030/leetcode/tree/master/3058-maximum-number-of-k-divisible-components) |
+| [3809-properties-graph](https://github.com/SRV1030/leetcode/tree/master/3809-properties-graph) |
 ## Graph
 |  |
 | ------- |
@@ -453,6 +456,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3189-find-champion-ii](https://github.com/SRV1030/leetcode/tree/master/3189-find-champion-ii) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/SRV1030/leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/SRV1030/leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
+| [3809-properties-graph](https://github.com/SRV1030/leetcode/tree/master/3809-properties-graph) |
 ## Shortest Path
 |  |
 | ------- |
@@ -490,6 +494,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/SRV1030/leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/SRV1030/leetcode/tree/master/2793-count-the-number-of-complete-components) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/SRV1030/leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
+| [3809-properties-graph](https://github.com/SRV1030/leetcode/tree/master/3809-properties-graph) |
 ## Union Find
 |  |
 | ------- |
@@ -503,6 +508,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2793-count-the-number-of-complete-components](https://github.com/SRV1030/leetcode/tree/master/2793-count-the-number-of-complete-components) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/SRV1030/leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/SRV1030/leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+| [3809-properties-graph](https://github.com/SRV1030/leetcode/tree/master/3809-properties-graph) |
 ## Matrix
 |  |
 | ------- |
