@@ -169,6 +169,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/SRV1030/leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/SRV1030/leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/SRV1030/leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
+| [3797-design-spreadsheet](https://github.com/SRV1030/leetcode/tree/master/3797-design-spreadsheet) |
 | [3799-unique-3-digit-even-numbers](https://github.com/SRV1030/leetcode/tree/master/3799-unique-3-digit-even-numbers) |
 | [3809-properties-graph](https://github.com/SRV1030/leetcode/tree/master/3809-properties-graph) |
 ## Hash Table
@@ -232,6 +233,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3541-report-spam-message](https://github.com/SRV1030/leetcode/tree/master/3541-report-spam-message) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/SRV1030/leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/SRV1030/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3797-design-spreadsheet](https://github.com/SRV1030/leetcode/tree/master/3797-design-spreadsheet) |
 | [3799-unique-3-digit-even-numbers](https://github.com/SRV1030/leetcode/tree/master/3799-unique-3-digit-even-numbers) |
 | [3809-properties-graph](https://github.com/SRV1030/leetcode/tree/master/3809-properties-graph) |
 ## Bit Manipulation
@@ -542,6 +544,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/SRV1030/leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/SRV1030/leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/SRV1030/leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3797-design-spreadsheet](https://github.com/SRV1030/leetcode/tree/master/3797-design-spreadsheet) |
 ## String
 |  |
 | ------- |
@@ -607,6 +610,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3455-minimum-length-of-string-after-operations](https://github.com/SRV1030/leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3541-report-spam-message](https://github.com/SRV1030/leetcode/tree/master/3541-report-spam-message) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/SRV1030/leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3797-design-spreadsheet](https://github.com/SRV1030/leetcode/tree/master/3797-design-spreadsheet) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -898,6 +902,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/SRV1030/leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/SRV1030/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [2434-design-a-number-container-system](https://github.com/SRV1030/leetcode/tree/master/2434-design-a-number-container-system) |
+| [3797-design-spreadsheet](https://github.com/SRV1030/leetcode/tree/master/3797-design-spreadsheet) |
 ## Segment Tree
 |  |
 | ------- |
