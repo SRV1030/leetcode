@@ -18,7 +18,9 @@ public:
         Node* root;
         int mp[100002] = {};
         set<int, greater<int>> st;
-        Trie() { root = new Node(); }
+        Trie() { 
+            root = new Node();
+        }
         int getPrefix() { return !st.size() ? 0 : *st.begin(); }
         void insert(string s, int k) {
             Node* cur = root;
