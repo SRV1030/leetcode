@@ -177,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3643-zero-array-transformation-ii](https://github.com/SRV1030/leetcode/tree/master/3643-zero-array-transformation-ii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/SRV1030/leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/SRV1030/leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
+| [3765-minimum-cost-to-divide-array-into-subarrays](https://github.com/SRV1030/leetcode/tree/master/3765-minimum-cost-to-divide-array-into-subarrays) |
 | [3784-longest-common-prefix-of-k-strings-after-removal](https://github.com/SRV1030/leetcode/tree/master/3784-longest-common-prefix-of-k-strings-after-removal) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/SRV1030/leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3797-design-spreadsheet](https://github.com/SRV1030/leetcode/tree/master/3797-design-spreadsheet) |
@@ -708,6 +709,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2562-count-ways-to-build-good-strings](https://github.com/SRV1030/leetcode/tree/master/2562-count-ways-to-build-good-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/SRV1030/leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [3518-maximum-multiplication-score](https://github.com/SRV1030/leetcode/tree/master/3518-maximum-multiplication-score) |
+| [3765-minimum-cost-to-divide-array-into-subarrays](https://github.com/SRV1030/leetcode/tree/master/3765-minimum-cost-to-divide-array-into-subarrays) |
 | [3808-longest-palindrome-after-substring-concatenation-ii](https://github.com/SRV1030/leetcode/tree/master/3808-longest-palindrome-after-substring-concatenation-ii) |
 ## Bitmask
 |  |
@@ -795,6 +797,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/SRV1030/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3643-zero-array-transformation-ii](https://github.com/SRV1030/leetcode/tree/master/3643-zero-array-transformation-ii) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/SRV1030/leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
+| [3765-minimum-cost-to-divide-array-into-subarrays](https://github.com/SRV1030/leetcode/tree/master/3765-minimum-cost-to-divide-array-into-subarrays) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/SRV1030/leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Math
 |  |
