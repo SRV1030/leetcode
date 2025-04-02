@@ -661,6 +661,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3784-longest-common-prefix-of-k-strings-after-removal](https://github.com/SRV1030/leetcode/tree/master/3784-longest-common-prefix-of-k-strings-after-removal) |
 | [3797-design-spreadsheet](https://github.com/SRV1030/leetcode/tree/master/3797-design-spreadsheet) |
 | [3808-longest-palindrome-after-substring-concatenation-ii](https://github.com/SRV1030/leetcode/tree/master/3808-longest-palindrome-after-substring-concatenation-ii) |
+| [3811-reverse-degree-of-a-string](https://github.com/SRV1030/leetcode/tree/master/3811-reverse-degree-of-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -735,6 +736,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3447-clear-digits](https://github.com/SRV1030/leetcode/tree/master/3447-clear-digits) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/SRV1030/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/SRV1030/leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
+| [3811-reverse-degree-of-a-string](https://github.com/SRV1030/leetcode/tree/master/3811-reverse-degree-of-a-string) |
 ## Binary Search
 |  |
 | ------- |
