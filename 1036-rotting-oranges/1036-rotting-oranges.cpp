@@ -2,14 +2,17 @@ class Solution {
 public:
     int orangesRotting(vector<vector<int>>& grid) {
         queue<vector<int>> rottenQueue;
-        int timeLapsed = -1;
+        int timeLapsed = -1,rottenCount = 0, orangesCount = 0;
         vector<vector<int>> directions = {{0, 1}, {0, -1}, {1, 0}, {-1, 0}};
         for (int row = 0; row < grid.size(); row++)
             for (int column = 0; column < grid[0].size(); column++)
-                if (grid[row][column] == 2)
-                    rottenQueue.push({row, column});
+                if (grid[row][column]){
+                    orangesCount++;
+                    if (grid[row][column]==2)rottenQueue.push({row, column});
+                }
         while (!rottenQueue.empty()) {
             int rottenQueueSize = rottenQueue.size();
+            rottenCount+=rottenQueueSize;
             while (rottenQueueSize--) {
                 vector<int> rottenOrange = rottenQueue.front();
                 rottenQueue.pop();
@@ -26,10 +29,6 @@ public:
             }
             timeLapsed++;
         }
-        for (int row = 0; row < grid.size(); row++)
-            for (int column = 0; column < grid[0].size(); column++)
-                if (grid[row][column] == 1)
-                    return -1;
-        return max(0,timeLapsed);
+        return rottenCount==orangesCount? max(0,timeLapsed):-1;
     }
 };
