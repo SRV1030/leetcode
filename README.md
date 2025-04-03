@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0179-largest-number](https://github.com/SRV1030/leetcode/tree/master/0179-largest-number) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/SRV1030/leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/SRV1030/leetcode/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/SRV1030/leetcode/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/SRV1030/leetcode/tree/master/0212-word-search-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SRV1030/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/SRV1030/leetcode/tree/master/0229-majority-element-ii) |
@@ -458,6 +459,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0133-clone-graph](https://github.com/SRV1030/leetcode/tree/master/0133-clone-graph) |
 | [0144-binary-tree-preorder-traversal](https://github.com/SRV1030/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/SRV1030/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/SRV1030/leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/SRV1030/leetcode/tree/master/0207-course-schedule) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/SRV1030/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/SRV1030/leetcode/tree/master/0386-lexicographical-numbers) |
@@ -525,6 +527,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/SRV1030/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/SRV1030/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0133-clone-graph](https://github.com/SRV1030/leetcode/tree/master/0133-clone-graph) |
+| [0200-number-of-islands](https://github.com/SRV1030/leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/SRV1030/leetcode/tree/master/0207-course-schedule) |
 | [0322-coin-change](https://github.com/SRV1030/leetcode/tree/master/0322-coin-change) |
 | [0407-trapping-rain-water-ii](https://github.com/SRV1030/leetcode/tree/master/0407-trapping-rain-water-ii) |
@@ -553,6 +556,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/SRV1030/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/SRV1030/leetcode/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/SRV1030/leetcode/tree/master/0684-redundant-connection) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/SRV1030/leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/SRV1030/leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
@@ -572,6 +576,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0064-minimum-path-sum](https://github.com/SRV1030/leetcode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/SRV1030/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/SRV1030/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/SRV1030/leetcode/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/SRV1030/leetcode/tree/master/0212-word-search-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/SRV1030/leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0787-sliding-puzzle](https://github.com/SRV1030/leetcode/tree/master/0787-sliding-puzzle) |
