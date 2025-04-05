@@ -100,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1957-closest-room](https://github.com/SRV1030/leetcode/tree/master/1957-closest-room) |
 | [1972-rotating-the-box](https://github.com/SRV1030/leetcode/tree/master/1972-rotating-the-box) |
 | [1989-minimum-xor-sum-of-two-arrays](https://github.com/SRV1030/leetcode/tree/master/1989-minimum-xor-sum-of-two-arrays) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/SRV1030/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/SRV1030/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/SRV1030/leetcode/tree/master/2035-count-sub-islands) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/SRV1030/leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
@@ -269,6 +270,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/SRV1030/leetcode/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [1940-maximum-xor-for-each-query](https://github.com/SRV1030/leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [1989-minimum-xor-sum-of-two-arrays](https://github.com/SRV1030/leetcode/tree/master/1989-minimum-xor-sum-of-two-arrays) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/SRV1030/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/SRV1030/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2308-divide-array-into-equal-pairs](https://github.com/SRV1030/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/SRV1030/leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
@@ -836,6 +838,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1477-product-of-the-last-k-numbers](https://github.com/SRV1030/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/SRV1030/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/SRV1030/leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/SRV1030/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2125-gcd-sort-of-an-array](https://github.com/SRV1030/leetcode/tree/master/2125-gcd-sort-of-an-array) |
 | [2155-find-missing-observations](https://github.com/SRV1030/leetcode/tree/master/2155-find-missing-observations) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/SRV1030/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -1064,6 +1067,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1160-letter-tile-possibilities](https://github.com/SRV1030/leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/SRV1030/leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/SRV1030/leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/SRV1030/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2107-find-unique-binary-string](https://github.com/SRV1030/leetcode/tree/master/2107-find-unique-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/SRV1030/leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/SRV1030/leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
@@ -1108,6 +1112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/SRV1030/leetcode/tree/master/0062-unique-paths) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/SRV1030/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Queue
 |  |
 | ------- |
@@ -1147,6 +1152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Enumeration
 |  |
 | ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/SRV1030/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3799-unique-3-digit-even-numbers](https://github.com/SRV1030/leetcode/tree/master/3799-unique-3-digit-even-numbers) |
 | [3805-maximize-active-section-with-trade-i](https://github.com/SRV1030/leetcode/tree/master/3805-maximize-active-section-with-trade-i) |
 ## Binary Search Tree
