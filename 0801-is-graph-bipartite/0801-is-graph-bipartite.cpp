@@ -6,7 +6,7 @@ public:
         bool ans = true;
         for(auto&nb:graph[i]){
             if(!vis[nb]) ans&=dfs(nb,i,graph,3-color);
-            else if(nb!=parent && vis[nb]==vis[i]) return false; 
+            else if(vis[nb]==vis[i]) return false; 
         }
         return ans;
     }
