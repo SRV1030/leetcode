@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/SRV1030/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/SRV1030/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0407-trapping-rain-water-ii](https://github.com/SRV1030/leetcode/tree/master/0407-trapping-rain-water-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/SRV1030/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/SRV1030/leetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/SRV1030/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/SRV1030/leetcode/tree/master/0493-reverse-pairs) |
@@ -706,6 +707,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0241-different-ways-to-add-parentheses](https://github.com/SRV1030/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0322-coin-change](https://github.com/SRV1030/leetcode/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/SRV1030/leetcode/tree/master/0368-largest-divisible-subset) |
+| [0416-partition-equal-subset-sum](https://github.com/SRV1030/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/SRV1030/leetcode/tree/master/0494-target-sum) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/SRV1030/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/SRV1030/leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
