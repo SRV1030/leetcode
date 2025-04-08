@@ -12,19 +12,18 @@ public:
         }
     }
     int romanToInt(string s) {
-        int res=0,n=s.length();
-        for(int i=0;i<n;++i){
-            int v1=getVal(s[i]);
-            if(i+1<n){
-                int v2=getVal(s[i+1]);
-                if(v1>=v2)res+=v1;
-                else {
-                    res+=v2-v1;
-                    i++;
+        int intVal = 0;
+        for(int ind = 0 ;ind<s.size();++ind){
+            int currentVal = getVal(s[ind]);
+            if(ind+1<s.size()){
+                int nextVal = getVal(s[ind+1]);
+                if(nextVal>currentVal){
+                    currentVal=nextVal-currentVal;
+                    ++ind;
                 }
             }
-            else res+=v1;
+            intVal+=currentVal;
         }
-        return res;
+        return intVal;
     }
 };
