@@ -64,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0787-sliding-puzzle](https://github.com/SRV1030/leetcode/tree/master/0787-sliding-puzzle) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/SRV1030/leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0906-walking-robot-simulation](https://github.com/SRV1030/leetcode/tree/master/0906-walking-robot-simulation) |
+| [0912-random-pick-with-weight](https://github.com/SRV1030/leetcode/tree/master/0912-random-pick-with-weight) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/SRV1030/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/SRV1030/leetcode/tree/master/0952-word-subsets) |
 | [0967-minimum-falling-path-sum](https://github.com/SRV1030/leetcode/tree/master/0967-minimum-falling-path-sum) |
@@ -802,6 +803,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0540-single-element-in-a-sorted-array](https://github.com/SRV1030/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0729-my-calendar-i](https://github.com/SRV1030/leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/SRV1030/leetcode/tree/master/0731-my-calendar-ii) |
+| [0912-random-pick-with-weight](https://github.com/SRV1030/leetcode/tree/master/0912-random-pick-with-weight) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/SRV1030/leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/SRV1030/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/SRV1030/leetcode/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -829,6 +831,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0731-my-calendar-ii](https://github.com/SRV1030/leetcode/tree/master/0731-my-calendar-ii) |
+| [0912-random-pick-with-weight](https://github.com/SRV1030/leetcode/tree/master/0912-random-pick-with-weight) |
 | [1435-xor-queries-of-a-subarray](https://github.com/SRV1030/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/SRV1030/leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1477-product-of-the-last-k-numbers](https://github.com/SRV1030/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
@@ -864,6 +867,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0539-minimum-time-difference](https://github.com/SRV1030/leetcode/tree/master/0539-minimum-time-difference) |
 | [0587-erect-the-fence](https://github.com/SRV1030/leetcode/tree/master/0587-erect-the-fence) |
 | [0670-maximum-swap](https://github.com/SRV1030/leetcode/tree/master/0670-maximum-swap) |
+| [0912-random-pick-with-weight](https://github.com/SRV1030/leetcode/tree/master/0912-random-pick-with-weight) |
 | [1057-numbers-with-repeated-digits](https://github.com/SRV1030/leetcode/tree/master/1057-numbers-with-repeated-digits) |
 | [1276-closest-divisors](https://github.com/SRV1030/leetcode/tree/master/1276-closest-divisors) |
 | [1372-check-if-it-is-a-good-array](https://github.com/SRV1030/leetcode/tree/master/1372-check-if-it-is-a-good-array) |
@@ -1197,4 +1201,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SRV1030/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/SRV1030/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
+## Randomized
+|  |
+| ------- |
+| [0912-random-pick-with-weight](https://github.com/SRV1030/leetcode/tree/master/0912-random-pick-with-weight) |
 <!---LeetCode Topics End-->
