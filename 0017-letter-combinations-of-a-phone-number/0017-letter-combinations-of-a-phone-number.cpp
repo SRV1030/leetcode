@@ -1,23 +1,28 @@
 class Solution {
-public:unordered_map<int,string>mp;
-    vector<string>res;
-    void util(string d,int ind,string t=""){
-        if(d.length()==ind) res.push_back(t);
-        else{
-            for(char i:mp[d[ind]]) util(d,ind+1,t+i);
+public:
+    vector<vector<char>> numToChar = {
+        {},
+        {},
+        {'a','b','c'},
+        {'d','e','f'},
+        {'g','h','i'},
+        {'j','k','l'},
+        {'m','n','o'},
+        {'p','q','r','s'},
+        {'t','u','v'},
+        {'w','x','y','z'}
+    };
+    vector<string> allCombinations;
+    void generateCombinations(string digits,string currentPattern,int index){
+        if(index == digits.size()){
+            allCombinations.push_back(currentPattern);
+            return;
         }
+        for(auto&character:numToChar[digits[index]-'0']) generateCombinations(digits,currentPattern+character,index+1);
     }
     vector<string> letterCombinations(string digits) {
-        if(digits=="")return{};
-        mp['2']="abc";
-        mp['3']="def";
-        mp['4']="ghi";
-        mp['5']="jkl";
-        mp['6']="mno";
-        mp['7']="pqrs";
-        mp['8']="tuv";
-        mp['9']="wxyz";
-        util(digits,0);
-        return res;        
+        if(digits.size() == 0) return {};
+        generateCombinations(digits,"",0);
+        return allCombinations;
     }
 };
