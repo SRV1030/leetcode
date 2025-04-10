@@ -18,13 +18,13 @@ public:
         if (num<=99) return tens[num/10]+(num%10?" "+ones[num%10]:"");
         return ones[num/100]+" "+HUNDRED+(num%100?" "+postThousandString(num%100):"");
     }
-    string preThousandString(int num, int c) {
+    string preThousandString(int num, int comma) {
         if (num == 0)
             return "";
-        string prefix = preThousandString(num / 1000, c + 1);
+        string prefix = preThousandString(num / 1000, comma + 1);
         int remainder = num % 1000;
         if(remainder){
-            prefix = prefix + (prefix.empty()?"":" ") + postThousandString(remainder) + ((c<=1)?"":" "+postThousands[c]);
+            prefix = prefix + (prefix.empty()?"":" ") + postThousandString(remainder) + ((comma<=1)?"":" "+postThousands[comma]);
         } 
         return prefix; 
     }
