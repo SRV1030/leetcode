@@ -1,35 +1,36 @@
 class Solution {
 public:
-    vector<string> things = {"", "", "Thousand", "Million", "Billion"};
-    vector<string> ones = {"", "One", "Two", "Three", "Four", "Five", "Six", "Seven", "Eight", "Nine"}; 
-    vector<string> tens = {"", "Ten", "Twenty", "Thirty", "Forty", "Fifty", "Sixty", "Seventy", "Eighty", "Ninety"};
-    vector<string> specials = {"Ten", "Eleven", "Twelve", "Thirteen", "Fourteen", "Fifteen", "Sixteen", "Seventeen", "Eighteen", "Nineteen"};
-  
+    vector<string> postThousands = {"", "", "Thousand", "Million", "Billion"};
+    vector<string> ones = {"",     "One", "Two",   "Three", "Four",
+                           "Five", "Six", "Seven", "Eight", "Nine"};
+    vector<string> specials = {"Ten",      "Eleven",  "Twelve",  "Thirteen",
+                               "Fourteen", "Fifteen", "Sixteen", "Seventeen",
+                               "Eighteen", "Nineteen"};
+    vector<string> tens = {"","Ten",   "Twenty",  "Thirty", "Forty",
+                           "Fifty", "Sixty", "Seventy", "Eighty", "Ninety"};
+
     const string HUNDRED = "Hundred";
-  
-    string small(int no) {
-      if(no >= 1 && no <= 9) return ones[no];
-      if(no >= 10 && no <= 19) return specials[no%10]; 
-      if(no <= 99) {
-        int d = no / 10;
-        return tens[d] + (no % 10 ? (" " + small(no%10)) : "");
-      }
-      int d = no / 100;
-      return ones[d] + " " + HUNDRED + (no % 100 ? (" " + small(no%100)) : "");
+
+    string postThousandString(int num){
+        if(!num) return "";
+        if(num>=1 && num<=9) return ones[num];
+        if(num>=10 && num<=19) return specials[num%10];
+        if (num<=99) return tens[num/10]+(num%10?" "+ones[num%10]:"");
+        return ones[num/100]+" "+HUNDRED+(num%100?" "+postThousandString(num%100):"");
     }
-  
-    string big(int no, int c) {
-      if(no == 0) return "";
-      string ans = big(no/1000, c+1);
-      int rem = no % 1000;
-      if(rem != 0) {
-        ans += (!ans.empty() ? " " :"" ) + small(rem) + (c == 0 || c == 1 ? "" : " " ) + things[c];
-      }
-      return ans;
+    string preThousandString(int num, int c) {
+        if (num == 0)
+            return "";
+        string prefix = preThousandString(num / 1000, c + 1);
+        int remainder = num % 1000;
+        if(remainder){
+            prefix = prefix + (prefix.empty()?"":" ") + postThousandString(remainder) + ((c<=1)?"":" "+postThousands[c]);
+        } 
+        return prefix; 
     }
-  
     string numberToWords(int num) {
-      if(num == 0) return "Zero";
-      return big(num, 1);
+        if (num == 0)
+            return "Zero";
+        return preThousandString(num, 1);
     }
 };
