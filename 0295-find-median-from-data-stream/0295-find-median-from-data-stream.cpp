@@ -18,7 +18,7 @@ public:
             }
             else{
                 maxHeap.push(num);
-                if(maxHeap.size()> 1 + minHeap.size()){
+                if(maxHeap.size() > 1 + minHeap.size()){
                     minHeap.push(maxHeap.top());
                     maxHeap.pop();
                 }
