@@ -18,7 +18,7 @@ public:
             }
             else{
                 maxHeap.push(num);
-                if(maxHeap.size() > 1 + minHeap.size()){
+                if(maxHeap.size()>1+minHeap.size()){
                     minHeap.push(maxHeap.top());
                     maxHeap.pop();
                 }
@@ -29,7 +29,7 @@ public:
     double findMedian() {
         int total = maxHeap.size() + minHeap.size();
         if(total%2) return maxHeap.top();
-        else return  (maxHeap.top() + minHeap.top())/2.0;
+        return (maxHeap.top() + minHeap.top())/2.0;
     }
 };
 
