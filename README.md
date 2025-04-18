@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/SRV1030/leetcode/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/SRV1030/leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/SRV1030/leetcode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/SRV1030/leetcode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/SRV1030/leetcode/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/SRV1030/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/SRV1030/leetcode/tree/master/0064-minimum-path-sum) |
@@ -636,6 +637,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/SRV1030/leetcode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/SRV1030/leetcode/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/SRV1030/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/SRV1030/leetcode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/SRV1030/leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -816,6 +818,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/SRV1030/leetcode/tree/master/0043-multiply-strings) |
+| [0054-spiral-matrix](https://github.com/SRV1030/leetcode/tree/master/0054-spiral-matrix) |
 | [0906-walking-robot-simulation](https://github.com/SRV1030/leetcode/tree/master/0906-walking-robot-simulation) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/SRV1030/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/SRV1030/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
