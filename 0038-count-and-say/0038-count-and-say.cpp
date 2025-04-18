@@ -1,19 +1,22 @@
 class Solution {
 public:
     string countAndSay(int n) {
-        if(n==1) return "1";
-        string prevSequence = countAndSay(n-1),current = "";
-        int c=1;
-        for(int i=0;i<prevSequence.size()-1;i++){
-            if(prevSequence[i]==prevSequence[i+1]) c++;
-            else{
-                current+=to_string(c);
-                current.push_back(prevSequence[i]);
-                c=1;
+        string sequence = "1";
+        for(int j=1;j<n;j++){
+            string nextSequence = "";
+            int c=1;
+            for(int i=0;i<sequence.size()-1;i++){
+                if(sequence[i]==sequence[i+1]) c++;
+                else{
+                    nextSequence+=to_string(c);
+                    nextSequence.push_back(sequence[i]);
+                    c=1;
+                }
             }
+            nextSequence+=to_string(c);
+            nextSequence.push_back(sequence.back());
+            sequence = nextSequence;
         }
-        current+=to_string(c);
-        current.push_back(prevSequence.back());
-        return current;
+        return sequence;
     }
 };
