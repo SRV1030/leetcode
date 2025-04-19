@@ -563,6 +563,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1442-number-of-operations-to-make-network-connected](https://github.com/SRV1030/leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/SRV1030/leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/SRV1030/leetcode/tree/master/1558-course-schedule-iv) |
+| [1738-maximal-network-rank](https://github.com/SRV1030/leetcode/tree/master/1738-maximal-network-rank) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/SRV1030/leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2201-valid-arrangement-of-pairs](https://github.com/SRV1030/leetcode/tree/master/2201-valid-arrangement-of-pairs) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/SRV1030/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
