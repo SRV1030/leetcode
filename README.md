@@ -67,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/SRV1030/leetcode/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/SRV1030/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/SRV1030/leetcode/tree/master/0787-sliding-puzzle) |
+| [0797-rabbits-in-forest](https://github.com/SRV1030/leetcode/tree/master/0797-rabbits-in-forest) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/SRV1030/leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0906-walking-robot-simulation](https://github.com/SRV1030/leetcode/tree/master/0906-walking-robot-simulation) |
 | [0912-random-pick-with-weight](https://github.com/SRV1030/leetcode/tree/master/0912-random-pick-with-weight) |
@@ -238,6 +239,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/SRV1030/leetcode/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SRV1030/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0768-partition-labels](https://github.com/SRV1030/leetcode/tree/master/0768-partition-labels) |
+| [0797-rabbits-in-forest](https://github.com/SRV1030/leetcode/tree/master/0797-rabbits-in-forest) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/SRV1030/leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0906-walking-robot-simulation](https://github.com/SRV1030/leetcode/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/SRV1030/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -326,6 +328,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0768-partition-labels](https://github.com/SRV1030/leetcode/tree/master/0768-partition-labels) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/SRV1030/leetcode/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/SRV1030/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
+| [0797-rabbits-in-forest](https://github.com/SRV1030/leetcode/tree/master/0797-rabbits-in-forest) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/SRV1030/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/SRV1030/leetcode/tree/master/1304-longest-happy-string) |
 | [1502-construct-k-palindrome-strings](https://github.com/SRV1030/leetcode/tree/master/1502-construct-k-palindrome-strings) |
@@ -937,6 +940,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0556-next-greater-element-iii](https://github.com/SRV1030/leetcode/tree/master/0556-next-greater-element-iii) |
 | [0587-erect-the-fence](https://github.com/SRV1030/leetcode/tree/master/0587-erect-the-fence) |
 | [0670-maximum-swap](https://github.com/SRV1030/leetcode/tree/master/0670-maximum-swap) |
+| [0797-rabbits-in-forest](https://github.com/SRV1030/leetcode/tree/master/0797-rabbits-in-forest) |
 | [0912-random-pick-with-weight](https://github.com/SRV1030/leetcode/tree/master/0912-random-pick-with-weight) |
 | [1057-numbers-with-repeated-digits](https://github.com/SRV1030/leetcode/tree/master/1057-numbers-with-repeated-digits) |
 | [1276-closest-divisors](https://github.com/SRV1030/leetcode/tree/master/1276-closest-divisors) |
