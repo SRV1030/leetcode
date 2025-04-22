@@ -932,6 +932,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0043-multiply-strings](https://github.com/SRV1030/leetcode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/SRV1030/leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/SRV1030/leetcode/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/SRV1030/leetcode/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/SRV1030/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/SRV1030/leetcode/tree/master/0070-climbing-stairs) |
 | [0241-different-ways-to-add-parentheses](https://github.com/SRV1030/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
@@ -1073,6 +1074,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0021-merge-two-sorted-lists](https://github.com/SRV1030/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/SRV1030/leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/SRV1030/leetcode/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/SRV1030/leetcode/tree/master/0060-permutation-sequence) |
 | [0206-reverse-linked-list](https://github.com/SRV1030/leetcode/tree/master/0206-reverse-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/SRV1030/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/SRV1030/leetcode/tree/master/0273-integer-to-english-words) |
