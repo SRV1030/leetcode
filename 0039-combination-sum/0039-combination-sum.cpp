@@ -1,19 +1,25 @@
 class Solution {
 public:
-    vector<vector<int>> ans;
-    void solve(vector<int>& cd, int tg,int i,vector<int>t){
-        if(tg==0){
-            ans.push_back(t);
+    vector<vector<int>> validCombinations;
+    void generateValidCombinations(vector<int>& candidates, int target,
+                                   vector<int> subset, int index = 0,
+                                   int currentSum = 0) {
+        if (index >= candidates.size() || currentSum > target)
+            return;
+        if (currentSum == target) {
+            validCombinations.push_back(subset);
             return;
         }
-        if(tg<0 || i==size(cd)) return;
-        solve(cd,tg,i+1,t);
-        t.push_back(cd[i]);
-        solve(cd,tg-cd[i],i,t);
-        t.pop_back();
+        subset.push_back(candidates[index]);
+        generateValidCombinations(candidates, target, subset, index,
+                                  currentSum + candidates[index]);
+        subset.pop_back();
+        generateValidCombinations(candidates, target, subset, index + 1,
+                                  currentSum);
     }
     vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
-        solve(candidates,target,0,{});
-        return ans;
+        sort(candidates.begin(), candidates.end());
+        generateValidCombinations(candidates, target, {});
+        return validCombinations;
     }
 };
