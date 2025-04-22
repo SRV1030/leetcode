@@ -18,7 +18,6 @@ public:
                                   currentSum);
     }
     vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
-        sort(candidates.begin(), candidates.end());
         generateValidCombinations(candidates, target, {});
         return validCombinations;
     }
