@@ -255,6 +255,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/SRV1030/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/SRV1030/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/SRV1030/leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1500-count-largest-group](https://github.com/SRV1030/leetcode/tree/master/1500-count-largest-group) |
 | [1502-construct-k-palindrome-strings](https://github.com/SRV1030/leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/SRV1030/leetcode/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1694-make-sum-divisible-by-p](https://github.com/SRV1030/leetcode/tree/master/1694-make-sum-divisible-by-p) |
@@ -952,6 +953,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1372-check-if-it-is-a-good-array](https://github.com/SRV1030/leetcode/tree/master/1372-check-if-it-is-a-good-array) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/SRV1030/leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1477-product-of-the-last-k-numbers](https://github.com/SRV1030/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
+| [1500-count-largest-group](https://github.com/SRV1030/leetcode/tree/master/1500-count-largest-group) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/SRV1030/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/SRV1030/leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/SRV1030/leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
