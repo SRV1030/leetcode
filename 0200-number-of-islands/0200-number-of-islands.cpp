@@ -1,22 +1,22 @@
 class Solution {
 public:
-    vector<vector<int>>dir={{1,0},{-1,0},{0,1},{0,-1}};
-    int rowCount,columnCount;
-    void dfs(vector<vector<char>>& grid,int i,int j){
-        if(min(i,j)<0 || i>=rowCount || j>=columnCount || grid[i][j]!='1') return;
-        grid[i][j] = '0';
-        for(auto&d:dir)
-            dfs(grid,d[0]+i,d[1]+j);
+    int rowSize,colSize;
+    vector<vector<int>>directions= {{1,0},{0,1},{-1,0},{0,-1}};
+    void dfs(vector<vector<char>>& grid,int row,int col){
+        if(min(row,col)<0 || row>=rowSize || col>=colSize || grid[row][col]!='1') return;
+        grid[row][col] = '$';
+        for(auto&dir:directions)
+            dfs(grid,row+dir[0],col+dir[1]);
     }
     int numIslands(vector<vector<char>>& grid) {
-        rowCount = grid.size();
-        columnCount = grid[0].size();
+        rowSize = grid.size();
+        colSize = grid[0].size();
         int islands = 0;
-        for(int i=0;i<rowCount;i++)
-            for(int j=0;j<columnCount;j++)
-                if(grid[i][j]=='1'){
-                    dfs(grid,i,j);
-                    ++islands;
+        for(int row=0;row<rowSize;row++)
+            for(int col=0;col<colSize;col++)
+                if(grid[row][col]=='1'){
+                    dfs(grid,row,col);
+                    islands++;
                 }
         return islands;
     }
