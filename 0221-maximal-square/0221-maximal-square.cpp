@@ -6,7 +6,7 @@ public:
         int maxLength = 0;
         vector<vector<int>> dp(rowSize+1,vector<int>(colSize+1,0));
         for(int i=1;i<=rowSize;i++)
-            for(int j=1;j<=rowSize;j++){
+            for(int j=1;j<=colSize;j++){
                 if(matrix[i-1][j-1]=='1'){
                     dp[i][j] = 1 + min({dp[i-1][j],dp[i][j-1],dp[i-1][j-1]});
                     maxLength = max(maxLength,dp[i][j]);
