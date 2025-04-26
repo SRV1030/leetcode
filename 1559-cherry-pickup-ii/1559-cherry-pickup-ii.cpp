@@ -13,7 +13,7 @@ public:
         int value = j1 == j2 ? grid[i][j1] : grid[i][j1] + grid[i][j2];
         ans = value;
         if (i == r - 1)
-            return ans = value;
+            return ans;
 
         for (int x = -1; x <= 1; x++) {
             for (int y = -1; y <= 1; y++) {
