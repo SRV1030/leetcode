@@ -26,8 +26,9 @@ public:
 
     void deleteNode(Node* node) {
         Node* prev = node->prev;
-        prev->next = node->next;
-        node->next->prev = prev;
+        Node* next = node->next;
+        prev->next = next;
+        next->prev = prev;
         delete(node);
     }
 
