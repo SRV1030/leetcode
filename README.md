@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/SRV1030/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/SRV1030/leetcode/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/SRV1030/leetcode/tree/master/0463-island-perimeter) |
+| [0474-ones-and-zeroes](https://github.com/SRV1030/leetcode/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/SRV1030/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/SRV1030/leetcode/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/SRV1030/leetcode/tree/master/0494-target-sum) |
@@ -774,6 +775,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0273-integer-to-english-words](https://github.com/SRV1030/leetcode/tree/master/0273-integer-to-english-words) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/SRV1030/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0394-decode-string](https://github.com/SRV1030/leetcode/tree/master/0394-decode-string) |
+| [0474-ones-and-zeroes](https://github.com/SRV1030/leetcode/tree/master/0474-ones-and-zeroes) |
 | [0539-minimum-time-difference](https://github.com/SRV1030/leetcode/tree/master/0539-minimum-time-difference) |
 | [0556-next-greater-element-iii](https://github.com/SRV1030/leetcode/tree/master/0556-next-greater-element-iii) |
 | [0567-permutation-in-string](https://github.com/SRV1030/leetcode/tree/master/0567-permutation-in-string) |
@@ -870,6 +872,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0322-coin-change](https://github.com/SRV1030/leetcode/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/SRV1030/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/SRV1030/leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0474-ones-and-zeroes](https://github.com/SRV1030/leetcode/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/SRV1030/leetcode/tree/master/0494-target-sum) |
 | [0741-cherry-pickup](https://github.com/SRV1030/leetcode/tree/master/0741-cherry-pickup) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/SRV1030/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
