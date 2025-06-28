@@ -1,35 +1,37 @@
 class Solution {
+    char previousChar = '$', beforePreviousChar = '$';
+    priority_queue<pair<char, int>> maxHeap;
 public:
+    void addCharacter(auto& character, auto& frequecy, string& longestString){
+        longestString.push_back(character);
+        frequecy--;
+        if(frequecy)
+            maxHeap.push({frequecy, character});
+        beforePreviousChar = previousChar;
+        previousChar = character;
+    }
     string longestDiverseString(int a, int b, int c) {
-        char bf = '$' , p ='$';
-        priority_queue<pair<int,char>>pq;
-        if(a)pq.push({a,'a'});
-        if(b)pq.push({b,'b'});
-        if(c)pq.push({c,'c'});
-        string ans = "";
-        while(!pq.empty()){
-            auto t=pq.top();
-            pq.pop();
-            if(t.second == p && p == bf){
-                if(pq.empty()) return ans;
-                auto t2=pq.top();
-                pq.pop();
-                pq.push(t);
-                bf = p;
-                p = t2.second;
-                ans+=p;
-                --t2.first;
-                if(t2.first){
-                    pq.push(t2);
-                }
+        if(a)
+            maxHeap.push({a, 'a'});
+        if(b)
+            maxHeap.push({b, 'b'});
+        if(c)
+            maxHeap.push({c, 'c'});
+        string longestString = "";
+        while(!maxHeap.empty()){
+            auto[frequency, character] = maxHeap.top();
+            maxHeap.pop();
+            if(character == previousChar && previousChar == beforePreviousChar){
+                if(maxHeap.empty())
+                    return longestString;
+                auto[nextFrequency, nextCharacter] = maxHeap.top();
+                maxHeap.pop();
+                maxHeap.push({frequency, character});
+                addCharacter(nextCharacter, nextFrequency, longestString);
                 continue;
             }
-            bf = p;
-            p = t.second;
-            ans+=p;
-            --t.first;
-            if(t.first)pq.push(t);
+            addCharacter(character, frequency, longestString);
         }
-        return ans;
+        return longestString;
     }
 };
