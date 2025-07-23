@@ -71,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0540-single-element-in-a-sorted-array](https://github.com/SRV1030/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0587-erect-the-fence](https://github.com/SRV1030/leetcode/tree/master/0587-erect-the-fence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SRV1030/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0690-employee-importance](https://github.com/SRV1030/leetcode/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/SRV1030/leetcode/tree/master/0695-max-area-of-island) |
 | [0729-my-calendar-i](https://github.com/SRV1030/leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/SRV1030/leetcode/tree/master/0731-my-calendar-ii) |
@@ -267,6 +268,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/SRV1030/leetcode/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/SRV1030/leetcode/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SRV1030/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0690-employee-importance](https://github.com/SRV1030/leetcode/tree/master/0690-employee-importance) |
 | [0768-partition-labels](https://github.com/SRV1030/leetcode/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/SRV1030/leetcode/tree/master/0797-rabbits-in-forest) |
 | [0808-number-of-matching-subsequences](https://github.com/SRV1030/leetcode/tree/master/0808-number-of-matching-subsequences) |
@@ -554,6 +556,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/SRV1030/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/SRV1030/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/SRV1030/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0690-employee-importance](https://github.com/SRV1030/leetcode/tree/master/0690-employee-importance) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/SRV1030/leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0783-search-in-a-binary-search-tree](https://github.com/SRV1030/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/SRV1030/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -595,6 +598,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0543-diameter-of-binary-tree](https://github.com/SRV1030/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/SRV1030/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/SRV1030/leetcode/tree/master/0684-redundant-connection) |
+| [0690-employee-importance](https://github.com/SRV1030/leetcode/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/SRV1030/leetcode/tree/master/0695-max-area-of-island) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/SRV1030/leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0801-is-graph-bipartite](https://github.com/SRV1030/leetcode/tree/master/0801-is-graph-bipartite) |
@@ -677,6 +681,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0463-island-perimeter](https://github.com/SRV1030/leetcode/tree/master/0463-island-perimeter) |
 | [0662-maximum-width-of-binary-tree](https://github.com/SRV1030/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/SRV1030/leetcode/tree/master/0684-redundant-connection) |
+| [0690-employee-importance](https://github.com/SRV1030/leetcode/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/SRV1030/leetcode/tree/master/0695-max-area-of-island) |
 | [0787-sliding-puzzle](https://github.com/SRV1030/leetcode/tree/master/0787-sliding-puzzle) |
 | [0801-is-graph-bipartite](https://github.com/SRV1030/leetcode/tree/master/0801-is-graph-bipartite) |
