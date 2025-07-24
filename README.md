@@ -74,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SRV1030/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0690-employee-importance](https://github.com/SRV1030/leetcode/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/SRV1030/leetcode/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/SRV1030/leetcode/tree/master/0721-accounts-merge) |
 | [0729-my-calendar-i](https://github.com/SRV1030/leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/SRV1030/leetcode/tree/master/0731-my-calendar-ii) |
 | [0741-cherry-pickup](https://github.com/SRV1030/leetcode/tree/master/0741-cherry-pickup) |
@@ -271,6 +272,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/SRV1030/leetcode/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SRV1030/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0690-employee-importance](https://github.com/SRV1030/leetcode/tree/master/0690-employee-importance) |
+| [0721-accounts-merge](https://github.com/SRV1030/leetcode/tree/master/0721-accounts-merge) |
 | [0768-partition-labels](https://github.com/SRV1030/leetcode/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/SRV1030/leetcode/tree/master/0797-rabbits-in-forest) |
 | [0808-number-of-matching-subsequences](https://github.com/SRV1030/leetcode/tree/master/0808-number-of-matching-subsequences) |
@@ -440,6 +442,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0455-assign-cookies](https://github.com/SRV1030/leetcode/tree/master/0455-assign-cookies) |
 | [0539-minimum-time-difference](https://github.com/SRV1030/leetcode/tree/master/0539-minimum-time-difference) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SRV1030/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0721-accounts-merge](https://github.com/SRV1030/leetcode/tree/master/0721-accounts-merge) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/SRV1030/leetcode/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/SRV1030/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0808-number-of-matching-subsequences](https://github.com/SRV1030/leetcode/tree/master/0808-number-of-matching-subsequences) |
@@ -605,6 +608,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0684-redundant-connection](https://github.com/SRV1030/leetcode/tree/master/0684-redundant-connection) |
 | [0690-employee-importance](https://github.com/SRV1030/leetcode/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/SRV1030/leetcode/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/SRV1030/leetcode/tree/master/0721-accounts-merge) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/SRV1030/leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0801-is-graph-bipartite](https://github.com/SRV1030/leetcode/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/SRV1030/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -692,6 +696,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0684-redundant-connection](https://github.com/SRV1030/leetcode/tree/master/0684-redundant-connection) |
 | [0690-employee-importance](https://github.com/SRV1030/leetcode/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/SRV1030/leetcode/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/SRV1030/leetcode/tree/master/0721-accounts-merge) |
 | [0787-sliding-puzzle](https://github.com/SRV1030/leetcode/tree/master/0787-sliding-puzzle) |
 | [0801-is-graph-bipartite](https://github.com/SRV1030/leetcode/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/SRV1030/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -729,6 +734,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0399-evaluate-division](https://github.com/SRV1030/leetcode/tree/master/0399-evaluate-division) |
 | [0684-redundant-connection](https://github.com/SRV1030/leetcode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/SRV1030/leetcode/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/SRV1030/leetcode/tree/master/0721-accounts-merge) |
 | [0801-is-graph-bipartite](https://github.com/SRV1030/leetcode/tree/master/0801-is-graph-bipartite) |
 | [0854-making-a-large-island](https://github.com/SRV1030/leetcode/tree/master/0854-making-a-large-island) |
 | [0869-similar-string-groups](https://github.com/SRV1030/leetcode/tree/master/0869-similar-string-groups) |
@@ -820,6 +826,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0556-next-greater-element-iii](https://github.com/SRV1030/leetcode/tree/master/0556-next-greater-element-iii) |
 | [0567-permutation-in-string](https://github.com/SRV1030/leetcode/tree/master/0567-permutation-in-string) |
 | [0686-repeated-string-match](https://github.com/SRV1030/leetcode/tree/master/0686-repeated-string-match) |
+| [0721-accounts-merge](https://github.com/SRV1030/leetcode/tree/master/0721-accounts-merge) |
 | [0768-partition-labels](https://github.com/SRV1030/leetcode/tree/master/0768-partition-labels) |
 | [0793-swap-adjacent-in-lr-string](https://github.com/SRV1030/leetcode/tree/master/0793-swap-adjacent-in-lr-string) |
 | [0808-number-of-matching-subsequences](https://github.com/SRV1030/leetcode/tree/master/0808-number-of-matching-subsequences) |
