@@ -72,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0540-single-element-in-a-sorted-array](https://github.com/SRV1030/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0587-erect-the-fence](https://github.com/SRV1030/leetcode/tree/master/0587-erect-the-fence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SRV1030/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0679-24-game](https://github.com/SRV1030/leetcode/tree/master/0679-24-game) |
 | [0690-employee-importance](https://github.com/SRV1030/leetcode/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/SRV1030/leetcode/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/SRV1030/leetcode/tree/master/0721-accounts-merge) |
@@ -1084,6 +1085,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0556-next-greater-element-iii](https://github.com/SRV1030/leetcode/tree/master/0556-next-greater-element-iii) |
 | [0587-erect-the-fence](https://github.com/SRV1030/leetcode/tree/master/0587-erect-the-fence) |
 | [0670-maximum-swap](https://github.com/SRV1030/leetcode/tree/master/0670-maximum-swap) |
+| [0679-24-game](https://github.com/SRV1030/leetcode/tree/master/0679-24-game) |
 | [0797-rabbits-in-forest](https://github.com/SRV1030/leetcode/tree/master/0797-rabbits-in-forest) |
 | [0912-random-pick-with-weight](https://github.com/SRV1030/leetcode/tree/master/0912-random-pick-with-weight) |
 | [1057-numbers-with-repeated-digits](https://github.com/SRV1030/leetcode/tree/master/1057-numbers-with-repeated-digits) |
@@ -1361,6 +1363,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0131-palindrome-partitioning](https://github.com/SRV1030/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0212-word-search-ii](https://github.com/SRV1030/leetcode/tree/master/0212-word-search-ii) |
 | [0494-target-sum](https://github.com/SRV1030/leetcode/tree/master/0494-target-sum) |
+| [0679-24-game](https://github.com/SRV1030/leetcode/tree/master/0679-24-game) |
 | [1160-letter-tile-possibilities](https://github.com/SRV1030/leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/SRV1030/leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/SRV1030/leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
