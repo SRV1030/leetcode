@@ -344,6 +344,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/SRV1030/leetcode/tree/master/0029-divide-two-integers) |
 | [0090-subsets-ii](https://github.com/SRV1030/leetcode/tree/master/0090-subsets-ii) |
 | [0287-find-the-duplicate-number](https://github.com/SRV1030/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/SRV1030/leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
@@ -1072,6 +1073,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0002-add-two-numbers](https://github.com/SRV1030/leetcode/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/SRV1030/leetcode/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/SRV1030/leetcode/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/SRV1030/leetcode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/SRV1030/leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/SRV1030/leetcode/tree/master/0050-powx-n) |
