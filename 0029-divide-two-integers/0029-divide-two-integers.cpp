@@ -3,7 +3,8 @@ public:
     int divide(long long dividend, long long divisor) {
         if(dividend == divisor)
             return 1;
-        if((divisor==-1 && dividend==(1<<31)))return INT_MAX;
+        if((divisor==-1 && dividend==(1<<31)))
+            return INT_MAX;
         bool sign = (dividend < 0) == (divisor < 0);
         long long quotient = 0;
         dividend = abs(dividend);
