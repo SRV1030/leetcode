@@ -1,9 +1,9 @@
 class Solution {
 public:
     int subarrayBitwiseORs(vector<int>& arr) {
-        set<int> resultOrs, previousOrs;
+        unordered_set<int> resultOrs, previousOrs;
         for(auto& num: arr){
-            set<int> runningOrs;
+            unordered_set<int> runningOrs;
             runningOrs.insert(num);
             for(auto& ors: previousOrs)
                 runningOrs.insert(num | ors);
