@@ -1,17 +1,13 @@
 class Solution {
 public:
     vector<vector<int>> generate(int numRows) {
-        vector<vector<int>> ans;
-        ans.push_back({1});
-        if(numRows==1) return ans;
-        ans.push_back({1,1});
-        for(int i=2;i<numRows;++i){
-            vector<int>t;
-            t.push_back(1);
-            for(int j=1;j<i;++j)t.push_back(ans[i-1][j]+ans[i-1][j-1]);
-            t.push_back(1);
-            ans.push_back(t);
+        vector<vector<int>> pascalTriangle(numRows);
+        for(int row = 0; row < numRows; ++row){
+            pascalTriangle[row].resize(row + 1);
+            pascalTriangle[row][0] = pascalTriangle[row][row] = 1;
+            for(int col = 1; col < row; ++col)
+                pascalTriangle[row][col] = pascalTriangle[row - 1][col] + pascalTriangle[row - 1][col - 1];
         }
-        return ans;
+        return pascalTriangle;
     }
 };
