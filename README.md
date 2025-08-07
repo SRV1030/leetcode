@@ -210,6 +210,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2755-extra-characters-in-a-string](https://github.com/SRV1030/leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/SRV1030/leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2792-neighboring-bitwise-xor](https://github.com/SRV1030/leetcode/tree/master/2792-neighboring-bitwise-xor) |
+| [2808-painting-the-walls](https://github.com/SRV1030/leetcode/tree/master/2808-painting-the-walls) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/SRV1030/leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2868-continuous-subarrays](https://github.com/SRV1030/leetcode/tree/master/2868-continuous-subarrays) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/SRV1030/leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -977,6 +978,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2562-count-ways-to-build-good-strings](https://github.com/SRV1030/leetcode/tree/master/2562-count-ways-to-build-good-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/SRV1030/leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [2757-count-of-integers](https://github.com/SRV1030/leetcode/tree/master/2757-count-of-integers) |
+| [2808-painting-the-walls](https://github.com/SRV1030/leetcode/tree/master/2808-painting-the-walls) |
 | [3017-number-of-beautiful-integers-in-the-range](https://github.com/SRV1030/leetcode/tree/master/3017-number-of-beautiful-integers-in-the-range) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/SRV1030/leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3518-maximum-multiplication-score](https://github.com/SRV1030/leetcode/tree/master/3518-maximum-multiplication-score) |
