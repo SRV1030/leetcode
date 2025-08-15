@@ -361,6 +361,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0090-subsets-ii](https://github.com/SRV1030/leetcode/tree/master/0090-subsets-ii) |
 | [0231-power-of-two](https://github.com/SRV1030/leetcode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/SRV1030/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/SRV1030/leetcode/tree/master/0342-power-of-four) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/SRV1030/leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0476-number-complement](https://github.com/SRV1030/leetcode/tree/master/0476-number-complement) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/SRV1030/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -1128,6 +1129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0241-different-ways-to-add-parentheses](https://github.com/SRV1030/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/SRV1030/leetcode/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/SRV1030/leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/SRV1030/leetcode/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/SRV1030/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/SRV1030/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0539-minimum-time-difference](https://github.com/SRV1030/leetcode/tree/master/0539-minimum-time-difference) |
@@ -1281,6 +1283,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0241-different-ways-to-add-parentheses](https://github.com/SRV1030/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/SRV1030/leetcode/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/SRV1030/leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/SRV1030/leetcode/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/SRV1030/leetcode/tree/master/0394-decode-string) |
 | [2050-count-good-numbers](https://github.com/SRV1030/leetcode/tree/master/2050-count-good-numbers) |
 | [3799-unique-3-digit-even-numbers](https://github.com/SRV1030/leetcode/tree/master/3799-unique-3-digit-even-numbers) |
