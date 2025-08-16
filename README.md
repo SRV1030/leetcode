@@ -404,6 +404,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0797-rabbits-in-forest](https://github.com/SRV1030/leetcode/tree/master/0797-rabbits-in-forest) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/SRV1030/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/SRV1030/leetcode/tree/master/1304-longest-happy-string) |
+| [1448-maximum-69-number](https://github.com/SRV1030/leetcode/tree/master/1448-maximum-69-number) |
 | [1487-cinema-seat-allocation](https://github.com/SRV1030/leetcode/tree/master/1487-cinema-seat-allocation) |
 | [1502-construct-k-palindrome-strings](https://github.com/SRV1030/leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/SRV1030/leetcode/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
@@ -1145,6 +1146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1276-closest-divisors](https://github.com/SRV1030/leetcode/tree/master/1276-closest-divisors) |
 | [1372-check-if-it-is-a-good-array](https://github.com/SRV1030/leetcode/tree/master/1372-check-if-it-is-a-good-array) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/SRV1030/leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1448-maximum-69-number](https://github.com/SRV1030/leetcode/tree/master/1448-maximum-69-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/SRV1030/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1500-count-largest-group](https://github.com/SRV1030/leetcode/tree/master/1500-count-largest-group) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/SRV1030/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
