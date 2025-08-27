@@ -254,6 +254,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/SRV1030/leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/SRV1030/leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/SRV1030/leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/SRV1030/leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3765-minimum-cost-to-divide-array-into-subarrays](https://github.com/SRV1030/leetcode/tree/master/3765-minimum-cost-to-divide-array-into-subarrays) |
 | [3784-longest-common-prefix-of-k-strings-after-removal](https://github.com/SRV1030/leetcode/tree/master/3784-longest-common-prefix-of-k-strings-after-removal) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/SRV1030/leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -842,6 +843,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/SRV1030/leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/SRV1030/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/SRV1030/leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/SRV1030/leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3797-design-spreadsheet](https://github.com/SRV1030/leetcode/tree/master/3797-design-spreadsheet) |
 ## String
 |  |
@@ -1021,6 +1023,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3243-count-the-number-of-powerful-integers](https://github.com/SRV1030/leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3518-maximum-multiplication-score](https://github.com/SRV1030/leetcode/tree/master/3518-maximum-multiplication-score) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/SRV1030/leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/SRV1030/leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3765-minimum-cost-to-divide-array-into-subarrays](https://github.com/SRV1030/leetcode/tree/master/3765-minimum-cost-to-divide-array-into-subarrays) |
 | [3808-longest-palindrome-after-substring-concatenation-ii](https://github.com/SRV1030/leetcode/tree/master/3808-longest-palindrome-after-substring-concatenation-ii) |
 ## Bitmask
@@ -1323,6 +1326,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0241-different-ways-to-add-parentheses](https://github.com/SRV1030/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [1680-count-all-possible-routes](https://github.com/SRV1030/leetcode/tree/master/1680-count-all-possible-routes) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SRV1030/leetcode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/SRV1030/leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Rolling Hash
 |  |
 | ------- |
