@@ -591,6 +591,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/SRV1030/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/SRV1030/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0098-validate-binary-search-tree](https://github.com/SRV1030/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/SRV1030/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/SRV1030/leetcode/tree/master/0101-symmetric-tree) |
@@ -974,6 +975,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0070-climbing-stairs](https://github.com/SRV1030/leetcode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/SRV1030/leetcode/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/SRV1030/leetcode/tree/master/0085-maximal-rectangle) |
+| [0095-unique-binary-search-trees-ii](https://github.com/SRV1030/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0118-pascals-triangle](https://github.com/SRV1030/leetcode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/SRV1030/leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SRV1030/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -1246,6 +1248,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/SRV1030/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/SRV1030/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0098-validate-binary-search-tree](https://github.com/SRV1030/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/SRV1030/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/SRV1030/leetcode/tree/master/0101-symmetric-tree) |
@@ -1478,6 +1481,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0051-n-queens](https://github.com/SRV1030/leetcode/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/SRV1030/leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/SRV1030/leetcode/tree/master/0090-subsets-ii) |
+| [0095-unique-binary-search-trees-ii](https://github.com/SRV1030/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0131-palindrome-partitioning](https://github.com/SRV1030/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0212-word-search-ii](https://github.com/SRV1030/leetcode/tree/master/0212-word-search-ii) |
 | [0494-target-sum](https://github.com/SRV1030/leetcode/tree/master/0494-target-sum) |
@@ -1602,6 +1606,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/SRV1030/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0098-validate-binary-search-tree](https://github.com/SRV1030/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SRV1030/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/SRV1030/leetcode/tree/master/0173-binary-search-tree-iterator) |
