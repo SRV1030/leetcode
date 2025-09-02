@@ -236,6 +236,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/SRV1030/leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3227-find-missing-and-repeated-values](https://github.com/SRV1030/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/SRV1030/leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/SRV1030/leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/SRV1030/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/SRV1030/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/SRV1030/leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -517,6 +518,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/SRV1030/leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3001-apply-operations-to-maximize-score](https://github.com/SRV1030/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/SRV1030/leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/SRV1030/leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3430-count-days-without-meetings](https://github.com/SRV1030/leetcode/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/SRV1030/leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3748-sort-matrix-by-diagonals](https://github.com/SRV1030/leetcode/tree/master/3748-sort-matrix-by-diagonals) |
@@ -1219,6 +1221,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3017-number-of-beautiful-integers-in-the-range](https://github.com/SRV1030/leetcode/tree/master/3017-number-of-beautiful-integers-in-the-range) |
 | [3227-find-missing-and-repeated-values](https://github.com/SRV1030/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/SRV1030/leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/SRV1030/leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/SRV1030/leetcode/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/SRV1030/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/SRV1030/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -1597,6 +1600,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/SRV1030/leetcode/tree/master/0149-max-points-on-a-line) |
 | [0587-erect-the-fence](https://github.com/SRV1030/leetcode/tree/master/0587-erect-the-fence) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/SRV1030/leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Enumeration
 |  |
 | ------- |
@@ -1605,6 +1609,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1993-sum-of-all-subset-xor-totals](https://github.com/SRV1030/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/SRV1030/leetcode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2998-count-symmetric-integers](https://github.com/SRV1030/leetcode/tree/master/2998-count-symmetric-integers) |
+| [3278-find-the-number-of-ways-to-place-people-i](https://github.com/SRV1030/leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/SRV1030/leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3799-unique-3-digit-even-numbers](https://github.com/SRV1030/leetcode/tree/master/3799-unique-3-digit-even-numbers) |
 | [3805-maximize-active-section-with-trade-i](https://github.com/SRV1030/leetcode/tree/master/3805-maximize-active-section-with-trade-i) |
