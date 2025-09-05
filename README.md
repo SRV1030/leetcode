@@ -404,6 +404,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2529-range-product-queries-of-powers](https://github.com/SRV1030/leetcode/tree/master/2529-range-product-queries-of-powers) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/SRV1030/leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2792-neighboring-bitwise-xor](https://github.com/SRV1030/leetcode/tree/master/2792-neighboring-bitwise-xor) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/SRV1030/leetcode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/SRV1030/leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3394-minimum-array-end](https://github.com/SRV1030/leetcode/tree/master/3394-minimum-array-end) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/SRV1030/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -1330,6 +1331,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2481-strictly-palindromic-number](https://github.com/SRV1030/leetcode/tree/master/2481-strictly-palindromic-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/SRV1030/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/SRV1030/leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/SRV1030/leetcode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 ## Recursion
 |  |
 | ------- |
@@ -1614,6 +1616,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1656-count-good-triplets](https://github.com/SRV1030/leetcode/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/SRV1030/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/SRV1030/leetcode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/SRV1030/leetcode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [2998-count-symmetric-integers](https://github.com/SRV1030/leetcode/tree/master/2998-count-symmetric-integers) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/SRV1030/leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/SRV1030/leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
