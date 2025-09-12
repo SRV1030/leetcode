@@ -7,7 +7,7 @@ public:
         int vowels = 0;
         for(auto& character : s)
             if(isVowel(character))
-                ++vowels;
-        return vowels;
+                return true;
+        return false;
     }
 };
