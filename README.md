@@ -376,6 +376,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3797-design-spreadsheet](https://github.com/SRV1030/leetcode/tree/master/3797-design-spreadsheet) |
 | [3799-unique-3-digit-even-numbers](https://github.com/SRV1030/leetcode/tree/master/3799-unique-3-digit-even-numbers) |
 | [3809-properties-graph](https://github.com/SRV1030/leetcode/tree/master/3809-properties-graph) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/SRV1030/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -979,6 +980,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3805-maximize-active-section-with-trade-i](https://github.com/SRV1030/leetcode/tree/master/3805-maximize-active-section-with-trade-i) |
 | [3808-longest-palindrome-after-substring-concatenation-ii](https://github.com/SRV1030/leetcode/tree/master/3808-longest-palindrome-after-substring-concatenation-ii) |
 | [3811-reverse-degree-of-a-string](https://github.com/SRV1030/leetcode/tree/master/3811-reverse-degree-of-a-string) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/SRV1030/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -1337,6 +1339,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/SRV1030/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/SRV1030/leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/SRV1030/leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/SRV1030/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Brainteaser
 |  |
 | ------- |
