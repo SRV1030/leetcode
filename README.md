@@ -109,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1002-maximum-width-ramp](https://github.com/SRV1030/leetcode/tree/master/1002-maximum-width-ramp) |
 | [1006-vowel-spellchecker](https://github.com/SRV1030/leetcode/tree/master/1006-vowel-spellchecker) |
 | [1025-minimum-cost-for-tickets](https://github.com/SRV1030/leetcode/tree/master/1025-minimum-cost-for-tickets) |
+| [1034-subarrays-with-k-different-integers](https://github.com/SRV1030/leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1036-rotting-oranges](https://github.com/SRV1030/leetcode/tree/master/1036-rotting-oranges) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/SRV1030/leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/SRV1030/leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -325,6 +326,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/SRV1030/leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1006-vowel-spellchecker](https://github.com/SRV1030/leetcode/tree/master/1006-vowel-spellchecker) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/SRV1030/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1034-subarrays-with-k-different-integers](https://github.com/SRV1030/leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1160-letter-tile-possibilities](https://github.com/SRV1030/leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/SRV1030/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/SRV1030/leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -468,6 +470,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SRV1030/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0867-new-21-game](https://github.com/SRV1030/leetcode/tree/master/0867-new-21-game) |
 | [0940-fruit-into-baskets](https://github.com/SRV1030/leetcode/tree/master/0940-fruit-into-baskets) |
+| [1034-subarrays-with-k-different-integers](https://github.com/SRV1030/leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/SRV1030/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/SRV1030/leetcode/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1755-defuse-the-bomb](https://github.com/SRV1030/leetcode/tree/master/1755-defuse-the-bomb) |
@@ -1335,6 +1338,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/SRV1030/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0900-reordered-power-of-2](https://github.com/SRV1030/leetcode/tree/master/0900-reordered-power-of-2) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/SRV1030/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1034-subarrays-with-k-different-integers](https://github.com/SRV1030/leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1160-letter-tile-possibilities](https://github.com/SRV1030/leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/SRV1030/leetcode/tree/master/1364-tuple-with-same-product) |
 | [1502-construct-k-palindrome-strings](https://github.com/SRV1030/leetcode/tree/master/1502-construct-k-palindrome-strings) |
