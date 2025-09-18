@@ -1226,6 +1226,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1448-maximum-69-number](https://github.com/SRV1030/leetcode/tree/master/1448-maximum-69-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/SRV1030/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1500-count-largest-group](https://github.com/SRV1030/leetcode/tree/master/1500-count-largest-group) |
+| [1585-the-kth-factor-of-n](https://github.com/SRV1030/leetcode/tree/master/1585-the-kth-factor-of-n) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/SRV1030/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1678-number-of-ways-to-split-a-string](https://github.com/SRV1030/leetcode/tree/master/1678-number-of-ways-to-split-a-string) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SRV1030/leetcode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -1329,6 +1330,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1372-check-if-it-is-a-good-array](https://github.com/SRV1030/leetcode/tree/master/1372-check-if-it-is-a-good-array) |
+| [1585-the-kth-factor-of-n](https://github.com/SRV1030/leetcode/tree/master/1585-the-kth-factor-of-n) |
 | [2125-gcd-sort-of-an-array](https://github.com/SRV1030/leetcode/tree/master/2125-gcd-sort-of-an-array) |
 | [2610-closest-prime-numbers-in-range](https://github.com/SRV1030/leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2716-prime-subtraction-operation](https://github.com/SRV1030/leetcode/tree/master/2716-prime-subtraction-operation) |
