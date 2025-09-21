@@ -1,26 +1,26 @@
 class Solution {
 public:
     vector<int> spiralOrder(vector<vector<int>>& matrix) {
-        vector<int> answer;
-        int row = matrix.size(), column = matrix[0].size(), i = 0, j = 0;
-        while (i < row && j < column) {
-            for (int k = j; k < column; k++)
-                answer.push_back(matrix[i][k]);
-            i++;
-            for (int k = i; k < row; k++)
-                answer.push_back(matrix[k][column - 1]);
-            column--;
-            if (i < row) {
-                for (int k = column - 1; k >= j; k--)
-                    answer.push_back(matrix[row - 1][k]);
-                row--;
+        int row = 0, col = 0, rowEnd = matrix.size() - 1, colEnd = matrix[0].size() - 1;
+        vector<int> spiral;
+        while(row <= rowEnd && col <= colEnd){
+            for(int index = col; index <= colEnd; ++index)
+                spiral.push_back(matrix[row][index]);
+            ++row;
+            for(int index = row; index <= rowEnd; ++index)
+                spiral.push_back(matrix[index][colEnd]);
+            --colEnd;
+            if(row <= rowEnd){
+                for(int index = colEnd; index >= col; --index)
+                    spiral.push_back(matrix[rowEnd][index]);
+                --rowEnd;
             }
-            if (j < column) {
-                for (int k = row - 1; k >= i; k--)
-                    answer.push_back(matrix[k][j]);
-                j++;
+            if(col <= colEnd){
+                for(int index = rowEnd; index >= row; --index)
+                    spiral.push_back(matrix[index][col]);
+                ++col;
             }
         }
-        return answer;
+        return spiral;
     }
 };
