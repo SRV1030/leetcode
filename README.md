@@ -598,6 +598,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0145-binary-tree-postorder-traversal](https://github.com/SRV1030/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/SRV1030/leetcode/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/SRV1030/leetcode/tree/master/0173-binary-search-tree-iterator) |
+| [0224-basic-calculator](https://github.com/SRV1030/leetcode/tree/master/0224-basic-calculator) |
 | [0394-decode-string](https://github.com/SRV1030/leetcode/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/SRV1030/leetcode/tree/master/0496-next-greater-element-i) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/SRV1030/leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -920,6 +921,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0208-implement-trie-prefix-tree](https://github.com/SRV1030/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0212-word-search-ii](https://github.com/SRV1030/leetcode/tree/master/0212-word-search-ii) |
 | [0214-shortest-palindrome](https://github.com/SRV1030/leetcode/tree/master/0214-shortest-palindrome) |
+| [0224-basic-calculator](https://github.com/SRV1030/leetcode/tree/master/0224-basic-calculator) |
 | [0241-different-ways-to-add-parentheses](https://github.com/SRV1030/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/SRV1030/leetcode/tree/master/0273-integer-to-english-words) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/SRV1030/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -1219,6 +1221,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0062-unique-paths](https://github.com/SRV1030/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/SRV1030/leetcode/tree/master/0070-climbing-stairs) |
 | [0149-max-points-on-a-line](https://github.com/SRV1030/leetcode/tree/master/0149-max-points-on-a-line) |
+| [0224-basic-calculator](https://github.com/SRV1030/leetcode/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/SRV1030/leetcode/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/SRV1030/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/SRV1030/leetcode/tree/master/0273-integer-to-english-words) |
@@ -1392,6 +1395,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0050-powx-n](https://github.com/SRV1030/leetcode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/SRV1030/leetcode/tree/master/0060-permutation-sequence) |
 | [0206-reverse-linked-list](https://github.com/SRV1030/leetcode/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/SRV1030/leetcode/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/SRV1030/leetcode/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/SRV1030/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/SRV1030/leetcode/tree/master/0273-integer-to-english-words) |
