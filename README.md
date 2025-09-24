@@ -303,6 +303,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0146-lru-cache](https://github.com/SRV1030/leetcode/tree/master/0146-lru-cache) |
 | [0149-max-points-on-a-line](https://github.com/SRV1030/leetcode/tree/master/0149-max-points-on-a-line) |
 | [0160-intersection-of-two-linked-lists](https://github.com/SRV1030/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0166-fraction-to-recurring-decimal](https://github.com/SRV1030/leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/SRV1030/leetcode/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/SRV1030/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0229-majority-element-ii](https://github.com/SRV1030/leetcode/tree/master/0229-majority-element-ii) |
@@ -921,6 +922,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0139-word-break](https://github.com/SRV1030/leetcode/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/SRV1030/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/SRV1030/leetcode/tree/master/0165-compare-version-numbers) |
+| [0166-fraction-to-recurring-decimal](https://github.com/SRV1030/leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0179-largest-number](https://github.com/SRV1030/leetcode/tree/master/0179-largest-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/SRV1030/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0212-word-search-ii](https://github.com/SRV1030/leetcode/tree/master/0212-word-search-ii) |
@@ -1225,6 +1227,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0062-unique-paths](https://github.com/SRV1030/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/SRV1030/leetcode/tree/master/0070-climbing-stairs) |
 | [0149-max-points-on-a-line](https://github.com/SRV1030/leetcode/tree/master/0149-max-points-on-a-line) |
+| [0166-fraction-to-recurring-decimal](https://github.com/SRV1030/leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0224-basic-calculator](https://github.com/SRV1030/leetcode/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/SRV1030/leetcode/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/SRV1030/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
