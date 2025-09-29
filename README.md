@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0037-sudoku-solver](https://github.com/SRV1030/leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/SRV1030/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/SRV1030/leetcode/tree/master/0040-combination-sum-ii) |
+| [0041-first-missing-positive](https://github.com/SRV1030/leetcode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/SRV1030/leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/SRV1030/leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/SRV1030/leetcode/tree/master/0046-permutations) |
@@ -294,6 +295,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SRV1030/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/SRV1030/leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/SRV1030/leetcode/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/SRV1030/leetcode/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/SRV1030/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SRV1030/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/SRV1030/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
