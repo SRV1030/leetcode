@@ -1,22 +1,23 @@
 class Solution {
 public:
-    int nextGreaterElement(int n) {
-        if (n == INT_MAX)
+    int nextGreaterElement(int num) {
+        if(num == INT_MAX)
             return -1;
-        string s = to_string(n);
-        for (int i = s.size() - 2; i >= 0; i--) {
-            if (s[i] < s[i + 1]) {
-                int j = s.size() - 1;
-                while (j > i && s[i] >= s[j])
-                    j--;
-                swap(s[i], s[j]);
-                reverse(s.begin() + i + 1, s.end());
-                long long val = stoll(s);
+        string numStr = to_string(num);
+        for(int index = numStr.size() - 2; index >= 0; --index){
+            if(numStr[index] < numStr[index + 1]){
+                int j = numStr.size() - 1;
+                while(index < j && numStr[index] >= numStr[j])
+                    --j;
+                swap(numStr[index], numStr[j]);
+                reverse(numStr.begin() + index + 1, numStr.end());
+                long long val = stoll(numStr);
                 if (val > INT_MAX)
                     return -1;
                 return val;
             }
         }
+
         return -1;
     }
 };
