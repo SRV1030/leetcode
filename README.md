@@ -200,6 +200,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2358-number-of-ways-to-split-array](https://github.com/SRV1030/leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/SRV1030/leetcode/tree/master/2364-longest-path-with-different-adjacent-characters) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/SRV1030/leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/SRV1030/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/SRV1030/leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2411-spiral-matrix-iv](https://github.com/SRV1030/leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2428-equal-row-and-column-pairs](https://github.com/SRV1030/leetcode/tree/master/2428-equal-row-and-column-pairs) |
@@ -545,6 +546,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/SRV1030/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2164-two-best-non-overlapping-events](https://github.com/SRV1030/leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/SRV1030/leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/SRV1030/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/SRV1030/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2479-meeting-rooms-iii](https://github.com/SRV1030/leetcode/tree/master/2479-meeting-rooms-iii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/SRV1030/leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -1195,6 +1197,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2179-most-beautiful-item-for-each-query](https://github.com/SRV1030/leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/SRV1030/leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2280-count-good-triplets-in-an-array](https://github.com/SRV1030/leetcode/tree/master/2280-count-good-triplets-in-an-array) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/SRV1030/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/SRV1030/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/SRV1030/leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2665-minimum-time-to-repair-cars](https://github.com/SRV1030/leetcode/tree/master/2665-minimum-time-to-repair-cars) |
@@ -1579,6 +1582,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/SRV1030/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2232-adding-spaces-to-a-string](https://github.com/SRV1030/leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/SRV1030/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/SRV1030/leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/SRV1030/leetcode/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2481-strictly-palindromic-number](https://github.com/SRV1030/leetcode/tree/master/2481-strictly-palindromic-number) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/SRV1030/leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
