@@ -1,16 +1,17 @@
 class Solution {
 public:
     long long minTime(vector<int>& skill, vector<int>& mana) {
-        vector<long long>end(skill.size());
-        for(int i=0;i<mana.size();i++){
-            long long t=0,mxd=0;
-            for(int j=0;j<skill.size();j++){
-                mxd=max(mxd,end[j]-t);
-                t+=skill[j]*mana[i];
-                end[j]=t;
+        vector<long long> endTime(skill.size());
+        for(auto& potion : mana){
+            long long wait = 0, timeTaken = 0;
+            for(int index = 0; index < skill.size(); index++){
+                wait = max(wait, endTime[index] - timeTaken);
+                timeTaken += potion * skill[index];
+                endTime[index] = timeTaken;
             }
-            for(auto&j:end)j+=mxd;
+            for(auto& time : endTime)
+                time += wait;
         }
-        return end.back();
+        return endTime.back();
     }
 };
