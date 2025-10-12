@@ -292,6 +292,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3797-design-spreadsheet](https://github.com/SRV1030/leetcode/tree/master/3797-design-spreadsheet) |
 | [3799-unique-3-digit-even-numbers](https://github.com/SRV1030/leetcode/tree/master/3799-unique-3-digit-even-numbers) |
 | [3809-properties-graph](https://github.com/SRV1030/leetcode/tree/master/3809-properties-graph) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/SRV1030/leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Hash Table
 |  |
 | ------- |
@@ -441,6 +442,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/SRV1030/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/SRV1030/leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/SRV1030/leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/SRV1030/leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Greedy
 |  |
 | ------- |
@@ -1130,12 +1132,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/SRV1030/leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3765-minimum-cost-to-divide-array-into-subarrays](https://github.com/SRV1030/leetcode/tree/master/3765-minimum-cost-to-divide-array-into-subarrays) |
 | [3808-longest-palindrome-after-substring-concatenation-ii](https://github.com/SRV1030/leetcode/tree/master/3808-longest-palindrome-after-substring-concatenation-ii) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/SRV1030/leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Bitmask
 |  |
 | ------- |
 | [0980-find-the-shortest-superstring](https://github.com/SRV1030/leetcode/tree/master/0980-find-the-shortest-superstring) |
 | [1531-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/SRV1030/leetcode/tree/master/1531-number-of-ways-to-wear-different-hats-to-each-other) |
 | [1989-minimum-xor-sum-of-two-arrays](https://github.com/SRV1030/leetcode/tree/master/1989-minimum-xor-sum-of-two-arrays) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/SRV1030/leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Simulation
 |  |
 | ------- |
@@ -1334,6 +1338,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/SRV1030/leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3817-maximum-containers-on-a-ship](https://github.com/SRV1030/leetcode/tree/master/3817-maximum-containers-on-a-ship) |
 | [3830-find-closest-person](https://github.com/SRV1030/leetcode/tree/master/3830-find-closest-person) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/SRV1030/leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Linked List
 |  |
 | ------- |
@@ -1684,6 +1689,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SRV1030/leetcode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/SRV1030/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/SRV1030/leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/SRV1030/leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Queue
 |  |
 | ------- |
