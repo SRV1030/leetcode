@@ -294,6 +294,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3799-unique-3-digit-even-numbers](https://github.com/SRV1030/leetcode/tree/master/3799-unique-3-digit-even-numbers) |
 | [3809-properties-graph](https://github.com/SRV1030/leetcode/tree/master/3809-properties-graph) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/SRV1030/leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+| [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/SRV1030/leetcode/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -406,6 +407,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3799-unique-3-digit-even-numbers](https://github.com/SRV1030/leetcode/tree/master/3799-unique-3-digit-even-numbers) |
 | [3809-properties-graph](https://github.com/SRV1030/leetcode/tree/master/3809-properties-graph) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/SRV1030/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/SRV1030/leetcode/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -1438,6 +1440,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3455-minimum-length-of-string-after-operations](https://github.com/SRV1030/leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/SRV1030/leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/SRV1030/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/SRV1030/leetcode/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 ## Brainteaser
 |  |
 | ------- |
