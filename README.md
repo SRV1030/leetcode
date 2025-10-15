@@ -326,6 +326,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0229-majority-element-ii](https://github.com/SRV1030/leetcode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/SRV1030/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/SRV1030/leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0432-all-oone-data-structure](https://github.com/SRV1030/leetcode/tree/master/0432-all-oone-data-structure) |
 | [0496-next-greater-element-i](https://github.com/SRV1030/leetcode/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/SRV1030/leetcode/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SRV1030/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -1371,6 +1372,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0206-reverse-linked-list](https://github.com/SRV1030/leetcode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/SRV1030/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/SRV1030/leetcode/tree/master/0328-odd-even-linked-list) |
+| [0432-all-oone-data-structure](https://github.com/SRV1030/leetcode/tree/master/0432-all-oone-data-structure) |
 | [0445-add-two-numbers-ii](https://github.com/SRV1030/leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0725-split-linked-list-in-parts](https://github.com/SRV1030/leetcode/tree/master/0725-split-linked-list-in-parts) |
 | [0908-middle-of-the-linked-list](https://github.com/SRV1030/leetcode/tree/master/0908-middle-of-the-linked-list) |
@@ -1536,6 +1538,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0295-find-median-from-data-stream](https://github.com/SRV1030/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/SRV1030/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0304-range-sum-query-2d-immutable](https://github.com/SRV1030/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
+| [0432-all-oone-data-structure](https://github.com/SRV1030/leetcode/tree/master/0432-all-oone-data-structure) |
 | [0715-range-module](https://github.com/SRV1030/leetcode/tree/master/0715-range-module) |
 | [0729-my-calendar-i](https://github.com/SRV1030/leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/SRV1030/leetcode/tree/master/0731-my-calendar-ii) |
@@ -1788,6 +1791,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/SRV1030/leetcode/tree/master/0146-lru-cache) |
+| [0432-all-oone-data-structure](https://github.com/SRV1030/leetcode/tree/master/0432-all-oone-data-structure) |
 ## Iterator
 |  |
 | ------- |
