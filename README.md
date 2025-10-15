@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0051-n-queens](https://github.com/SRV1030/leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/SRV1030/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/SRV1030/leetcode/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/SRV1030/leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/SRV1030/leetcode/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/SRV1030/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/SRV1030/leetcode/tree/master/0064-minimum-path-sum) |
@@ -452,6 +453,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0011-container-with-most-water](https://github.com/SRV1030/leetcode/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/SRV1030/leetcode/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/SRV1030/leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SRV1030/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/SRV1030/leetcode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/SRV1030/leetcode/tree/master/0135-candy) |
@@ -1061,6 +1063,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/SRV1030/leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/SRV1030/leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/SRV1030/leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/SRV1030/leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/SRV1030/leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/SRV1030/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/SRV1030/leetcode/tree/master/0064-minimum-path-sum) |
