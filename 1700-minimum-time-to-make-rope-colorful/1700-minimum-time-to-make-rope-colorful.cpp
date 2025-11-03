@@ -1,16 +1,16 @@
 class Solution {
 public:
     int minCost(string colors, vector<int>& neededTime) {
-        int time = 0, prevInd = 0;
-        for(int i=1;i<colors.size();i++){
-            if(colors[i]==colors[prevInd]){
-                if(neededTime[i]<neededTime[prevInd]) {
-                    time+=neededTime[i];
+        int time = 0, previousIndex = 0;
+        for(int index = 1; index < neededTime.size(); ++index){
+            if(colors[index] == colors[previousIndex]){
+                if(neededTime[index] < neededTime[previousIndex]){
+                    time += neededTime[index];
                     continue;
                 }
-                else time+=neededTime[prevInd];
+                time += neededTime[previousIndex];
             }
-            prevInd = i;
+            previousIndex = index;
         }
         return time;
     }
