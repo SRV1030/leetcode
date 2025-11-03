@@ -1818,4 +1818,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/SRV1030/leetcode/tree/master/3462-vowels-game-in-a-string) |
+## Database
+|  |
+| ------- |
+| [1452-restaurant-growth](https://github.com/SRV1030/leetcode/tree/master/1452-restaurant-growth) |
 <!---LeetCode Topics End-->
