@@ -276,6 +276,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3541-report-spam-message](https://github.com/SRV1030/leetcode/tree/master/3541-report-spam-message) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/SRV1030/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/SRV1030/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/SRV1030/leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/SRV1030/leetcode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/SRV1030/leetcode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/SRV1030/leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
@@ -407,6 +408,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3541-report-spam-message](https://github.com/SRV1030/leetcode/tree/master/3541-report-spam-message) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/SRV1030/leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/SRV1030/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/SRV1030/leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/SRV1030/leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/SRV1030/leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/SRV1030/leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -530,6 +532,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/SRV1030/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/SRV1030/leetcode/tree/master/3483-alternating-groups-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/SRV1030/leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/SRV1030/leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/SRV1030/leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Sorting
 |  |
@@ -627,6 +630,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/SRV1030/leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/SRV1030/leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/SRV1030/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/SRV1030/leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Stack
 |  |
 | ------- |
