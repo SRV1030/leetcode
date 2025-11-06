@@ -10,16 +10,15 @@ public:
         return c>=k;
     }
     int maximumCandies(vector<int>& candies, long long k) {
-        long long l=0,h=0,ans=0;
+        long long l=0,h=0;
         for(auto&i:candies)h+=i;
-        while(l<=h){
-            long long m = (l+h)/2;
-            if(isPossible(candies,k,m)){
-                ans=m;
-                l=m+1;
-            }
-            else h=m-1;
+        while(l<h){
+            long long m = (l + h + 1)/2;
+            if(isPossible(candies,k,m))
+                l = m;
+            else
+                 h=m-1;
         }
-        return ans;
+        return l;
     }
 };
