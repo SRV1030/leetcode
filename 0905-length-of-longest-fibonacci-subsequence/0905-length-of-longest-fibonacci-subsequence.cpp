@@ -1,22 +1,24 @@
 class Solution {
-   public:
+public:
     int lenLongestFibSubseq(vector<int>& arr) {
         unordered_set<int> avl;
-        int len = arr.size();
-        int ans = 0;
-        for (int i = len - 1; i >= 0; i--) {
-            for (int j = i - 1; j >= 0; j--) {
-                if (avl.find(arr[i] + arr[j]) != avl.end()) {
-                    int cnt = 3, prev = arr[i], curr = arr[i] + arr[j];
-                    while (avl.find(curr + prev) != avl.end()) {
-                        int tmp = prev + curr;
-                        cnt++, prev = curr, curr = tmp;
+        int size = arr.size(), result = 0;
+        for(int ind = size - 1; ind >= 0; --ind){
+            for(int pInd = ind - 1; pInd >= 0; --pInd){
+                if(avl.count(arr[ind] + arr[pInd])){
+                    int count = 3;
+                    int prev = arr[ind], curr = arr[ind] + arr[pInd];
+                    while(avl.count(prev + curr)){
+                        ++count;
+                        int temp = prev + curr;
+                        prev = curr;
+                        curr = temp;
                     }
-                    ans = max(ans, cnt);
+                    result = max(result, count);
                 }
             }
-            avl.insert(arr[i]);
+            avl.insert(arr[ind]);
         }
-        return ans;
+        return result;
     }
 };
