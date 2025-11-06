@@ -301,6 +301,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3799-unique-3-digit-even-numbers](https://github.com/SRV1030/leetcode/tree/master/3799-unique-3-digit-even-numbers) |
 | [3809-properties-graph](https://github.com/SRV1030/leetcode/tree/master/3809-properties-graph) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/SRV1030/leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+| [3863-power-grid-maintenance](https://github.com/SRV1030/leetcode/tree/master/3863-power-grid-maintenance) |
 | [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/SRV1030/leetcode/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 ## Hash Table
 |  |
@@ -416,6 +417,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3797-design-spreadsheet](https://github.com/SRV1030/leetcode/tree/master/3797-design-spreadsheet) |
 | [3799-unique-3-digit-even-numbers](https://github.com/SRV1030/leetcode/tree/master/3799-unique-3-digit-even-numbers) |
 | [3809-properties-graph](https://github.com/SRV1030/leetcode/tree/master/3809-properties-graph) |
+| [3863-power-grid-maintenance](https://github.com/SRV1030/leetcode/tree/master/3863-power-grid-maintenance) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/SRV1030/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/SRV1030/leetcode/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 ## Bit Manipulation
@@ -631,6 +633,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/SRV1030/leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/SRV1030/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/SRV1030/leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3863-power-grid-maintenance](https://github.com/SRV1030/leetcode/tree/master/3863-power-grid-maintenance) |
 ## Stack
 |  |
 | ------- |
@@ -777,6 +780,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3058-maximum-number-of-k-divisible-components](https://github.com/SRV1030/leetcode/tree/master/3058-maximum-number-of-k-divisible-components) |
 | [3105-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/SRV1030/leetcode/tree/master/3105-minimum-edge-reversals-so-every-node-is-reachable) |
 | [3809-properties-graph](https://github.com/SRV1030/leetcode/tree/master/3809-properties-graph) |
+| [3863-power-grid-maintenance](https://github.com/SRV1030/leetcode/tree/master/3863-power-grid-maintenance) |
 ## Graph
 |  |
 | ------- |
@@ -808,6 +812,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/SRV1030/leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/SRV1030/leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3809-properties-graph](https://github.com/SRV1030/leetcode/tree/master/3809-properties-graph) |
+| [3863-power-grid-maintenance](https://github.com/SRV1030/leetcode/tree/master/3863-power-grid-maintenance) |
 ## Shortest Path
 |  |
 | ------- |
@@ -873,6 +878,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3105-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/SRV1030/leetcode/tree/master/3105-minimum-edge-reversals-so-every-node-is-reachable) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/SRV1030/leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3809-properties-graph](https://github.com/SRV1030/leetcode/tree/master/3809-properties-graph) |
+| [3863-power-grid-maintenance](https://github.com/SRV1030/leetcode/tree/master/3863-power-grid-maintenance) |
 ## Union Find
 |  |
 | ------- |
@@ -899,6 +905,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/SRV1030/leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/SRV1030/leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3809-properties-graph](https://github.com/SRV1030/leetcode/tree/master/3809-properties-graph) |
+| [3863-power-grid-maintenance](https://github.com/SRV1030/leetcode/tree/master/3863-power-grid-maintenance) |
 ## Matrix
 |  |
 | ------- |
@@ -1595,6 +1602,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2868-continuous-subarrays](https://github.com/SRV1030/leetcode/tree/master/2868-continuous-subarrays) |
 | [3790-fruits-into-baskets-ii](https://github.com/SRV1030/leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/SRV1030/leetcode/tree/master/3791-fruits-into-baskets-iii) |
+| [3863-power-grid-maintenance](https://github.com/SRV1030/leetcode/tree/master/3863-power-grid-maintenance) |
 ## Two Pointers
 |  |
 | ------- |
