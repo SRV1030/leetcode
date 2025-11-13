@@ -45,7 +45,7 @@ class Solution {
         bool search(string word){
             Node* node = root;
             for(auto& character : word){
-                node = node->putChar(character);
+                node = node->gotoChar(character);
                 if(!node)
                     return false;
             }
@@ -57,15 +57,17 @@ class Solution {
     Trie* trie;
 public:
     bool segmentCheck(string s, int index){
-        if(index >= size)
-            return true;
-        if(memory[index] != -1)
-            return memory[index];
-        for(int low = index; low < size; ++low){
-            if(trie->search(s.substr(index, low - index + 1)) && segmentCheck(s, low + 1))
-                return memory[index] = 1;
+        if(index >= s.size())
+            return 1;
+        if(memory[index] == -1){
+            for(int low = index; low < s.size(); ++low){
+                if(trie->search(s.substr(index, low - index + 1)) && segmentCheck(s, low + 1)){
+                    return memory[index] = 1;
+                }
+            }
+            memory[index] = 0;
         }
-        return memory[index] = 0;
+        return memory[index];
     }
     bool wordBreak(string s, vector<string>& wordDict) {
         size = s.size();
