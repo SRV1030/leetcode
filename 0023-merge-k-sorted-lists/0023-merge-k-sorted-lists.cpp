@@ -17,28 +17,16 @@ public:
             return node1;
         if(node1 == node2)
             return node1;
-        ListNode *head = new ListNode(), *current = head;
-        while (node1 && node2) {
-            if (node1->val <= node2->val) {
-                current->next = new ListNode(node1->val);
-                node1 = node1->next;
-            } else {
-                current->next = new ListNode(node2->val);
-                node2 = node2->next;
-            }
-            current = current->next;
+        ListNode *head;
+        if(node1->val <= node2->val){
+            head = new ListNode(node1->val);
+            head->next = merge(node1->next, node2);
         }
-        while (node1) {
-            current->next = new ListNode(node1->val);
-            node1 = node1->next;
-            current = current->next;
+        else{
+            head = new ListNode(node2->val);
+            head->next = merge(node1, node2->next);
         }
-        while (node2) {
-            current->next = new ListNode(node2->val);
-            node2 = node2->next;
-            current = current->next;
-        }
-        return head->next;
+        return head;
     }
     ListNode* mergeKLists(vector<ListNode*>& lists) {
         int sizeOfList = lists.size();
