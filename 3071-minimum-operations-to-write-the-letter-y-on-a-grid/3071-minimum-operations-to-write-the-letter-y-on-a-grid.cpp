@@ -1,6 +1,6 @@
 class Solution {
     bool isOnY(int &size, int &row, int &col, int &center){
-        return (row == col && row <= center) || ((row + col + 1) == size && row <= center) || (row > center && col ==center);
+        return (row == col && row <= center) || ((row + col + 1) == size && row <= center) || (row > center && col == center);
     }
 public:
     int minimumOperationsToWriteY(vector<vector<int>>& grid) {
