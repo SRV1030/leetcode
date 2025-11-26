@@ -255,6 +255,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/SRV1030/leetcode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2755-extra-characters-in-a-string](https://github.com/SRV1030/leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/SRV1030/leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [2768-number-of-black-blocks](https://github.com/SRV1030/leetcode/tree/master/2768-number-of-black-blocks) |
 | [2792-neighboring-bitwise-xor](https://github.com/SRV1030/leetcode/tree/master/2792-neighboring-bitwise-xor) |
 | [2808-painting-the-walls](https://github.com/SRV1030/leetcode/tree/master/2808-painting-the-walls) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/SRV1030/leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -409,6 +410,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/SRV1030/leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/SRV1030/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2755-extra-characters-in-a-string](https://github.com/SRV1030/leetcode/tree/master/2755-extra-characters-in-a-string) |
+| [2768-number-of-black-blocks](https://github.com/SRV1030/leetcode/tree/master/2768-number-of-black-blocks) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/SRV1030/leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/SRV1030/leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2915-count-of-interesting-subarrays](https://github.com/SRV1030/leetcode/tree/master/2915-count-of-interesting-subarrays) |
@@ -1836,6 +1838,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1656-count-good-triplets](https://github.com/SRV1030/leetcode/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/SRV1030/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/SRV1030/leetcode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
+| [2768-number-of-black-blocks](https://github.com/SRV1030/leetcode/tree/master/2768-number-of-black-blocks) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/SRV1030/leetcode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [2998-count-symmetric-integers](https://github.com/SRV1030/leetcode/tree/master/2998-count-symmetric-integers) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/SRV1030/leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
