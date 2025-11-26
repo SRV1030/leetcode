@@ -1,12 +1,7 @@
 class Solution {
-    struct pair_hash {
-        size_t operator()(const pair<int,int>& p) const noexcept {
-            return ((size_t)p.first << 32) ^ (size_t)p.second;
-        }
-    };
 public:
     vector<long long> countBlackBlocks(int m, int n, vector<vector<int>>& coordinates) {
-        unordered_map<pair<int, int>, long long, pair_hash> subMatrix;
+        map<pair<int, int>, long long> subMatrix;
         vector<vector<int>> directions = {{0, 0} , {0, -1}, {-1, 0}, {-1, -1}};
 
         for(auto& cord : coordinates){
