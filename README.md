@@ -163,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1772-create-sorted-array-through-instructions](https://github.com/SRV1030/leetcode/tree/master/1772-create-sorted-array-through-instructions) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/SRV1030/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1813-maximum-erasure-value](https://github.com/SRV1030/leetcode/tree/master/1813-maximum-erasure-value) |
+| [1814-count-nice-pairs-in-an-array](https://github.com/SRV1030/leetcode/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/SRV1030/leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/SRV1030/leetcode/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/SRV1030/leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -386,6 +387,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1694-make-sum-divisible-by-p](https://github.com/SRV1030/leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/SRV1030/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1813-maximum-erasure-value](https://github.com/SRV1030/leetcode/tree/master/1813-maximum-erasure-value) |
+| [1814-count-nice-pairs-in-an-array](https://github.com/SRV1030/leetcode/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/SRV1030/leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2023-design-movie-rental-system](https://github.com/SRV1030/leetcode/tree/master/2023-design-movie-rental-system) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/SRV1030/leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
@@ -1384,6 +1386,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1636-number-of-substrings-with-only-1s](https://github.com/SRV1030/leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1678-number-of-ways-to-split-a-string](https://github.com/SRV1030/leetcode/tree/master/1678-number-of-ways-to-split-a-string) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SRV1030/leetcode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1814-count-nice-pairs-in-an-array](https://github.com/SRV1030/leetcode/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/SRV1030/leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/SRV1030/leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/SRV1030/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -1514,6 +1517,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1364-tuple-with-same-product](https://github.com/SRV1030/leetcode/tree/master/1364-tuple-with-same-product) |
 | [1502-construct-k-palindrome-strings](https://github.com/SRV1030/leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/SRV1030/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1814-count-nice-pairs-in-an-array](https://github.com/SRV1030/leetcode/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2300-construct-string-with-repeat-limit](https://github.com/SRV1030/leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2308-divide-array-into-equal-pairs](https://github.com/SRV1030/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2448-count-number-of-bad-pairs](https://github.com/SRV1030/leetcode/tree/master/2448-count-number-of-bad-pairs) |
