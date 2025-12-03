@@ -1167,6 +1167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0494-target-sum](https://github.com/SRV1030/leetcode/tree/master/0494-target-sum) |
 | [0647-palindromic-substrings](https://github.com/SRV1030/leetcode/tree/master/0647-palindromic-substrings) |
 | [0741-cherry-pickup](https://github.com/SRV1030/leetcode/tree/master/0741-cherry-pickup) |
+| [0788-rotated-digits](https://github.com/SRV1030/leetcode/tree/master/0788-rotated-digits) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/SRV1030/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0806-domino-and-tromino-tiling](https://github.com/SRV1030/leetcode/tree/master/0806-domino-and-tromino-tiling) |
 | [0808-number-of-matching-subsequences](https://github.com/SRV1030/leetcode/tree/master/0808-number-of-matching-subsequences) |
@@ -1380,6 +1381,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0633-sum-of-square-numbers](https://github.com/SRV1030/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0670-maximum-swap](https://github.com/SRV1030/leetcode/tree/master/0670-maximum-swap) |
 | [0679-24-game](https://github.com/SRV1030/leetcode/tree/master/0679-24-game) |
+| [0788-rotated-digits](https://github.com/SRV1030/leetcode/tree/master/0788-rotated-digits) |
 | [0797-rabbits-in-forest](https://github.com/SRV1030/leetcode/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/SRV1030/leetcode/tree/master/0826-soup-servings) |
 | [0830-largest-triangle-area](https://github.com/SRV1030/leetcode/tree/master/0830-largest-triangle-area) |
