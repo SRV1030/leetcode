@@ -1,22 +1,22 @@
 class MyCalendar {
 public:
-    set<pair<int,int>>cld;
+    map<int,int>calendar;
+    MyCalendar() {
+        
+    }
     
-    bool book(int start, int end) {
-        const pair<int,int>ev{start,end};
-        const auto next = cld.lower_bound(ev);
-        if(next!=cld.end() && next->first < end)return false;
-        if(next!=cld.begin()){
-            const auto pre = prev(next);
-            if(pre->second>start) return false;
+    bool book(int startTime, int endTime) {
+        auto calendarItr = calendar.upper_bound(startTime);
+        if(calendarItr == calendar.end() || endTime <= calendarItr->second){
+            calendar[endTime] = startTime;
+            return true;
         }
-        cld.insert(ev);
-        return true;
+        return false;
     }
 };
 
 /**
  * Your MyCalendar object will be instantiated and called as such:
  * MyCalendar* obj = new MyCalendar();
- * bool param_1 = obj->book(start,end);
+ * bool param_1 = obj->book(startTime,endTime);
  */
