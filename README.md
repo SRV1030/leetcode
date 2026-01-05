@@ -181,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1951-find-the-winner-of-the-circular-game](https://github.com/SRV1030/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1957-closest-room](https://github.com/SRV1030/leetcode/tree/master/1957-closest-room) |
 | [1972-rotating-the-box](https://github.com/SRV1030/leetcode/tree/master/1972-rotating-the-box) |
+| [1975-maximum-matrix-sum](https://github.com/SRV1030/leetcode/tree/master/1975-maximum-matrix-sum) |
 | [1989-minimum-xor-sum-of-two-arrays](https://github.com/SRV1030/leetcode/tree/master/1989-minimum-xor-sum-of-two-arrays) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/SRV1030/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/SRV1030/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -525,6 +526,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1818-maximum-score-from-removing-substrings](https://github.com/SRV1030/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/SRV1030/leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/SRV1030/leetcode/tree/master/1917-maximum-average-pass-ratio) |
+| [1975-maximum-matrix-sum](https://github.com/SRV1030/leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2089-maximum-matrix-sum](https://github.com/SRV1030/leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/SRV1030/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/SRV1030/leetcode/tree/master/2123-the-number-of-weak-characters-in-the-game) |
@@ -993,6 +995,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1628-count-submatrices-with-all-ones](https://github.com/SRV1030/leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1876-map-of-highest-peak](https://github.com/SRV1030/leetcode/tree/master/1876-map-of-highest-peak) |
 | [1972-rotating-the-box](https://github.com/SRV1030/leetcode/tree/master/1972-rotating-the-box) |
+| [1975-maximum-matrix-sum](https://github.com/SRV1030/leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2035-count-sub-islands](https://github.com/SRV1030/leetcode/tree/master/2035-count-sub-islands) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/SRV1030/leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2089-maximum-matrix-sum](https://github.com/SRV1030/leetcode/tree/master/2089-maximum-matrix-sum) |
