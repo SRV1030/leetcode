@@ -1,40 +1,34 @@
 class Solution {
 public:
     int maximalRectangle(vector<vector<char>>& matrix) {
-        if(matrix.empty()) return 0;
-        int rowSize = matrix.size();
-        int colSize = matrix[0].size();
-        vector<int> height(colSize),leftLength(colSize),rightLength(colSize,colSize);
-        int maxArea = 0;
-        for(int row = 0;row < rowSize; row++){
-            int left = 0,right = colSize;
-            for(int col = 0; col < colSize; col++){
-                if(matrix[row][col]=='1') leftLength[col] = max(leftLength[col],left);
-                else {
-                    leftLength[col] = 0;
-                    left = col + 1;
+        int area = 0, rows = matrix.size(), cols = matrix[0].size();
+        vector<int> left(cols), right(cols, cols), height(cols);
+        for(int row = 0; row < rows; ++row){
+            int curLeft = 0, curRight = cols;
+            for(int col = 0; col < cols; ++col){
+                if(matrix[row][col] == '1'){
+                    height[col]++;
+                    left[col] = max(curLeft, left[col]);
+                }
+                else{
+                    height[col] = 0;
+                    left[col] = 0;
+                    curLeft = col + 1;
                 }
             }
-
-            for(int col = 0; col < colSize; col++){
-                if(matrix[row][col]=='1') height[col]++;
-                else height[col] = 0;
-            }
-
-            for(int col = colSize - 1; col >=0; col--){
-                if(matrix[row][col]=='1') {
-                    rightLength[col] = min(right,rightLength[col]);
+            for(int col = cols - 1; col >= 0; --col){
+                if(matrix[row][col] == '1'){
+                    right[col] = min(curRight, right[col]);
                 }
-                else {
-                    rightLength[col] = colSize;
-                    right = col;
+                else{
+                    right[col] = cols;
+                    curRight = col;
                 }
             }
-
-            for(int col = 0; col < colSize; col++)
-                maxArea = max(maxArea, (rightLength[col] - leftLength[col]) * height[col]);
-            
+            for(int col = 0; col < cols; ++col){
+                area = max(area,(right[col] - left[col]) * height[col]);
+            }
         }
-        return maxArea;
+        return area;
     }
 };
