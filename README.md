@@ -98,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0729-my-calendar-i](https://github.com/SRV1030/leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/SRV1030/leetcode/tree/master/0731-my-calendar-ii) |
 | [0741-cherry-pickup](https://github.com/SRV1030/leetcode/tree/master/0741-cherry-pickup) |
+| [0746-min-cost-climbing-stairs](https://github.com/SRV1030/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0759-set-intersection-size-at-least-two](https://github.com/SRV1030/leetcode/tree/master/0759-set-intersection-size-at-least-two) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/SRV1030/leetcode/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/SRV1030/leetcode/tree/master/0780-max-chunks-to-make-sorted) |
@@ -1191,6 +1192,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0647-palindromic-substrings](https://github.com/SRV1030/leetcode/tree/master/0647-palindromic-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/SRV1030/leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0741-cherry-pickup](https://github.com/SRV1030/leetcode/tree/master/0741-cherry-pickup) |
+| [0746-min-cost-climbing-stairs](https://github.com/SRV1030/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0788-rotated-digits](https://github.com/SRV1030/leetcode/tree/master/0788-rotated-digits) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/SRV1030/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0806-domino-and-tromino-tiling](https://github.com/SRV1030/leetcode/tree/master/0806-domino-and-tromino-tiling) |
