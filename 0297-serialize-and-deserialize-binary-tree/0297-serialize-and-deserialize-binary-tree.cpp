@@ -9,30 +9,30 @@
  */
 class Codec {
 public:
+    string encodedString(TreeNode* root){
+        if(!root)
+            return ",n";
+        string ls = encodedString(root->left), rs = encodedString(root->right);
+        return "," + to_string(root->val) + ls + rs;
+    }
 
     // Encodes a tree to a single string.
-    string encodedString(TreeNode* root){
-        if(!root) return ",n";
-        string res = ","+to_string(root->val);
-        res+=encodedString(root->left);
-        res+=encodedString(root->right);
-        return res;
-    }
     string serialize(TreeNode* root) {
-        string res = encodedString(root);
-        return res.substr(1);
+        return encodedString(root).substr(1);
+    }
+
+    TreeNode* decodedString(stringstream &data){
+        string val;
+        getline(data, val ,',');
+        if(val == "n")
+            return NULL;
+        TreeNode* node = new TreeNode(stoi(val));
+        node->left = decodedString(data);
+        node->right = decodedString(data);
+        return node;
     }
 
     // Decodes your encoded data to tree.
-    TreeNode* decodedString(stringstream &str){
-        string val;
-        getline(str,val,',');
-        if(val=="n") return NULL;
-        TreeNode* root = new TreeNode(stoi(val));
-        root->left = decodedString(str);
-        root->right = decodedString(str);
-        return root;
-    }
     TreeNode* deserialize(string data) {
         stringstream str(data);
         return decodedString(str);
