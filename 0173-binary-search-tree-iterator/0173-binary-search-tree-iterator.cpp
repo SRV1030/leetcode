@@ -10,24 +10,29 @@
  * };
  */
 class BSTIterator {
-    stack<TreeNode*>nodeStack;
-    void fillStack(TreeNode* root){
-        for(;root;root=root->left)nodeStack.push(root);
-    }
+    vector<int> data;
+    int index;
 public:
+    void fillData(TreeNode* root){
+        if(!root)
+            return;
+        fillData(root->left);
+        data.push_back(root->val);
+        fillData(root->right);
+    }
     BSTIterator(TreeNode* root) {
-        fillStack(root);
+        fillData(root);
+        index = 0;
     }
     
     int next() {
-        TreeNode* next = nodeStack.top();
-        nodeStack.pop();
-        fillStack(next->right);
-        return next->val;
+        if(hasNext())
+            return data[index++];
+        return -1;
     }
     
     bool hasNext() {
-        return !nodeStack.empty();
+        return index < data.size();
     }
 };
 
