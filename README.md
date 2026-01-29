@@ -834,6 +834,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0854-making-a-large-island](https://github.com/SRV1030/leetcode/tree/master/0854-making-a-large-island) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/SRV1030/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0869-similar-string-groups](https://github.com/SRV1030/leetcode/tree/master/0869-similar-string-groups) |
+| [0886-possible-bipartition](https://github.com/SRV1030/leetcode/tree/master/0886-possible-bipartition) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/SRV1030/leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/SRV1030/leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/SRV1030/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -936,6 +937,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0854-making-a-large-island](https://github.com/SRV1030/leetcode/tree/master/0854-making-a-large-island) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/SRV1030/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0869-similar-string-groups](https://github.com/SRV1030/leetcode/tree/master/0869-similar-string-groups) |
+| [0886-possible-bipartition](https://github.com/SRV1030/leetcode/tree/master/0886-possible-bipartition) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/SRV1030/leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0945-snakes-and-ladders](https://github.com/SRV1030/leetcode/tree/master/0945-snakes-and-ladders) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/SRV1030/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -1990,5 +1992,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Graph Theory
 |  |
 | ------- |
+| [0886-possible-bipartition](https://github.com/SRV1030/leetcode/tree/master/0886-possible-bipartition) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/SRV1030/leetcode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+## Union-Find
+|  |
+| ------- |
+| [0886-possible-bipartition](https://github.com/SRV1030/leetcode/tree/master/0886-possible-bipartition) |
 <!---LeetCode Topics End-->
