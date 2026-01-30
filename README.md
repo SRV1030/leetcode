@@ -279,6 +279,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/SRV1030/leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2915-count-of-interesting-subarrays](https://github.com/SRV1030/leetcode/tree/master/2915-count-of-interesting-subarrays) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/SRV1030/leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/SRV1030/leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3001-apply-operations-to-maximize-score](https://github.com/SRV1030/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3071-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/SRV1030/leetcode/tree/master/3071-minimum-operations-to-write-the-letter-y-on-a-grid) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/SRV1030/leetcode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
@@ -915,6 +916,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/SRV1030/leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2803-modify-graph-edge-weights](https://github.com/SRV1030/leetcode/tree/master/2803-modify-graph-edge-weights) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/SRV1030/leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/SRV1030/leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/SRV1030/leetcode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Breadth-First Search
 |  |
@@ -1167,6 +1169,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/SRV1030/leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2887-sort-vowels-in-a-string](https://github.com/SRV1030/leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/SRV1030/leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/SRV1030/leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/SRV1030/leetcode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3195-separate-black-and-white-balls](https://github.com/SRV1030/leetcode/tree/master/3195-separate-black-and-white-balls) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/SRV1030/leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
@@ -1273,6 +1276,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2757-count-of-integers](https://github.com/SRV1030/leetcode/tree/master/2757-count-of-integers) |
 | [2808-painting-the-walls](https://github.com/SRV1030/leetcode/tree/master/2808-painting-the-walls) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/SRV1030/leetcode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/SRV1030/leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3017-number-of-beautiful-integers-in-the-range](https://github.com/SRV1030/leetcode/tree/master/3017-number-of-beautiful-integers-in-the-range) |
 | [3105-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/SRV1030/leetcode/tree/master/3105-minimum-edge-reversals-so-every-node-is-reachable) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/SRV1030/leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
@@ -1704,6 +1708,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/SRV1030/leetcode/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/SRV1030/leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/SRV1030/leetcode/tree/master/2755-extra-characters-in-a-string) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/SRV1030/leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/SRV1030/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/SRV1030/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3784-longest-common-prefix-of-k-strings-after-removal](https://github.com/SRV1030/leetcode/tree/master/3784-longest-common-prefix-of-k-strings-after-removal) |
@@ -2017,6 +2022,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0886-possible-bipartition](https://github.com/SRV1030/leetcode/tree/master/0886-possible-bipartition) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/SRV1030/leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/SRV1030/leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/SRV1030/leetcode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Union-Find
 |  |
