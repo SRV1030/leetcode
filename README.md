@@ -1116,6 +1116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/SRV1030/leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0720-longest-word-in-dictionary](https://github.com/SRV1030/leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0721-accounts-merge](https://github.com/SRV1030/leetcode/tree/master/0721-accounts-merge) |
+| [0730-count-different-palindromic-subsequences](https://github.com/SRV1030/leetcode/tree/master/0730-count-different-palindromic-subsequences) |
 | [0763-partition-labels](https://github.com/SRV1030/leetcode/tree/master/0763-partition-labels) |
 | [0768-partition-labels](https://github.com/SRV1030/leetcode/tree/master/0768-partition-labels) |
 | [0793-swap-adjacent-in-lr-string](https://github.com/SRV1030/leetcode/tree/master/0793-swap-adjacent-in-lr-string) |
@@ -1239,6 +1240,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0647-palindromic-substrings](https://github.com/SRV1030/leetcode/tree/master/0647-palindromic-substrings) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/SRV1030/leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/SRV1030/leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0730-count-different-palindromic-subsequences](https://github.com/SRV1030/leetcode/tree/master/0730-count-different-palindromic-subsequences) |
 | [0741-cherry-pickup](https://github.com/SRV1030/leetcode/tree/master/0741-cherry-pickup) |
 | [0746-min-cost-climbing-stairs](https://github.com/SRV1030/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0788-rotated-digits](https://github.com/SRV1030/leetcode/tree/master/0788-rotated-digits) |
