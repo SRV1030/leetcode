@@ -1458,6 +1458,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/SRV1030/leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0445-add-two-numbers-ii](https://github.com/SRV1030/leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/SRV1030/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0470-implement-rand10-using-rand7](https://github.com/SRV1030/leetcode/tree/master/0470-implement-rand10-using-rand7) |
 | [0539-minimum-time-difference](https://github.com/SRV1030/leetcode/tree/master/0539-minimum-time-difference) |
 | [0556-next-greater-element-iii](https://github.com/SRV1030/leetcode/tree/master/0556-next-greater-element-iii) |
 | [0564-find-the-closest-palindrome](https://github.com/SRV1030/leetcode/tree/master/0564-find-the-closest-palindrome) |
@@ -1996,6 +1997,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/SRV1030/leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0470-implement-rand10-using-rand7](https://github.com/SRV1030/leetcode/tree/master/0470-implement-rand10-using-rand7) |
 | [0912-random-pick-with-weight](https://github.com/SRV1030/leetcode/tree/master/0912-random-pick-with-weight) |
 ## Doubly-Linked List
 |  |
@@ -2010,6 +2012,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Probability and Statistics
 |  |
 | ------- |
+| [0470-implement-rand10-using-rand7](https://github.com/SRV1030/leetcode/tree/master/0470-implement-rand10-using-rand7) |
 | [0826-soup-servings](https://github.com/SRV1030/leetcode/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/SRV1030/leetcode/tree/master/0867-new-21-game) |
 ## Game Theory
@@ -2035,4 +2038,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0886-possible-bipartition](https://github.com/SRV1030/leetcode/tree/master/0886-possible-bipartition) |
+## Rejection Sampling
+|  |
+| ------- |
+| [0470-implement-rand10-using-rand7](https://github.com/SRV1030/leetcode/tree/master/0470-implement-rand10-using-rand7) |
 <!---LeetCode Topics End-->
