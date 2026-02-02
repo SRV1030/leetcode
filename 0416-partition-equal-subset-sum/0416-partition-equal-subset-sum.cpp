@@ -1,22 +1,27 @@
 class Solution {
+    vector<vector<int>> memo;
 public:
-    vector<vector<int>>dp; 
-    bool subsetSum(vector<int>& nums,int i,int sum){
-        if(i>=nums.size()) return false;
-        if(sum==0) return true;
-        if(dp[i][sum]!=-1) return dp[i][sum] == 1;
-        bool ans = false;
-        ans|= subsetSum(nums,i+1,sum);
-        if(nums[i]<=sum) ans|= subsetSum(nums,i+1,sum-nums[i]);
-        dp[i][sum] = ans?1:2;
-        return ans;
+    bool check(vector<int>& nums, int total, int index){
+        if(total == 0)
+            return true;
+        if(index >= nums.size())
+            return false;
+        int& res = memo[index][total];
+        if(res == -1){
+            res = check(nums, total, index + 1);
+            if(nums[index] <= total)
+                res |= check(nums, total - nums[index], index + 1);
+        }
+        return res;
     }
     bool canPartition(vector<int>& nums) {
-        int sum = 0;
-        for(auto&i:nums)sum+=i;
-        if(sum%2) return false;
-        sum/=2;
-        dp.resize(nums.size()+1,vector<int>(sum+1,-1));
-        return subsetSum(nums,0,sum);
+        int total = 0;
+        for(auto& num : nums)
+            total += num;
+        if(total % 2)
+            return false;
+        total /= 2;
+        memo = vector<vector<int>> (nums.size(), vector<int>(total + 1, -1));
+        return check(nums, total, 0);
     }
 };
