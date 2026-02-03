@@ -7,24 +7,17 @@ public:
     }
     
     void addNum(int num) {
-        if(maxHeap.empty())maxHeap.push(num);
-        else{
-            if(num>maxHeap.top()){
-                minHeap.push(num);
-                if(maxHeap.size()+1==minHeap.size()){
-                    maxHeap.push(minHeap.top());
-                    minHeap.pop();
-                }
-            }
-            else{
-                maxHeap.push(num);
-                if(maxHeap.size()>1+minHeap.size()){
-                    minHeap.push(maxHeap.top());
-                    maxHeap.pop();
-                }
-            }
+        maxHeap.push(num);
+
+        minHeap.push(maxHeap.top());
+        maxHeap.pop();
+
+        if (maxHeap.size() < minHeap.size()) {
+            maxHeap.push(minHeap.top());
+            minHeap.pop();
         }
     }
+
     
     double findMedian() {
         int total = maxHeap.size() + minHeap.size();
