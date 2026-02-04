@@ -244,6 +244,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/SRV1030/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/SRV1030/leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2529-range-product-queries-of-powers](https://github.com/SRV1030/leetcode/tree/master/2529-range-product-queries-of-powers) |
+| [2532-time-to-cross-a-bridge](https://github.com/SRV1030/leetcode/tree/master/2532-time-to-cross-a-bridge) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/SRV1030/leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2551-apply-operations-to-an-array](https://github.com/SRV1030/leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SRV1030/leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -707,6 +708,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/SRV1030/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2479-meeting-rooms-iii](https://github.com/SRV1030/leetcode/tree/master/2479-meeting-rooms-iii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/SRV1030/leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2532-time-to-cross-a-bridge](https://github.com/SRV1030/leetcode/tree/master/2532-time-to-cross-a-bridge) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/SRV1030/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/SRV1030/leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2681-put-marbles-in-bags](https://github.com/SRV1030/leetcode/tree/master/2681-put-marbles-in-bags) |
@@ -1338,6 +1340,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2411-spiral-matrix-iv](https://github.com/SRV1030/leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2428-equal-row-and-column-pairs](https://github.com/SRV1030/leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [2479-meeting-rooms-iii](https://github.com/SRV1030/leetcode/tree/master/2479-meeting-rooms-iii) |
+| [2532-time-to-cross-a-bridge](https://github.com/SRV1030/leetcode/tree/master/2532-time-to-cross-a-bridge) |
 | [2551-apply-operations-to-an-array](https://github.com/SRV1030/leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2679-count-distinct-numbers-on-board](https://github.com/SRV1030/leetcode/tree/master/2679-count-distinct-numbers-on-board) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/SRV1030/leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
