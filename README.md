@@ -498,6 +498,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0231-power-of-two](https://github.com/SRV1030/leetcode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/SRV1030/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/SRV1030/leetcode/tree/master/0342-power-of-four) |
+| [0401-binary-watch](https://github.com/SRV1030/leetcode/tree/master/0401-binary-watch) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/SRV1030/leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0476-number-complement](https://github.com/SRV1030/leetcode/tree/master/0476-number-complement) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/SRV1030/leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
@@ -1904,6 +1905,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0095-unique-binary-search-trees-ii](https://github.com/SRV1030/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0131-palindrome-partitioning](https://github.com/SRV1030/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0212-word-search-ii](https://github.com/SRV1030/leetcode/tree/master/0212-word-search-ii) |
+| [0401-binary-watch](https://github.com/SRV1030/leetcode/tree/master/0401-binary-watch) |
 | [0494-target-sum](https://github.com/SRV1030/leetcode/tree/master/0494-target-sum) |
 | [0679-24-game](https://github.com/SRV1030/leetcode/tree/master/0679-24-game) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/SRV1030/leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
