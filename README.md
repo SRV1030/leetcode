@@ -339,6 +339,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/SRV1030/leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3748-sort-matrix-by-diagonals](https://github.com/SRV1030/leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3765-minimum-cost-to-divide-array-into-subarrays](https://github.com/SRV1030/leetcode/tree/master/3765-minimum-cost-to-divide-array-into-subarrays) |
+| [3768-minimum-inversion-count-in-subarrays-of-fixed-length](https://github.com/SRV1030/leetcode/tree/master/3768-minimum-inversion-count-in-subarrays-of-fixed-length) |
 | [3784-longest-common-prefix-of-k-strings-after-removal](https://github.com/SRV1030/leetcode/tree/master/3784-longest-common-prefix-of-k-strings-after-removal) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/SRV1030/leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/SRV1030/leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
@@ -633,6 +634,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/SRV1030/leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/SRV1030/leetcode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/SRV1030/leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
+| [3768-minimum-inversion-count-in-subarrays-of-fixed-length](https://github.com/SRV1030/leetcode/tree/master/3768-minimum-inversion-count-in-subarrays-of-fixed-length) |
 ## Sorting
 |  |
 | ------- |
@@ -1832,6 +1834,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2280-count-good-triplets-in-an-array](https://github.com/SRV1030/leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/SRV1030/leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3721-longest-balanced-subarray-ii](https://github.com/SRV1030/leetcode/tree/master/3721-longest-balanced-subarray-ii) |
+| [3768-minimum-inversion-count-in-subarrays-of-fixed-length](https://github.com/SRV1030/leetcode/tree/master/3768-minimum-inversion-count-in-subarrays-of-fixed-length) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/SRV1030/leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/SRV1030/leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/SRV1030/leetcode/tree/master/3791-fruits-into-baskets-iii) |
