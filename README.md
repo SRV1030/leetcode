@@ -508,6 +508,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0934-bitwise-ors-of-subarrays](https://github.com/SRV1030/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0980-find-the-shortest-superstring](https://github.com/SRV1030/leetcode/tree/master/0980-find-the-shortest-superstring) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/SRV1030/leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/SRV1030/leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1435-xor-queries-of-a-subarray](https://github.com/SRV1030/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/SRV1030/leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/SRV1030/leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -1181,6 +1182,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1264-maximum-number-of-words-you-can-type](https://github.com/SRV1030/leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/SRV1030/leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1304-longest-happy-string](https://github.com/SRV1030/leetcode/tree/master/1304-longest-happy-string) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/SRV1030/leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/SRV1030/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/SRV1030/leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/SRV1030/leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -1366,6 +1368,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0498-diagonal-traverse](https://github.com/SRV1030/leetcode/tree/master/0498-diagonal-traverse) |
 | [0906-walking-robot-simulation](https://github.com/SRV1030/leetcode/tree/master/0906-walking-robot-simulation) |
 | [0946-validate-stack-sequences](https://github.com/SRV1030/leetcode/tree/master/0946-validate-stack-sequences) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/SRV1030/leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/SRV1030/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/SRV1030/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/SRV1030/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
