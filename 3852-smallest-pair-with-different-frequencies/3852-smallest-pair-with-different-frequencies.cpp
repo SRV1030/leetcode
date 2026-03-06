@@ -6,11 +6,15 @@ public:
         map<int, int> mp;
         for(auto& num : nums)
             mp[num]++;
-        for(auto&[key, value] : mp)
-            for(auto&[key2, value2] : mp){
-                if(key != key2 && value != value2)
-                    return {key, key2};
+        int prev = -1, fr = -1;
+        for(auto&[key, value] : mp){
+            if(prev == -1){
+                prev = key;
+                fr = value;
             }
+            else if(value != fr)
+                return {prev, key};
+        }
         return {-1, -1};
     }
 };
