@@ -742,6 +742,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2532-time-to-cross-a-bridge](https://github.com/SRV1030/leetcode/tree/master/2532-time-to-cross-a-bridge) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/SRV1030/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/SRV1030/leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2642-design-graph-with-shortest-path-calculator](https://github.com/SRV1030/leetcode/tree/master/2642-design-graph-with-shortest-path-calculator) |
 | [2681-put-marbles-in-bags](https://github.com/SRV1030/leetcode/tree/master/2681-put-marbles-in-bags) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/SRV1030/leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/SRV1030/leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -967,6 +968,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/SRV1030/leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/SRV1030/leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/SRV1030/leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2642-design-graph-with-shortest-path-calculator](https://github.com/SRV1030/leetcode/tree/master/2642-design-graph-with-shortest-path-calculator) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/SRV1030/leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2803-modify-graph-edge-weights](https://github.com/SRV1030/leetcode/tree/master/2803-modify-graph-edge-weights) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/SRV1030/leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -1838,6 +1840,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2023-design-movie-rental-system](https://github.com/SRV1030/leetcode/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/SRV1030/leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/SRV1030/leetcode/tree/master/2434-design-a-number-container-system) |
+| [2642-design-graph-with-shortest-path-calculator](https://github.com/SRV1030/leetcode/tree/master/2642-design-graph-with-shortest-path-calculator) |
 | [3797-design-spreadsheet](https://github.com/SRV1030/leetcode/tree/master/3797-design-spreadsheet) |
 ## Segment Tree
 |  |
@@ -2142,6 +2145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0886-possible-bipartition](https://github.com/SRV1030/leetcode/tree/master/0886-possible-bipartition) |
+| [2642-design-graph-with-shortest-path-calculator](https://github.com/SRV1030/leetcode/tree/master/2642-design-graph-with-shortest-path-calculator) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/SRV1030/leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/SRV1030/leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/SRV1030/leetcode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
