@@ -10,31 +10,31 @@
  * };
  */
 class Solution {
+    vector<vector<vector<TreeNode*>>> memo;
 public:
-    vector<vector<vector<TreeNode*>>> memory;
-    vector<TreeNode*> generateAllUniqueBST(int start, int end){
+    vector<TreeNode*> generate(int start, int end){
         if(start > end)
             return {NULL};
-        vector<TreeNode*>& allTrees = memory[start][end];
-        if(allTrees.empty()){
-            for(int node = start; node <= end; node++){
-                vector<TreeNode*> leftSubBSTs = generateAllUniqueBST(start, node - 1);
-                vector<TreeNode*> rightSubBSTs = generateAllUniqueBST(node + 1, end);
-                for(auto& leftSubBST: leftSubBSTs)
-                    for(auto& rightSubBST: rightSubBSTs){
+        
+        vector<TreeNode*>& allPos = memo[start][end];
+        if(allPos.empty()){
+            for(int node = start; node <= end; ++node){
+                vector<TreeNode*> lefts = generate(start, node - 1);
+                vector<TreeNode*> rights = generate(node + 1, end);
+                for(auto& left : lefts){
+                    for(auto& right : rights){
                         TreeNode* root = new TreeNode(node);
-                        root->left = leftSubBST;
-                        root->right = rightSubBST;
-                        allTrees.push_back(root);
+                        root->left = left;
+                        root->right = right;
+                        allPos.push_back(root);
                     }
+                }
             }
         }
-        return allTrees;
+        return allPos;
     }
     vector<TreeNode*> generateTrees(int n) {
-        if(!n)
-            return vector<TreeNode*>();
-        memory = vector<vector<vector<TreeNode*>>>(n+1, vector<vector<TreeNode*>>(n+1));
-        return generateAllUniqueBST(1, n);
+        memo = vector<vector<vector<TreeNode*>>> (n + 1, vector<vector<TreeNode*>>(n + 1));
+        return generate(1 , n);
     }
 };
