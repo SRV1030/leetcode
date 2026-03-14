@@ -191,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1917-maximum-average-pass-ratio](https://github.com/SRV1030/leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [1923-sentence-similarity-iii](https://github.com/SRV1030/leetcode/tree/master/1923-sentence-similarity-iii) |
 | [1940-maximum-xor-for-each-query](https://github.com/SRV1030/leetcode/tree/master/1940-maximum-xor-for-each-query) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/SRV1030/leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/SRV1030/leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/SRV1030/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1957-closest-room](https://github.com/SRV1030/leetcode/tree/master/1957-closest-room) |
@@ -791,6 +792,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/SRV1030/leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/SRV1030/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/SRV1030/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/SRV1030/leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/SRV1030/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/SRV1030/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/SRV1030/leetcode/tree/master/2123-the-number-of-weak-characters-in-the-game) |
@@ -1978,6 +1980,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/SRV1030/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1628-count-submatrices-with-all-ones](https://github.com/SRV1030/leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/SRV1030/leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/SRV1030/leetcode/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/SRV1030/leetcode/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 | [3001-apply-operations-to-maximize-score](https://github.com/SRV1030/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/SRV1030/leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
