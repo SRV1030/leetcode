@@ -1,67 +1,84 @@
 class LRUCache {
-public:
-    struct Node {
-        int key;
-        int value;
-        Node *next, *prev;
-        Node(int key, int value) {
-            this->key = key;
-            this->value = value;
-            prev = NULL;
-            next = NULL;
+    class Node{
+    public:
+        int key, value;
+        Node *previous, *next;
+        Node(int _key, int _value){
+            key = _key;
+            value = _value;
         }
     };
 
-    Node *head = new Node(-1, -1), *tail = new Node(-1, -1);
+    class DoublyLinkedList{
+    public:
+        Node *head, *tail;
+        DoublyLinkedList(){
+            head = new Node(-1, -1);
+            tail = new Node(-1, -1);
+            head->next = tail;
+            tail->previous = head;
+        }
+
+        void addNode(Node* node){
+            Node* next = head->next;
+            node->next = next;
+            next->previous = node;
+            head->next = node;
+            node->previous = head;
+        }
+
+        void removeNode(Node* node){
+            Node *next = node->next;
+            Node *previous = node->previous;
+            previous->next = next;
+            next->previous = previous;
+        }
+
+        Node* removeLastNode(){
+            Node* node = tail->previous;
+            removeNode(node);
+            return node;
+        }
+
+        void updateList(Node* node){
+            removeNode(node);
+            addNode(node);
+        }
+    };
+
     int capacity;
+    DoublyLinkedList *list;
     unordered_map<int, Node*> nodeMap;
-
-    void addNode(Node* node) {
-        Node* headNext = head->next;
-        head->next = node;
-        node->next = headNext;
-        node->prev = head;
-        headNext->prev = node;
+public:
+    LRUCache(int _capacity) {
+        capacity = _capacity;
+        list = new DoublyLinkedList();
     }
-
-    void deleteNode(Node* node) {
-        Node* prev = node->prev;
-        Node* next = node->next;
-        prev->next = next;
-        next->prev = prev;
-        delete(node);
-    }
-
-    LRUCache(int capacity) {
-        this->capacity = capacity;
-        head->next = tail;
-        tail->prev = head;
-    }
-
+    
     int get(int key) {
-        if (nodeMap.count(key)) {
+        if(nodeMap.count(key)){
             Node* node = nodeMap[key];
-            int value = node->value;
-            nodeMap.erase(key);
-            deleteNode(node);
-            addNode(new Node(key, value));
-            nodeMap[key] = head->next;
-            return value;
+            list->updateList(node);
+            return node->value;
         }
         return -1;
     }
-
+    
     void put(int key, int value) {
-        if (nodeMap.count(key)) {
+        if(nodeMap.count(key)){
             Node* node = nodeMap[key];
-            nodeMap.erase(key);
-            deleteNode(node);
-        } else if (nodeMap.size() == capacity) {
-            nodeMap.erase(tail->prev->key);
-            deleteNode(tail->prev);
+            node->value = value;
+            list->updateList(node);
+            return;
         }
-        addNode(new Node(key, value));
-        nodeMap[key] = head->next;
+        if(nodeMap.size() == capacity){
+            Node* leastRecentlyUsedNode = list->removeLastNode();
+            nodeMap.erase(leastRecentlyUsedNode->key);
+            delete leastRecentlyUsedNode;
+        }
+        Node* node = new Node(key, value);
+        list->addNode(node);
+        nodeMap[key] = node;
     }
 };
 
