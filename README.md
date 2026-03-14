@@ -2151,6 +2151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/SRV1030/leetcode/tree/master/0207-course-schedule) |
 | [0886-possible-bipartition](https://github.com/SRV1030/leetcode/tree/master/0886-possible-bipartition) |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/SRV1030/leetcode/tree/master/2642-design-graph-with-shortest-path-calculator) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/SRV1030/leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
