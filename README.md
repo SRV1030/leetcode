@@ -438,6 +438,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1612-avoid-flood-in-the-city](https://github.com/SRV1030/leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [1694-make-sum-divisible-by-p](https://github.com/SRV1030/leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/SRV1030/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1797-design-authentication-manager](https://github.com/SRV1030/leetcode/tree/master/1797-design-authentication-manager) |
 | [1813-maximum-erasure-value](https://github.com/SRV1030/leetcode/tree/master/1813-maximum-erasure-value) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/SRV1030/leetcode/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/SRV1030/leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -1666,6 +1667,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0725-split-linked-list-in-parts](https://github.com/SRV1030/leetcode/tree/master/0725-split-linked-list-in-parts) |
 | [0908-middle-of-the-linked-list](https://github.com/SRV1030/leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1484-linked-list-in-binary-tree](https://github.com/SRV1030/leetcode/tree/master/1484-linked-list-in-binary-tree) |
+| [1797-design-authentication-manager](https://github.com/SRV1030/leetcode/tree/master/1797-design-authentication-manager) |
 | [2411-spiral-matrix-iv](https://github.com/SRV1030/leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/SRV1030/leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/SRV1030/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -1857,6 +1859,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0789-kth-largest-element-in-a-stream](https://github.com/SRV1030/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/SRV1030/leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/SRV1030/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
+| [1797-design-authentication-manager](https://github.com/SRV1030/leetcode/tree/master/1797-design-authentication-manager) |
 | [2023-design-movie-rental-system](https://github.com/SRV1030/leetcode/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/SRV1030/leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/SRV1030/leetcode/tree/master/2434-design-a-number-container-system) |
@@ -2141,6 +2144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0146-lru-cache](https://github.com/SRV1030/leetcode/tree/master/0146-lru-cache) |
 | [0432-all-oone-data-structure](https://github.com/SRV1030/leetcode/tree/master/0432-all-oone-data-structure) |
 | [0460-lfu-cache](https://github.com/SRV1030/leetcode/tree/master/0460-lfu-cache) |
+| [1797-design-authentication-manager](https://github.com/SRV1030/leetcode/tree/master/1797-design-authentication-manager) |
 ## Iterator
 |  |
 | ------- |
