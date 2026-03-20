@@ -361,6 +361,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/SRV1030/leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3863-power-grid-maintenance](https://github.com/SRV1030/leetcode/tree/master/3863-power-grid-maintenance) |
 | [3866-first-unique-even-element](https://github.com/SRV1030/leetcode/tree/master/3866-first-unique-even-element) |
+| [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/SRV1030/leetcode/tree/master/3868-minimum-cost-to-equalize-arrays-using-swaps) |
 | [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/SRV1030/leetcode/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 ## Hash Table
 |  |
@@ -503,6 +504,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3809-properties-graph](https://github.com/SRV1030/leetcode/tree/master/3809-properties-graph) |
 | [3863-power-grid-maintenance](https://github.com/SRV1030/leetcode/tree/master/3863-power-grid-maintenance) |
 | [3866-first-unique-even-element](https://github.com/SRV1030/leetcode/tree/master/3866-first-unique-even-element) |
+| [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/SRV1030/leetcode/tree/master/3868-minimum-cost-to-equalize-arrays-using-swaps) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/SRV1030/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/SRV1030/leetcode/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 ## Bit Manipulation
@@ -617,6 +619,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/SRV1030/leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/SRV1030/leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3806-maximum-bitwise-and-after-increment-operations](https://github.com/SRV1030/leetcode/tree/master/3806-maximum-bitwise-and-after-increment-operations) |
+| [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/SRV1030/leetcode/tree/master/3868-minimum-cost-to-equalize-arrays-using-swaps) |
 ## Sliding Window
 |  |
 | ------- |
@@ -1763,6 +1766,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3713-longest-balanced-substring-i](https://github.com/SRV1030/leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/SRV1030/leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3866-first-unique-even-element](https://github.com/SRV1030/leetcode/tree/master/3866-first-unique-even-element) |
+| [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/SRV1030/leetcode/tree/master/3868-minimum-cost-to-equalize-arrays-using-swaps) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/SRV1030/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/SRV1030/leetcode/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 ## Brainteaser
