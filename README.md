@@ -177,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1755-defuse-the-bomb](https://github.com/SRV1030/leetcode/tree/master/1755-defuse-the-bomb) |
 | [1772-create-sorted-array-through-instructions](https://github.com/SRV1030/leetcode/tree/master/1772-create-sorted-array-through-instructions) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/SRV1030/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/SRV1030/leetcode/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
 | [1813-maximum-erasure-value](https://github.com/SRV1030/leetcode/tree/master/1813-maximum-erasure-value) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/SRV1030/leetcode/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/SRV1030/leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
@@ -592,6 +593,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1612-avoid-flood-in-the-city](https://github.com/SRV1030/leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/SRV1030/leetcode/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/SRV1030/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/SRV1030/leetcode/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/SRV1030/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/SRV1030/leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/SRV1030/leetcode/tree/master/1917-maximum-average-pass-ratio) |
@@ -690,6 +692,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1468-check-if-n-and-its-double-exist](https://github.com/SRV1030/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/SRV1030/leetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1675-magnetic-force-between-two-balls](https://github.com/SRV1030/leetcode/tree/master/1675-magnetic-force-between-two-balls) |
+| [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/SRV1030/leetcode/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/SRV1030/leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/SRV1030/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1957-closest-room](https://github.com/SRV1030/leetcode/tree/master/1957-closest-room) |
