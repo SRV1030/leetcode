@@ -1334,6 +1334,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0300-longest-increasing-subsequence](https://github.com/SRV1030/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/SRV1030/leetcode/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/SRV1030/leetcode/tree/master/0337-house-robber-iii) |
+| [0343-integer-break](https://github.com/SRV1030/leetcode/tree/master/0343-integer-break) |
 | [0368-largest-divisible-subset](https://github.com/SRV1030/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0377-combination-sum-iv](https://github.com/SRV1030/leetcode/tree/master/0377-combination-sum-iv) |
 | [0410-split-array-largest-sum](https://github.com/SRV1030/leetcode/tree/master/0410-split-array-largest-sum) |
@@ -1580,6 +1581,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0319-bulb-switcher](https://github.com/SRV1030/leetcode/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/SRV1030/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/SRV1030/leetcode/tree/master/0342-power-of-four) |
+| [0343-integer-break](https://github.com/SRV1030/leetcode/tree/master/0343-integer-break) |
 | [0367-valid-perfect-square](https://github.com/SRV1030/leetcode/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/SRV1030/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/SRV1030/leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
