@@ -158,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1487-cinema-seat-allocation](https://github.com/SRV1030/leetcode/tree/master/1487-cinema-seat-allocation) |
 | [1524-string-matching-in-an-array](https://github.com/SRV1030/leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1531-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/SRV1030/leetcode/tree/master/1531-number-of-ways-to-wear-different-hats-to-each-other) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/SRV1030/leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/SRV1030/leetcode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1559-cherry-pickup-ii](https://github.com/SRV1030/leetcode/tree/master/1559-cherry-pickup-ii) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/SRV1030/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -693,6 +694,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/SRV1030/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/SRV1030/leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/SRV1030/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/SRV1030/leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/SRV1030/leetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1675-magnetic-force-between-two-balls](https://github.com/SRV1030/leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 | [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/SRV1030/leetcode/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
@@ -1369,6 +1371,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1250-longest-common-subsequence](https://github.com/SRV1030/leetcode/tree/master/1250-longest-common-subsequence) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/SRV1030/leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1531-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/SRV1030/leetcode/tree/master/1531-number-of-ways-to-wear-different-hats-to-each-other) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/SRV1030/leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1559-cherry-pickup-ii](https://github.com/SRV1030/leetcode/tree/master/1559-cherry-pickup-ii) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/SRV1030/leetcode/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1628-count-submatrices-with-all-ones](https://github.com/SRV1030/leetcode/tree/master/1628-count-submatrices-with-all-ones) |
