@@ -1,10 +1,11 @@
 class Solution {
 public:
     vector<int> survivedRobotsHealths(vector<int>& positions, vector<int>& healths, string directions) {
-        vector<vector<int>> leftStack;
+        int size = positions.size();
+        vector<int> finalHealth(size, -1);
         vector<vector<int>> rightStack;
         vector<vector<int>> superSet;
-        for(int index = 0; index < positions.size(); ++index){
+        for(int index = 0; index < size; ++index){
             superSet.push_back({positions[index], healths[index], directions[index] == 'R', index});
         }
         sort(superSet.begin(), superSet.end());
@@ -31,19 +32,18 @@ public:
                     }
                 }
                 if(!noEntry && rightStack.empty()){
-                    leftStack.push_back({arr[3], arr[1]});
+                    finalHealth[arr[3]] = arr[1];
                 }
             }
         }
-        map<int, int> merger;
-        for(auto& arr: leftStack)
-            merger[arr[0]] = arr[1];
+        
         for(auto& arr: rightStack)
-            merger[arr[0]] = arr[1];
+            finalHealth[arr[0]] = arr[1];
         
         vector<int> res;
-        for(auto&[key, val] : merger)
-            res.push_back(val);
+        for(auto&val : finalHealth)
+            if(val != -1)
+                res.push_back(val);
         return res;
     }
 };
