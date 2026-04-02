@@ -314,6 +314,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3379-transformed-array](https://github.com/SRV1030/leetcode/tree/master/3379-transformed-array) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/SRV1030/leetcode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/SRV1030/leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/SRV1030/leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3427-special-array-ii](https://github.com/SRV1030/leetcode/tree/master/3427-special-array-ii) |
 | [3430-count-days-without-meetings](https://github.com/SRV1030/leetcode/tree/master/3430-count-days-without-meetings) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/SRV1030/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -1157,6 +1158,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3071-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/SRV1030/leetcode/tree/master/3071-minimum-operations-to-write-the-letter-y-on-a-grid) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/SRV1030/leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3227-find-missing-and-repeated-values](https://github.com/SRV1030/leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/SRV1030/leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3546-equal-sum-grid-partition-i](https://github.com/SRV1030/leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/SRV1030/leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/SRV1030/leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
@@ -1404,6 +1406,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3105-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/SRV1030/leetcode/tree/master/3105-minimum-edge-reversals-so-every-node-is-reachable) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/SRV1030/leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/SRV1030/leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/SRV1030/leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/SRV1030/leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3518-maximum-multiplication-score](https://github.com/SRV1030/leetcode/tree/master/3518-maximum-multiplication-score) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/SRV1030/leetcode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
