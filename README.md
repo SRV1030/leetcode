@@ -288,6 +288,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2768-number-of-black-blocks](https://github.com/SRV1030/leetcode/tree/master/2768-number-of-black-blocks) |
 | [2792-neighboring-bitwise-xor](https://github.com/SRV1030/leetcode/tree/master/2792-neighboring-bitwise-xor) |
 | [2808-painting-the-walls](https://github.com/SRV1030/leetcode/tree/master/2808-painting-the-walls) |
+| [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/SRV1030/leetcode/tree/master/2850-minimum-moves-to-spread-stones-over-grid) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/SRV1030/leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2868-continuous-subarrays](https://github.com/SRV1030/leetcode/tree/master/2868-continuous-subarrays) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/SRV1030/leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -558,6 +559,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/SRV1030/leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/SRV1030/leetcode/tree/master/2792-neighboring-bitwise-xor) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/SRV1030/leetcode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/SRV1030/leetcode/tree/master/2850-minimum-moves-to-spread-stones-over-grid) |
 | [2939-maximum-xor-product](https://github.com/SRV1030/leetcode/tree/master/2939-maximum-xor-product) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/SRV1030/leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/SRV1030/leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
@@ -1156,6 +1158,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2685-first-completely-painted-row-or-column](https://github.com/SRV1030/leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/SRV1030/leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/SRV1030/leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/SRV1030/leetcode/tree/master/2850-minimum-moves-to-spread-stones-over-grid) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/SRV1030/leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3071-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/SRV1030/leetcode/tree/master/3071-minimum-operations-to-write-the-letter-y-on-a-grid) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/SRV1030/leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
@@ -1403,6 +1406,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2755-extra-characters-in-a-string](https://github.com/SRV1030/leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [2757-count-of-integers](https://github.com/SRV1030/leetcode/tree/master/2757-count-of-integers) |
 | [2808-painting-the-walls](https://github.com/SRV1030/leetcode/tree/master/2808-painting-the-walls) |
+| [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/SRV1030/leetcode/tree/master/2850-minimum-moves-to-spread-stones-over-grid) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/SRV1030/leetcode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/SRV1030/leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3017-number-of-beautiful-integers-in-the-range](https://github.com/SRV1030/leetcode/tree/master/3017-number-of-beautiful-integers-in-the-range) |
@@ -1426,6 +1430,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0980-find-the-shortest-superstring](https://github.com/SRV1030/leetcode/tree/master/0980-find-the-shortest-superstring) |
 | [1531-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/SRV1030/leetcode/tree/master/1531-number-of-ways-to-wear-different-hats-to-each-other) |
 | [1989-minimum-xor-sum-of-two-arrays](https://github.com/SRV1030/leetcode/tree/master/1989-minimum-xor-sum-of-two-arrays) |
+| [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/SRV1030/leetcode/tree/master/2850-minimum-moves-to-spread-stones-over-grid) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/SRV1030/leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Simulation
 |  |
@@ -2028,6 +2033,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2107-find-unique-binary-string](https://github.com/SRV1030/leetcode/tree/master/2107-find-unique-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/SRV1030/leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/SRV1030/leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/SRV1030/leetcode/tree/master/2850-minimum-moves-to-spread-stones-over-grid) |
 ## Monotonic Stack
 |  |
 | ------- |
