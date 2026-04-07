@@ -1449,6 +1449,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1951-find-the-winner-of-the-circular-game](https://github.com/SRV1030/leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/SRV1030/leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/SRV1030/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2069-walking-robot-simulation-ii](https://github.com/SRV1030/leetcode/tree/master/2069-walking-robot-simulation-ii) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/SRV1030/leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/SRV1030/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/SRV1030/leetcode/tree/master/2155-find-missing-observations) |
@@ -1911,6 +1912,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1477-product-of-the-last-k-numbers](https://github.com/SRV1030/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1797-design-authentication-manager](https://github.com/SRV1030/leetcode/tree/master/1797-design-authentication-manager) |
 | [2023-design-movie-rental-system](https://github.com/SRV1030/leetcode/tree/master/2023-design-movie-rental-system) |
+| [2069-walking-robot-simulation-ii](https://github.com/SRV1030/leetcode/tree/master/2069-walking-robot-simulation-ii) |
 | [2429-design-a-food-rating-system](https://github.com/SRV1030/leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/SRV1030/leetcode/tree/master/2434-design-a-number-container-system) |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/SRV1030/leetcode/tree/master/2642-design-graph-with-shortest-path-calculator) |
