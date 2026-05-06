@@ -149,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/SRV1030/leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/SRV1030/leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1364-tuple-with-same-product](https://github.com/SRV1030/leetcode/tree/master/1364-tuple-with-same-product) |
+| [1366-rank-teams-by-votes](https://github.com/SRV1030/leetcode/tree/master/1366-rank-teams-by-votes) |
 | [1372-check-if-it-is-a-good-array](https://github.com/SRV1030/leetcode/tree/master/1372-check-if-it-is-a-good-array) |
 | [1380-number-of-closed-islands](https://github.com/SRV1030/leetcode/tree/master/1380-number-of-closed-islands) |
 | [1390-four-divisors](https://github.com/SRV1030/leetcode/tree/master/1390-four-divisors) |
@@ -450,6 +451,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/SRV1030/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/SRV1030/leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1364-tuple-with-same-product](https://github.com/SRV1030/leetcode/tree/master/1364-tuple-with-same-product) |
+| [1366-rank-teams-by-votes](https://github.com/SRV1030/leetcode/tree/master/1366-rank-teams-by-votes) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/SRV1030/leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/SRV1030/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/SRV1030/leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -713,6 +715,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0900-reordered-power-of-2](https://github.com/SRV1030/leetcode/tree/master/0900-reordered-power-of-2) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/SRV1030/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/SRV1030/leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1366-rank-teams-by-votes](https://github.com/SRV1030/leetcode/tree/master/1366-rank-teams-by-votes) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/SRV1030/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/SRV1030/leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/SRV1030/leetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
@@ -1258,6 +1261,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1302-delete-characters-to-make-fancy-string](https://github.com/SRV1030/leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1304-longest-happy-string](https://github.com/SRV1030/leetcode/tree/master/1304-longest-happy-string) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/SRV1030/leetcode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
+| [1366-rank-teams-by-votes](https://github.com/SRV1030/leetcode/tree/master/1366-rank-teams-by-votes) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/SRV1030/leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/SRV1030/leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/SRV1030/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -1811,6 +1815,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1034-subarrays-with-k-different-integers](https://github.com/SRV1030/leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1160-letter-tile-possibilities](https://github.com/SRV1030/leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/SRV1030/leetcode/tree/master/1364-tuple-with-same-product) |
+| [1366-rank-teams-by-votes](https://github.com/SRV1030/leetcode/tree/master/1366-rank-teams-by-votes) |
 | [1502-construct-k-palindrome-strings](https://github.com/SRV1030/leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/SRV1030/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/SRV1030/leetcode/tree/master/1814-count-nice-pairs-in-an-array) |
