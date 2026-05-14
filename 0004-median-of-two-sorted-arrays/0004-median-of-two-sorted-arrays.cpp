@@ -1,24 +1,25 @@
 class Solution {
 public:
     double findMedianSortedArrays(vector<int>& nums1, vector<int>& nums2) {
-        int n1=nums1.size(),n2=nums2.size();
-        if(n1>n2)findMedianSortedArrays(nums2,nums1);
-        int nt=n1+n2;
-        int md=(nt+1)/2;
-        int s=max(0,md-n2),e=min(n1,md); 
-        while(s<=e){
-            int m1=(s+e)/2,m2=md-m1;
-            int l1=(m1-1>=0)?nums1[m1-1]:INT_MIN;
-            int l2=(m2-1>=0)?nums2[m2-1]:INT_MIN;
-            int r1=(m1<n1)?nums1[m1]:INT_MAX;
-            int r2=(m2<n2)?nums2[m2]:INT_MAX;
-            if(l1<=r2 && l2<=r1){
-                if(nt%2)return max(l1,l2);
-                return (max(l1,l2)+min(r1,r2))/2.0;
+        int size1 = nums1.size(), size2 = nums2.size();
+        if(size1 > size2)
+            return findMedianSortedArrays(nums2, nums1);
+        int left = 0, right = size1;
+        while(left <= right){
+            int part1 = (left + right) / 2;
+            int part2 = (size1 + size2 + 1) / 2 - part1;
+            int leftMax1 =  part1 == 0 ? INT_MIN : nums1[part1 - 1];
+            int leftMax2 =  part2 == 0 ? INT_MIN : nums2[part2 - 1];
+            int rightMin1 =  part1 == size1 ? INT_MAX : nums1[part1];
+            int rightMin2 =  part2 == size2 ? INT_MAX : nums2[part2];
+            if(leftMax1 <= rightMin2 && leftMax2 <= rightMin1){
+                return (size1 + size2) % 2 ? max(leftMax1, leftMax2) : (double) (max(leftMax1, leftMax2) + min(rightMin1, rightMin2)) / 2.0;
             }
-            if(l1>r2)e=m1-1;
-            else s=m1+1;
+            else if(leftMax1 > rightMin2)
+                right = part1 - 1;
+            else 
+                left = part1 + 1;
         }
-        return 0;
+        return 0.0;
     }
 };
