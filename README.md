@@ -100,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0636-exclusive-time-of-functions](https://github.com/SRV1030/leetcode/tree/master/0636-exclusive-time-of-functions) |
 | [0658-find-k-closest-elements](https://github.com/SRV1030/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0679-24-game](https://github.com/SRV1030/leetcode/tree/master/0679-24-game) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/SRV1030/leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0690-employee-importance](https://github.com/SRV1030/leetcode/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/SRV1030/leetcode/tree/master/0695-max-area-of-island) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/SRV1030/leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
@@ -670,6 +671,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/SRV1030/leetcode/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SRV1030/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/SRV1030/leetcode/tree/master/0658-find-k-closest-elements) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/SRV1030/leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0867-new-21-game](https://github.com/SRV1030/leetcode/tree/master/0867-new-21-game) |
 | [0904-fruit-into-baskets](https://github.com/SRV1030/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0940-fruit-into-baskets](https://github.com/SRV1030/leetcode/tree/master/0940-fruit-into-baskets) |
@@ -1400,6 +1402,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0494-target-sum](https://github.com/SRV1030/leetcode/tree/master/0494-target-sum) |
 | [0647-palindromic-substrings](https://github.com/SRV1030/leetcode/tree/master/0647-palindromic-substrings) |
 | [0664-strange-printer](https://github.com/SRV1030/leetcode/tree/master/0664-strange-printer) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/SRV1030/leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/SRV1030/leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/SRV1030/leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0730-count-different-palindromic-subsequences](https://github.com/SRV1030/leetcode/tree/master/0730-count-different-palindromic-subsequences) |
@@ -1590,6 +1593,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/SRV1030/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0304-range-sum-query-2d-immutable](https://github.com/SRV1030/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0410-split-array-largest-sum](https://github.com/SRV1030/leetcode/tree/master/0410-split-array-largest-sum) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/SRV1030/leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0731-my-calendar-ii](https://github.com/SRV1030/leetcode/tree/master/0731-my-calendar-ii) |
 | [0912-random-pick-with-weight](https://github.com/SRV1030/leetcode/tree/master/0912-random-pick-with-weight) |
 | [1435-xor-queries-of-a-subarray](https://github.com/SRV1030/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
