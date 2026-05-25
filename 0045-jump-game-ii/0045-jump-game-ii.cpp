@@ -1,12 +1,12 @@
 class Solution {
 public:
     int jump(vector<int>& nums) {
-        int farthestJump = 0, jumps = 0, farthestIndex = 0;
+        int jumps = 0, mx = 0, cur = 0;
         for(int index = 0; index < nums.size() - 1; ++index){
-            farthestJump = max(farthestJump, index + nums[index]);
-            if(index == farthestIndex){
+            mx = max(mx, index + nums[index]);
+            if(cur == index){
+                cur = mx;
                 ++jumps;
-                farthestIndex = farthestJump;
             }
         }
         return jumps;
