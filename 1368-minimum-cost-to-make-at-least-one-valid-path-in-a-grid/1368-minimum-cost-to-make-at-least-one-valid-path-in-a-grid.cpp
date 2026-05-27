@@ -1,27 +1,55 @@
 class Solution {
 public:
     int minCost(vector<vector<int>>& grid) {
-        int rows = grid.size(), cols = grid[0].size();
-        vector<vector<int>> distance(rows, vector<int>(cols, INT_MAX));
-        priority_queue<vector<int>, vector<vector<int>>, greater<>> heap;
-        vector<vector<int>> directions = {{0, 1}, {0, -1}, {1, 0}, {-1, 0}};
-        heap.push({0, 0, 0});
-        distance[0][0] = 0;
-        while(!heap.empty()){
-            vector<int> state = heap.top();
-            heap.pop();
-            int cost = state[0], row = state[1], col = state[2];
-            for(int dir = 0; dir < 4; ++dir){
-                int x = row + directions[dir][0], y = col + directions[dir][1];
-                if(min(x, y) < 0 || x >= rows || y >= cols)
+        int rows = grid.size();
+        int cols = grid[0].size();
+
+        vector<vector<int>> dist(
+            rows, vector<int>(cols, INT_MAX)
+        );
+
+        deque<pair<int,int>> dq;
+
+        // right, left, down, up
+        vector<vector<int>> dir = {
+            {0,1},
+            {0,-1},
+            {1,0},
+            {-1,0}
+        };
+
+        dq.push_front({0,0});
+        dist[0][0] = 0;
+
+        while(!dq.empty()) {
+
+            auto [r,c] = dq.front();
+            dq.pop_front();
+
+            for(int d=0; d<4; d++) {
+
+                int nr = r + dir[d][0];
+                int nc = c + dir[d][1];
+
+                if(nr<0 || nc<0 || nr>=rows || nc>=cols)
                     continue;
-                int wt = grid[row][col] == (dir + 1) ? 0 : 1;
-                if(distance[x][y] > wt + cost){
-                    distance[x][y] = wt + cost;
-                    heap.push({distance[x][y], x, y});
+
+                // 0 if current cell already points there
+                // otherwise modify sign once (cost=1)
+                int wt = (grid[r][c] == d+1) ? 0 : 1;
+
+                if(dist[nr][nc] > dist[r][c] + wt){
+
+                    dist[nr][nc] = dist[r][c] + wt;
+
+                    if(wt==0)
+                        dq.push_front({nr,nc});
+                    else
+                        dq.push_back({nr,nc});
                 }
             }
         }
-        return distance[rows - 1][cols - 1];
+
+        return dist[rows-1][cols-1];
     }
 };
