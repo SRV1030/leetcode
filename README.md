@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0064-minimum-path-sum](https://github.com/SRV1030/leetcode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/SRV1030/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/SRV1030/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/SRV1030/leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/SRV1030/leetcode/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/SRV1030/leetcode/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/SRV1030/leetcode/tree/master/0088-merge-sorted-array) |
@@ -549,6 +550,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/SRV1030/leetcode/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/SRV1030/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/SRV1030/leetcode/tree/master/0090-subsets-ii) |
 | [0187-repeated-dna-sequences](https://github.com/SRV1030/leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0190-reverse-bits](https://github.com/SRV1030/leetcode/tree/master/0190-reverse-bits) |
@@ -2087,6 +2089,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0046-permutations](https://github.com/SRV1030/leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/SRV1030/leetcode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/SRV1030/leetcode/tree/master/0051-n-queens) |
+| [0078-subsets](https://github.com/SRV1030/leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/SRV1030/leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/SRV1030/leetcode/tree/master/0090-subsets-ii) |
 | [0095-unique-binary-search-trees-ii](https://github.com/SRV1030/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
