@@ -243,6 +243,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2164-two-best-non-overlapping-events](https://github.com/SRV1030/leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/SRV1030/leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/SRV1030/leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2188-minimum-time-to-finish-the-race](https://github.com/SRV1030/leetcode/tree/master/2188-minimum-time-to-finish-the-race) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/SRV1030/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2232-adding-spaces-to-a-string](https://github.com/SRV1030/leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2262-solving-questions-with-brainpower](https://github.com/SRV1030/leetcode/tree/master/2262-solving-questions-with-brainpower) |
@@ -1475,6 +1476,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2067-maximum-number-of-points-with-cost](https://github.com/SRV1030/leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/SRV1030/leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2164-two-best-non-overlapping-events](https://github.com/SRV1030/leetcode/tree/master/2164-two-best-non-overlapping-events) |
+| [2188-minimum-time-to-finish-the-race](https://github.com/SRV1030/leetcode/tree/master/2188-minimum-time-to-finish-the-race) |
 | [2262-solving-questions-with-brainpower](https://github.com/SRV1030/leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/SRV1030/leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/SRV1030/leetcode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
