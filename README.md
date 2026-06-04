@@ -269,6 +269,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/SRV1030/leetcode/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [2448-count-number-of-bad-pairs](https://github.com/SRV1030/leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/SRV1030/leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
+| [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/SRV1030/leetcode/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
 | [2463-minimum-total-distance-traveled](https://github.com/SRV1030/leetcode/tree/master/2463-minimum-total-distance-traveled) |
 | [2465-shifting-letters-ii](https://github.com/SRV1030/leetcode/tree/master/2465-shifting-letters-ii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/SRV1030/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -952,6 +953,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SRV1030/leetcode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/SRV1030/leetcode/tree/master/2364-longest-path-with-different-adjacent-characters) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/SRV1030/leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
+| [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/SRV1030/leetcode/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/SRV1030/leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/SRV1030/leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/SRV1030/leetcode/tree/master/2872-maximum-number-of-k-divisible-components) |
@@ -1025,6 +1027,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/SRV1030/leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/SRV1030/leetcode/tree/master/2364-longest-path-with-different-adjacent-characters) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/SRV1030/leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
+| [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/SRV1030/leetcode/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/SRV1030/leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/SRV1030/leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/SRV1030/leetcode/tree/master/2793-count-the-number-of-complete-components) |
@@ -1137,6 +1140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1876-map-of-highest-peak](https://github.com/SRV1030/leetcode/tree/master/1876-map-of-highest-peak) |
 | [2035-count-sub-islands](https://github.com/SRV1030/leetcode/tree/master/2035-count-sub-islands) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/SRV1030/leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/SRV1030/leetcode/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/SRV1030/leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/SRV1030/leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/SRV1030/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -1875,6 +1879,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1484-linked-list-in-binary-tree](https://github.com/SRV1030/leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/SRV1030/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1692-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SRV1030/leetcode/tree/master/1692-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/SRV1030/leetcode/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/SRV1030/leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/SRV1030/leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Number Theory
