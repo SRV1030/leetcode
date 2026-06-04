@@ -1514,6 +1514,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3640-trionic-array-ii](https://github.com/SRV1030/leetcode/tree/master/3640-trionic-array-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/SRV1030/leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/SRV1030/leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/SRV1030/leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3765-minimum-cost-to-divide-array-into-subarrays](https://github.com/SRV1030/leetcode/tree/master/3765-minimum-cost-to-divide-array-into-subarrays) |
 | [3808-longest-palindrome-after-substring-concatenation-ii](https://github.com/SRV1030/leetcode/tree/master/3808-longest-palindrome-after-substring-concatenation-ii) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/SRV1030/leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
@@ -1794,6 +1795,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3676-smallest-number-with-all-set-bits](https://github.com/SRV1030/leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/SRV1030/leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/SRV1030/leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/SRV1030/leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/SRV1030/leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/SRV1030/leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3817-maximum-containers-on-a-ship](https://github.com/SRV1030/leetcode/tree/master/3817-maximum-containers-on-a-ship) |
@@ -2296,6 +2298,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/SRV1030/leetcode/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3546-equal-sum-grid-partition-i](https://github.com/SRV1030/leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3713-longest-balanced-substring-i](https://github.com/SRV1030/leetcode/tree/master/3713-longest-balanced-substring-i) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/SRV1030/leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/SRV1030/leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/SRV1030/leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3799-unique-3-digit-even-numbers](https://github.com/SRV1030/leetcode/tree/master/3799-unique-3-digit-even-numbers) |
