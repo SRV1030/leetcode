@@ -1445,6 +1445,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0322-coin-change](https://github.com/SRV1030/leetcode/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/SRV1030/leetcode/tree/master/0337-house-robber-iii) |
 | [0343-integer-break](https://github.com/SRV1030/leetcode/tree/master/0343-integer-break) |
+| [0357-count-numbers-with-unique-digits](https://github.com/SRV1030/leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0368-largest-divisible-subset](https://github.com/SRV1030/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0377-combination-sum-iv](https://github.com/SRV1030/leetcode/tree/master/0377-combination-sum-iv) |
 | [0410-split-array-largest-sum](https://github.com/SRV1030/leetcode/tree/master/0410-split-array-largest-sum) |
@@ -1723,6 +1724,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0326-power-of-three](https://github.com/SRV1030/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/SRV1030/leetcode/tree/master/0342-power-of-four) |
 | [0343-integer-break](https://github.com/SRV1030/leetcode/tree/master/0343-integer-break) |
+| [0357-count-numbers-with-unique-digits](https://github.com/SRV1030/leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0367-valid-perfect-square](https://github.com/SRV1030/leetcode/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/SRV1030/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/SRV1030/leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
@@ -2158,6 +2160,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0095-unique-binary-search-trees-ii](https://github.com/SRV1030/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0131-palindrome-partitioning](https://github.com/SRV1030/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0212-word-search-ii](https://github.com/SRV1030/leetcode/tree/master/0212-word-search-ii) |
+| [0357-count-numbers-with-unique-digits](https://github.com/SRV1030/leetcode/tree/master/0357-count-numbers-with-unique-digits) |
 | [0401-binary-watch](https://github.com/SRV1030/leetcode/tree/master/0401-binary-watch) |
 | [0494-target-sum](https://github.com/SRV1030/leetcode/tree/master/0494-target-sum) |
 | [0679-24-game](https://github.com/SRV1030/leetcode/tree/master/0679-24-game) |
