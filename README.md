@@ -2383,6 +2383,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/SRV1030/leetcode/tree/master/0207-course-schedule) |
+| [0399-evaluate-division](https://github.com/SRV1030/leetcode/tree/master/0399-evaluate-division) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/SRV1030/leetcode/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0886-possible-bipartition](https://github.com/SRV1030/leetcode/tree/master/0886-possible-bipartition) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/SRV1030/leetcode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -2395,6 +2396,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/SRV1030/leetcode/tree/master/0200-number-of-islands) |
+| [0399-evaluate-division](https://github.com/SRV1030/leetcode/tree/master/0399-evaluate-division) |
 | [0827-making-a-large-island](https://github.com/SRV1030/leetcode/tree/master/0827-making-a-large-island) |
 | [0886-possible-bipartition](https://github.com/SRV1030/leetcode/tree/master/0886-possible-bipartition) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/SRV1030/leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
