@@ -1,45 +1,69 @@
 class Solution {
-private:
-    int BASE = 1000000;
 public:
-    int repeatedStringMatch(string A, string B) {
-        if(A == B) return 1;
-        int count = 1;
-        string source = A;
-        while(source.size() < B.size()){
-            count++;
-            source+=A;
+    vector<int> buildLPS(string &pat) {
+        int m = pat.size();
+        vector<int> lps(m, 0);
+
+        int len = 0;
+        int i = 1;
+
+        while (i < m) {
+            if (pat[i] == pat[len]) {
+                lps[i++] = ++len;
+            } else {
+                if (len)
+                    len = lps[len - 1];
+                else
+                    i++;
+            }
         }
-        if(source == B) return count;
-        if(Rabin_Karp(source,B) != -1) return count;
-        if(Rabin_Karp(source+A,B) != -1) return count+1;
-        return -1;
+
+        return lps;
     }
-    int Rabin_Karp(string source, string target){
-        if(source == "" or target == "") return -1;
-        int m = target.size();
-        int power = 1;
-        for(int i = 0;i<m;i++){
-            power = (power*31)%BASE;
-        }
-        int targetCode = 0;
-        for(int i = 0;i<m;i++){
-            targetCode = (targetCode*31+target[i])%BASE;
-        }
-        int hashCode = 0;
-        for(int i = 0;i<source.size();i++){
-            hashCode = (hashCode*31 + source[i])%BASE;
-            if(i<m-1) continue;
-            if(i>=m){
-                hashCode = (hashCode-source[i-m]*power)%BASE;
-            }
-            if(hashCode<0)
-                hashCode+=BASE;
-            if(hashCode == targetCode){
-                if(source.substr(i-m+1,m) == target)
-                    return i-m+1;
+
+    bool kmpSearch(string &text, string &pat) {
+        vector<int> lps = buildLPS(pat);
+
+        int i = 0, j = 0;
+        int n = text.size();
+        int m = pat.size();
+
+        while (i < n) {
+            if (text[i] == pat[j]) {
+                i++;
+                j++;
+
+                if (j == m)
+                    return true;
+            } else {
+                if (j)
+                    j = lps[j - 1];
+                else
+                    i++;
             }
         }
+
+        return false;
+    }
+
+    int repeatedStringMatch(string a, string b) {
+        string s = a;
+
+        int cnt = 1;
+
+        while (s.size() < b.size()) {
+            s += a;
+            cnt++;
+        }
+
+        if (kmpSearch(s, b))
+            return cnt;
+
+        s += a;
+
+        if (kmpSearch(s, b))
+            return cnt + 1;
+
         return -1;
     }
 };
