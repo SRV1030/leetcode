@@ -387,6 +387,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3649-number-of-perfect-pairs](https://github.com/SRV1030/leetcode/tree/master/3649-number-of-perfect-pairs) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/SRV1030/leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/SRV1030/leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/SRV1030/leetcode/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/SRV1030/leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3721-longest-balanced-subarray-ii](https://github.com/SRV1030/leetcode/tree/master/3721-longest-balanced-subarray-ii) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/SRV1030/leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
@@ -690,6 +691,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/SRV1030/leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/SRV1030/leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/SRV1030/leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/SRV1030/leetcode/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/SRV1030/leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3806-maximum-bitwise-and-after-increment-operations](https://github.com/SRV1030/leetcode/tree/master/3806-maximum-bitwise-and-after-increment-operations) |
 | [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/SRV1030/leetcode/tree/master/3868-minimum-cost-to-equalize-arrays-using-swaps) |
@@ -862,6 +864,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/SRV1030/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/SRV1030/leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/SRV1030/leetcode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/SRV1030/leetcode/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3863-power-grid-maintenance](https://github.com/SRV1030/leetcode/tree/master/3863-power-grid-maintenance) |
 ## Stack
 |  |
@@ -2075,6 +2078,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1772-create-sorted-array-through-instructions](https://github.com/SRV1030/leetcode/tree/master/1772-create-sorted-array-through-instructions) |
 | [2280-count-good-triplets-in-an-array](https://github.com/SRV1030/leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/SRV1030/leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/SRV1030/leetcode/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3721-longest-balanced-subarray-ii](https://github.com/SRV1030/leetcode/tree/master/3721-longest-balanced-subarray-ii) |
 | [3768-minimum-inversion-count-in-subarrays-of-fixed-length](https://github.com/SRV1030/leetcode/tree/master/3768-minimum-inversion-count-in-subarrays-of-fixed-length) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/SRV1030/leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
