@@ -154,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1063-best-sightseeing-pair](https://github.com/SRV1030/leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1110-delete-nodes-and-return-forest](https://github.com/SRV1030/leetcode/tree/master/1110-delete-nodes-and-return-forest) |
 | [1127-last-stone-weight](https://github.com/SRV1030/leetcode/tree/master/1127-last-stone-weight) |
+| [1233-remove-sub-folders-from-the-filesystem](https://github.com/SRV1030/leetcode/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/SRV1030/leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1325-path-with-maximum-probability](https://github.com/SRV1030/leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/SRV1030/leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -1034,6 +1035,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/SRV1030/leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1110-delete-nodes-and-return-forest](https://github.com/SRV1030/leetcode/tree/master/1110-delete-nodes-and-return-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/SRV1030/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1233-remove-sub-folders-from-the-filesystem](https://github.com/SRV1030/leetcode/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/SRV1030/leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1380-number-of-closed-islands](https://github.com/SRV1030/leetcode/tree/master/1380-number-of-closed-islands) |
 | [1382-balance-a-binary-search-tree](https://github.com/SRV1030/leetcode/tree/master/1382-balance-a-binary-search-tree) |
@@ -1347,6 +1349,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/SRV1030/leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/SRV1030/leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/SRV1030/leetcode/tree/master/1170-shortest-common-supersequence) |
+| [1233-remove-sub-folders-from-the-filesystem](https://github.com/SRV1030/leetcode/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [1250-longest-common-subsequence](https://github.com/SRV1030/leetcode/tree/master/1250-longest-common-subsequence) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/SRV1030/leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/SRV1030/leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -2043,6 +2046,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/SRV1030/leetcode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [0720-longest-word-in-dictionary](https://github.com/SRV1030/leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0808-number-of-matching-subsequences](https://github.com/SRV1030/leetcode/tree/master/0808-number-of-matching-subsequences) |
+| [1233-remove-sub-folders-from-the-filesystem](https://github.com/SRV1030/leetcode/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/SRV1030/leetcode/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/SRV1030/leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/SRV1030/leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
