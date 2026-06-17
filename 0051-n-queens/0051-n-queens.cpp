@@ -1,46 +1,36 @@
 class Solution {
+    int dimension;
+    vector<vector<string>> allValidQueenPlacements;
+    vector<string> board;
 public:
-    vector<string>b;
-    vector<vector<string>> ans;
-    int n;
-    void printB(){
-        for(auto&i:b){
-            for(auto&j:i)cout<<j<<" ";
-            cout<<"\n";
-        }
-
+    bool canPlaceQueen(int& row, int& column){
+        for(int colIndex = 0; colIndex < column; colIndex++)
+            if(board[row][colIndex] == 'Q')
+                return false;
+        for(int colIndex = column, rowIndex = row; colIndex >= 0 && rowIndex >= 0; --colIndex, --rowIndex)
+            if(board[rowIndex][colIndex] == 'Q')
+                return false;
+        for(int colIndex = column, rowIndex = row; colIndex >= 0 && rowIndex < dimension; --colIndex, ++rowIndex)
+            if(board[rowIndex][colIndex] == 'Q')
+                return false;
+        return true;
     }
-    
-  bool isSafe(int r,int c){
-    for(int i=0;i<c;++i)
-        if(b[r][i]=='Q') return false;
-    for(int i=r,j=c;i>=0 && j>=0;--i,--j)
-        if(b[i][j]=='Q') return false;
-    for(int i=r,j=c;i<n && j>=0;++i,--j)
-        if(b[i][j]=='Q') return false;
-    return true;
-}
-    
-
-    void placeQ(int c){
-        if(c==n) {
-            ans.push_back(b);
+    void generateAllQueens(int column){
+        if(column == dimension){
+            allValidQueenPlacements.push_back(board);
             return;
         }
-        for(int r=0;r<n;++r){
-            if(isSafe(r,c)){
-                b[r][c]='Q';
-                placeQ(c+1);
-                b[r][c]='.';
+        for(int row = 0; row < dimension; row++)
+            if(canPlaceQueen(row, column)){
+                board[row][column] = 'Q';
+                generateAllQueens(column + 1);
+                board[row][column] = '.';
             }
-        }
     }
-    vector<vector<string>> solveNQueens(int sz) {
-        n=sz;
-        b=vector<string>(n);
-        string s(n,'.');
-        for(int i=0;i<n;++i)b[i]=s;
-        placeQ(0);
-        return ans;
+    vector<vector<string>> solveNQueens(int n) {
+        dimension = n;
+        board = vector<string>(dimension, string(n, '.'));
+        generateAllQueens(0);
+        return allValidQueenPlacements;
     }
 };
