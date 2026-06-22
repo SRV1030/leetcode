@@ -1355,6 +1355,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0730-count-different-palindromic-subsequences](https://github.com/SRV1030/leetcode/tree/master/0730-count-different-palindromic-subsequences) |
 | [0763-partition-labels](https://github.com/SRV1030/leetcode/tree/master/0763-partition-labels) |
 | [0768-partition-labels](https://github.com/SRV1030/leetcode/tree/master/0768-partition-labels) |
+| [0777-swap-adjacent-in-lr-string](https://github.com/SRV1030/leetcode/tree/master/0777-swap-adjacent-in-lr-string) |
 | [0793-swap-adjacent-in-lr-string](https://github.com/SRV1030/leetcode/tree/master/0793-swap-adjacent-in-lr-string) |
 | [0808-number-of-matching-subsequences](https://github.com/SRV1030/leetcode/tree/master/0808-number-of-matching-subsequences) |
 | [0862-find-and-replace-in-string](https://github.com/SRV1030/leetcode/tree/master/0862-find-and-replace-in-string) |
@@ -2181,6 +2182,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0658-find-k-closest-elements](https://github.com/SRV1030/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0763-partition-labels](https://github.com/SRV1030/leetcode/tree/master/0763-partition-labels) |
 | [0768-partition-labels](https://github.com/SRV1030/leetcode/tree/master/0768-partition-labels) |
+| [0777-swap-adjacent-in-lr-string](https://github.com/SRV1030/leetcode/tree/master/0777-swap-adjacent-in-lr-string) |
 | [0793-swap-adjacent-in-lr-string](https://github.com/SRV1030/leetcode/tree/master/0793-swap-adjacent-in-lr-string) |
 | [0908-middle-of-the-linked-list](https://github.com/SRV1030/leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/SRV1030/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
