@@ -1573,6 +1573,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3618-find-the-original-typed-string-ii](https://github.com/SRV1030/leetcode/tree/master/3618-find-the-original-typed-string-ii) |
 | [3640-trionic-array-ii](https://github.com/SRV1030/leetcode/tree/master/3640-trionic-array-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/SRV1030/leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/SRV1030/leetcode/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/SRV1030/leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/SRV1030/leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/SRV1030/leetcode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
@@ -1748,6 +1749,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3546-equal-sum-grid-partition-i](https://github.com/SRV1030/leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/SRV1030/leetcode/tree/master/3618-find-the-original-typed-string-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/SRV1030/leetcode/tree/master/3643-zero-array-transformation-ii) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/SRV1030/leetcode/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/SRV1030/leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3714-longest-balanced-substring-ii](https://github.com/SRV1030/leetcode/tree/master/3714-longest-balanced-substring-ii) |
 | [3721-longest-balanced-subarray-ii](https://github.com/SRV1030/leetcode/tree/master/3721-longest-balanced-subarray-ii) |
