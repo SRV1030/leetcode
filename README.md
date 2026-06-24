@@ -1577,6 +1577,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3640-trionic-array-ii](https://github.com/SRV1030/leetcode/tree/master/3640-trionic-array-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/SRV1030/leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/SRV1030/leetcode/tree/master/3699-number-of-zigzag-arrays-i) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/SRV1030/leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/SRV1030/leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/SRV1030/leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/SRV1030/leetcode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
@@ -1874,6 +1875,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3649-number-of-perfect-pairs](https://github.com/SRV1030/leetcode/tree/master/3649-number-of-perfect-pairs) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/SRV1030/leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/SRV1030/leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/SRV1030/leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/SRV1030/leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/SRV1030/leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/SRV1030/leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
