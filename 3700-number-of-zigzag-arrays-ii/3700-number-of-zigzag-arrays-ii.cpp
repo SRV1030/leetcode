@@ -3,8 +3,7 @@ private:
     const long long MOD = 1e9 + 7;
     using Matrix = vector<vector<long long>>;
 
-    Matrix multiplyMatrices(const Matrix& first,
-                            const Matrix& second) {
+    Matrix multiplyMatrices(const Matrix& first, const Matrix& second) {
 
         int rows = first.size();
         int cols = second[0].size();
@@ -22,8 +21,8 @@ private:
 
                 for (int col = 0; col < cols; col++) {
                     result[row][col] =
-                        (result[row][col] +
-                         currentValue * second[mid][col]) % MOD;
+                        (result[row][col] + currentValue * second[mid][col]) %
+                        MOD;
                 }
             }
         }
@@ -31,20 +30,16 @@ private:
         return result;
     }
 
-    Matrix matrixExponentiation(Matrix transitionMatrix,
-                                long long exponent,
+    Matrix matrixExponentiation(Matrix transitionMatrix, long long exponent,
                                 Matrix currentState) {
 
         while (exponent > 0) {
 
             if (exponent & 1)
-                currentState =
-                    multiplyMatrices(currentState,
-                                     transitionMatrix);
+                currentState = multiplyMatrices(currentState, transitionMatrix);
 
             transitionMatrix =
-                multiplyMatrices(transitionMatrix,
-                                 transitionMatrix);
+                multiplyMatrices(transitionMatrix, transitionMatrix);
 
             exponent >>= 1;
         }
@@ -74,39 +69,29 @@ public:
 
         int totalStates = 2 * numberOfValues;
 
-        Matrix transitionMatrix(
-            totalStates,
-            vector<long long>(totalStates, 0)
-        );
+        Matrix transitionMatrix(totalStates, vector<long long>(totalStates, 0));
 
-        for (int currentValue = 0;
-             currentValue < numberOfValues;
+        for (int currentValue = 0; currentValue < numberOfValues;
              currentValue++) {
 
             /*
                 Need a larger value next.
             */
             for (int largerValue = currentValue + 1;
-                 largerValue < numberOfValues;
-                 largerValue++) {
+                 largerValue < numberOfValues; largerValue++) {
 
-                transitionMatrix
-                    [currentValue + numberOfValues]
-                    [largerValue]
-                    = 1;
+                transitionMatrix[currentValue + numberOfValues][largerValue] =
+                    1;
             }
 
             /*
                 Need a smaller value next.
             */
-            for (int smallerValue = 0;
-                 smallerValue < currentValue;
+            for (int smallerValue = 0; smallerValue < currentValue;
                  smallerValue++) {
 
-                transitionMatrix
-                    [currentValue]
-                    [smallerValue + numberOfValues]
-                    = 1;
+                transitionMatrix[currentValue][smallerValue + numberOfValues] =
+                    1;
             }
         }
 
@@ -114,26 +99,15 @@ public:
             Length 1:
             Any value can be chosen initially.
         */
-        Matrix stateCount(
-            1,
-            vector<long long>(totalStates, 1)
-        );
+        Matrix stateCount(1, vector<long long>(totalStates, 1));
 
-        stateCount =
-            matrixExponentiation(
-                transitionMatrix,
-                n - 1,
-                stateCount
-            );
+        stateCount = matrixExponentiation(transitionMatrix, n - 1, stateCount);
 
         long long answer = 0;
 
-        for (int state = 0;
-             state < totalStates;
-             state++) {
+        for (int state = 0; state < totalStates; state++) {
 
-            answer =
-                (answer + stateCount[0][state]) % MOD;
+            answer = (answer + stateCount[0][state]) % MOD;
         }
 
         return (int)answer;
