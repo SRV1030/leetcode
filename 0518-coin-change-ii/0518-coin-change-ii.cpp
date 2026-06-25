@@ -1,25 +1,19 @@
 class Solution {
-    int memo[301][5001];
-    const int LOCAL_MAX = 1e9 + 7;
 public:
-    int solve(int amount, int index, vector<int>& coins){
-        if(amount == 0)
-            return 1;
-        if(index == coins.size()){
-            return 0; 
-        }
-        int& ways = memo[index][amount];
-        if(ways == -1){
-            ways = solve(amount, index + 1, coins);
-            if(amount >= coins[index]){
-                ways += solve(amount - coins[index], index, coins);
+    int change(int amount, vector<int>& coins) {
+        int size = coins.size();
+        vector<vector<unsigned long long>> dp(size + 1, vector<unsigned long long>(amount + 1));
+
+        for(int ind = 0; ind <= size; ++ind)
+            dp[ind][0] = 1;
+
+        for(int index = size - 1; index >= 0; --index){
+            for(int am = 1; am <= amount; ++am){
+                dp[index][am] = dp[index + 1][am];
+                if(am >= coins[index])
+                    dp[index][am] += dp[index][am - coins[index]];
             }
         }
-        return ways;
-    }
-    int change(int amount, vector<int>& coins) {
-        memset(memo, -1, sizeof(memo));
-        int val = solve(amount, 0, coins);
-        return val;
+        return dp[0][amount];
     }
 };  
