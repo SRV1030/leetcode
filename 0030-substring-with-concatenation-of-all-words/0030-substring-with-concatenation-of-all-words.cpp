@@ -1,119 +1,108 @@
 class Solution {
-    class Node {
-    public:
-        vector<Node*> children;
+    class Node{
+        int id;
         bool isEnd;
-        int wordId;
-
-        Node() {
-            children.assign(26, nullptr);
+        vector<Node*> children;
+    public:
+        Node(){
+            id = -1;
             isEnd = false;
-            wordId = -1;
+            children = vector<Node*>(26);
         }
 
-        Node* putChar(char ch) {
-            int c = ch - 'a';
-
-            if (!children[c])
-                children[c] = new Node();
-
-            return children[c];
+        void setEnd(){
+            isEnd = true;
         }
 
-        Node* gotoChar(char ch) {
-            return children[ch - 'a'];
+        bool getEnd(){
+            return isEnd;
+        }
+
+        void setId(int id){
+            this->id = id;
+        }
+
+        int getId(){
+            return id;
+        }
+
+        Node* putNode(char x){
+            int ind = x - 'a';
+            if(!children[ind]){
+                children[ind] = new Node();
+            }
+            return children[ind];
+        }
+
+        Node* gotoNode(char x){
+            return children[x - 'a'];
         }
     };
 
-    class Trie {
-    public:
+    class Trie{
         Node* root;
-
-        Trie() {
+    public:
+        Trie(){
             root = new Node();
         }
-
-        void insert(const string& word, int id) {
+        void insert(string word, int id){
             Node* node = root;
-
-            for (char ch : word)
-                node = node->putChar(ch);
-
-            node->isEnd = true;
-            node->wordId = id;
+            for(auto& ch : word){
+               node = node->putNode(ch);
+            }
+            node->setEnd();
+            node->setId(id);
         }
 
-        int searchWord(const string& s, int start, int len) {
+        int search(string word){
             Node* node = root;
-
-            for (int i = start; i < start + len; i++) {
-                node = node->gotoChar(s[i]);
-
-                if (!node)
-                    return -1;
+            for(auto& ch : word){
+               node = node->gotoNode(ch);
+               if(!node)
+                return -1;
             }
-
-            return node->isEnd ? node->wordId : -1;
+            return node->getId();
         }
     };
-
 public:
     vector<int> findSubstring(string s, vector<string>& words) {
-        int n = s.size();
-        int m = words.size();
-        int wordLen = words[0].size();
-        int totalLen = m * wordLen;
-
+        int id = 0, len = words[0].size();
+        int sizeOfS = s.size(), sizeOfWords = words.size();
+        int totalLen = len * sizeOfWords;
         vector<int> ans;
 
-        if (n < totalLen)
+        if(sizeOfS < totalLen)
             return ans;
 
-        Trie trie;
+        unordered_map<string, int> wordId;
+        vector<int> frequency;
 
-        unordered_map<string, int> id;
-        int nextId = 0;
+        Trie* trie = new Trie();
 
-        vector<int> required;
-
-        // Assign one ID per distinct word
-        for (auto& word : words) {
-            if (!id.count(word)) {
-                id[word] = nextId++;
-                trie.insert(word, id[word]);
-                required.push_back(0);
+        for(auto& word : words){
+            if(!wordId.count(word)){
+                wordId[word] = id;
+                trie->insert(word, id++);
+                frequency.push_back(0);
             }
-
-            required[id[word]]++;
+            frequency[wordId[word]]++;
         }
 
-        for (int start = 0; start + totalLen <= n; start++) {
-
-            vector<int> seen(nextId, 0);
-            int used = 0;
-
-            for (int pos = start;
-                 pos < start + totalLen;
-                 pos += wordLen) {
-
-                int wordId =
-                    trie.searchWord(s, pos, wordLen);
-
-                if (wordId == -1)
+        for(int start = 0; start + totalLen <= sizeOfS; ++start){
+            vector<int> seen(id);
+            int found = 0;
+            for(int pos = start; pos + len <= start + totalLen; pos += len){
+                int index = trie->search(s.substr(pos, len));
+                if(index == -1)
                     break;
-
-                seen[wordId]++;
-
-                if (seen[wordId] > required[wordId])
+                seen[index]++;
+                if(seen[index] > frequency[index])
                     break;
-
-                used++;
+                ++found;
             }
-
-            if (used == m)
+            if(found == sizeOfWords)
                 ans.push_back(start);
         }
-
         return ans;
     }
 };
