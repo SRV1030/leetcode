@@ -12,13 +12,14 @@ class Solution {
 public:
     int bnpeak(MountainArray &marr){
         int l=0,r=marr.length()-1;
-        while(l<=r){
-            int m=l+(r-l)/2;
-            if(m-1>=0 && m+1<marr.length() && (marr.get(m-1)<marr.get(m) && marr.get(m)>marr.get(m+1))) return m;
-            else if(m-1>=0 && marr.get(m-1)>marr.get(m))r=m-1;
-            else l=m+1;
+        while(l<r){
+            int m=(l+r)>>1;
+            if(marr.get(m) < marr.get(m+1))
+                l = m + 1;
+            else 
+                r = m;
         }
-        return -1;
+        return l;
     }
     int bnsearchlft(MountainArray &marr,int l,int r,int k){
         while(l<=r){
