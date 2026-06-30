@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/find-in-mountain-array/">1095. Find in Mountain Array</a></h2><h3>Hard</h3><hr><div><p><em>(This problem is an <strong>interactive problem</strong>.)</em></p>
+<h2><a href="https://leetcode.com/problems/find-in-mountain-array">1185. Find in Mountain Array</a></h2><h3>Hard</h3><hr><p><em>(This problem is an <strong>interactive problem</strong>.)</em></p>
 
 <p>You may recall that an array <code>arr</code> is a <strong>mountain array</strong> if and only if:</p>
 
@@ -26,13 +26,15 @@
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 
-<pre><strong>Input:</strong> array = [1,2,3,4,5,3,1], target = 3
+<pre>
+<strong>Input:</strong> mountainArr = [1,2,3,4,5,3,1], target = 3
 <strong>Output:</strong> 2
 <strong>Explanation:</strong> 3 exists in the array, at index=2 and index=5. Return the minimum index, which is 2.</pre>
 
 <p><strong class="example">Example 2:</strong></p>
 
-<pre><strong>Input:</strong> array = [0,1,2,4,2,1], target = 3
+<pre>
+<strong>Input:</strong> mountainArr = [0,1,2,4,2,1], target = 3
 <strong>Output:</strong> -1
 <strong>Explanation:</strong> 3 does not exist in <code>the array,</code> so we return -1.
 </pre>
@@ -41,8 +43,7 @@
 <p><strong>Constraints:</strong></p>
 
 <ul>
-	<li><code>3 &lt;= mountain_arr.length() &lt;= 10<sup>4</sup></code></li>
+	<li><code>3 &lt;= mountainArr.length() &lt;= 10<sup>4</sup></code></li>
 	<li><code>0 &lt;= target &lt;= 10<sup>9</sup></code></li>
-	<li><code>0 &lt;= mountain_arr.get(index) &lt;= 10<sup>9</sup></code></li>
+	<li><code>0 &lt;= mountainArr.get(index) &lt;= 10<sup>9</sup></code></li>
 </ul>
-</div>
