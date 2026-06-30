@@ -161,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/SRV1030/leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1063-best-sightseeing-pair](https://github.com/SRV1030/leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1094-car-pooling](https://github.com/SRV1030/leetcode/tree/master/1094-car-pooling) |
+| [1095-find-in-mountain-array](https://github.com/SRV1030/leetcode/tree/master/1095-find-in-mountain-array) |
 | [1110-delete-nodes-and-return-forest](https://github.com/SRV1030/leetcode/tree/master/1110-delete-nodes-and-return-forest) |
 | [1127-last-stone-weight](https://github.com/SRV1030/leetcode/tree/master/1127-last-stone-weight) |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/SRV1030/leetcode/tree/master/1233-remove-sub-folders-from-the-filesystem) |
@@ -1701,6 +1702,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1004-max-consecutive-ones-iii](https://github.com/SRV1030/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1044-longest-duplicate-substring](https://github.com/SRV1030/leetcode/tree/master/1044-longest-duplicate-substring) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/SRV1030/leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1095-find-in-mountain-array](https://github.com/SRV1030/leetcode/tree/master/1095-find-in-mountain-array) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/SRV1030/leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/SRV1030/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/SRV1030/leetcode/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -2539,4 +2541,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1044-longest-duplicate-substring](https://github.com/SRV1030/leetcode/tree/master/1044-longest-duplicate-substring) |
+## Interactive
+|  |
+| ------- |
+| [1095-find-in-mountain-array](https://github.com/SRV1030/leetcode/tree/master/1095-find-in-mountain-array) |
 <!---LeetCode Topics End-->
