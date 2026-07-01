@@ -1057,6 +1057,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0463-island-perimeter](https://github.com/SRV1030/leetcode/tree/master/0463-island-perimeter) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/SRV1030/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/SRV1030/leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/SRV1030/leetcode/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/SRV1030/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/SRV1030/leetcode/tree/master/0684-redundant-connection) |
 | [0690-employee-importance](https://github.com/SRV1030/leetcode/tree/master/0690-employee-importance) |
@@ -1176,6 +1177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0417-pacific-atlantic-water-flow](https://github.com/SRV1030/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/SRV1030/leetcode/tree/master/0463-island-perimeter) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/SRV1030/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0547-number-of-provinces](https://github.com/SRV1030/leetcode/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/SRV1030/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/SRV1030/leetcode/tree/master/0684-redundant-connection) |
 | [0690-employee-importance](https://github.com/SRV1030/leetcode/tree/master/0690-employee-importance) |
@@ -2511,6 +2513,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0207-course-schedule](https://github.com/SRV1030/leetcode/tree/master/0207-course-schedule) |
 | [0399-evaluate-division](https://github.com/SRV1030/leetcode/tree/master/0399-evaluate-division) |
+| [0547-number-of-provinces](https://github.com/SRV1030/leetcode/tree/master/0547-number-of-provinces) |
 | [0834-sum-of-distances-in-tree](https://github.com/SRV1030/leetcode/tree/master/0834-sum-of-distances-in-tree) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/SRV1030/leetcode/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0886-possible-bipartition](https://github.com/SRV1030/leetcode/tree/master/0886-possible-bipartition) |
@@ -2526,6 +2529,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0130-surrounded-regions](https://github.com/SRV1030/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/SRV1030/leetcode/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/SRV1030/leetcode/tree/master/0399-evaluate-division) |
+| [0547-number-of-provinces](https://github.com/SRV1030/leetcode/tree/master/0547-number-of-provinces) |
 | [0827-making-a-large-island](https://github.com/SRV1030/leetcode/tree/master/0827-making-a-large-island) |
 | [0886-possible-bipartition](https://github.com/SRV1030/leetcode/tree/master/0886-possible-bipartition) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SRV1030/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
