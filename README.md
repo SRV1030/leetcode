@@ -336,6 +336,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2784-check-if-array-is-good](https://github.com/SRV1030/leetcode/tree/master/2784-check-if-array-is-good) |
 | [2792-neighboring-bitwise-xor](https://github.com/SRV1030/leetcode/tree/master/2792-neighboring-bitwise-xor) |
 | [2808-painting-the-walls](https://github.com/SRV1030/leetcode/tree/master/2808-painting-the-walls) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/SRV1030/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/SRV1030/leetcode/tree/master/2850-minimum-moves-to-spread-stones-over-grid) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/SRV1030/leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2868-continuous-subarrays](https://github.com/SRV1030/leetcode/tree/master/2868-continuous-subarrays) |
@@ -900,6 +901,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/SRV1030/leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/SRV1030/leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2803-modify-graph-edge-weights](https://github.com/SRV1030/leetcode/tree/master/2803-modify-graph-edge-weights) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/SRV1030/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2868-continuous-subarrays](https://github.com/SRV1030/leetcode/tree/master/2868-continuous-subarrays) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/SRV1030/leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/SRV1030/leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -1215,6 +1217,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/SRV1030/leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/SRV1030/leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/SRV1030/leetcode/tree/master/2793-count-the-number-of-complete-components) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/SRV1030/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3105-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/SRV1030/leetcode/tree/master/3105-minimum-edge-reversals-so-every-node-is-reachable) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/SRV1030/leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/SRV1030/leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
@@ -1309,6 +1312,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2685-first-completely-painted-row-or-column](https://github.com/SRV1030/leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/SRV1030/leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/SRV1030/leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/SRV1030/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2850-minimum-moves-to-spread-stones-over-grid](https://github.com/SRV1030/leetcode/tree/master/2850-minimum-moves-to-spread-stones-over-grid) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/SRV1030/leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3071-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/SRV1030/leetcode/tree/master/3071-minimum-operations-to-write-the-letter-y-on-a-grid) |
@@ -1728,6 +1732,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2690-house-robber-iv](https://github.com/SRV1030/leetcode/tree/master/2690-house-robber-iv) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/SRV1030/leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/SRV1030/leetcode/tree/master/2716-prime-subtraction-operation) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/SRV1030/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/SRV1030/leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/SRV1030/leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/SRV1030/leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
@@ -2523,6 +2528,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0399-evaluate-division](https://github.com/SRV1030/leetcode/tree/master/0399-evaluate-division) |
 | [0827-making-a-large-island](https://github.com/SRV1030/leetcode/tree/master/0827-making-a-large-island) |
 | [0886-possible-bipartition](https://github.com/SRV1030/leetcode/tree/master/0886-possible-bipartition) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/SRV1030/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/SRV1030/leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/SRV1030/leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Rejection Sampling
