@@ -359,6 +359,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3227-find-missing-and-repeated-values](https://github.com/SRV1030/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/SRV1030/leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/SRV1030/leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/SRV1030/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/SRV1030/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/SRV1030/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/SRV1030/leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
@@ -904,6 +905,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SRV1030/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2868-continuous-subarrays](https://github.com/SRV1030/leetcode/tree/master/2868-continuous-subarrays) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/SRV1030/leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/SRV1030/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/SRV1030/leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/SRV1030/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/SRV1030/leetcode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -1154,6 +1156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2803-modify-graph-edge-weights](https://github.com/SRV1030/leetcode/tree/master/2803-modify-graph-edge-weights) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/SRV1030/leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/SRV1030/leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/SRV1030/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/SRV1030/leetcode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Breadth-First Search
 |  |
@@ -1221,6 +1224,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2793-count-the-number-of-complete-components](https://github.com/SRV1030/leetcode/tree/master/2793-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SRV1030/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3105-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/SRV1030/leetcode/tree/master/3105-minimum-edge-reversals-so-every-node-is-reachable) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/SRV1030/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/SRV1030/leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/SRV1030/leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3809-properties-graph](https://github.com/SRV1030/leetcode/tree/master/3809-properties-graph) |
@@ -1320,6 +1324,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3071-minimum-operations-to-write-the-letter-y-on-a-grid](https://github.com/SRV1030/leetcode/tree/master/3071-minimum-operations-to-write-the-letter-y-on-a-grid) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/SRV1030/leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3227-find-missing-and-repeated-values](https://github.com/SRV1030/leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/SRV1030/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/SRV1030/leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3546-equal-sum-grid-partition-i](https://github.com/SRV1030/leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/SRV1030/leetcode/tree/master/3548-equal-sum-grid-partition-ii) |
@@ -2521,6 +2526,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/SRV1030/leetcode/tree/master/2642-design-graph-with-shortest-path-calculator) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/SRV1030/leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/SRV1030/leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/SRV1030/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/SRV1030/leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/SRV1030/leetcode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Union-Find
