@@ -167,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1127-last-stone-weight](https://github.com/SRV1030/leetcode/tree/master/1127-last-stone-weight) |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/SRV1030/leetcode/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/SRV1030/leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1288-remove-covered-intervals](https://github.com/SRV1030/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/SRV1030/leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1325-path-with-maximum-probability](https://github.com/SRV1030/leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/SRV1030/leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -812,6 +813,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/SRV1030/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1094-car-pooling](https://github.com/SRV1030/leetcode/tree/master/1094-car-pooling) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/SRV1030/leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1288-remove-covered-intervals](https://github.com/SRV1030/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1366-rank-teams-by-votes](https://github.com/SRV1030/leetcode/tree/master/1366-rank-teams-by-votes) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/SRV1030/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/SRV1030/leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
