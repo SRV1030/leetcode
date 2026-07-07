@@ -66,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/SRV1030/leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/SRV1030/leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/SRV1030/leetcode/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/SRV1030/leetcode/tree/master/0204-count-primes) |
 | [0212-word-search-ii](https://github.com/SRV1030/leetcode/tree/master/0212-word-search-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SRV1030/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0221-maximal-square](https://github.com/SRV1030/leetcode/tree/master/0221-maximal-square) |
@@ -1861,6 +1862,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0149-max-points-on-a-line](https://github.com/SRV1030/leetcode/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/SRV1030/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0166-fraction-to-recurring-decimal](https://github.com/SRV1030/leetcode/tree/master/0166-fraction-to-recurring-decimal) |
+| [0204-count-primes](https://github.com/SRV1030/leetcode/tree/master/0204-count-primes) |
 | [0224-basic-calculator](https://github.com/SRV1030/leetcode/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/SRV1030/leetcode/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/SRV1030/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
@@ -2049,6 +2051,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/SRV1030/leetcode/tree/master/0204-count-primes) |
 | [1372-check-if-it-is-a-good-array](https://github.com/SRV1030/leetcode/tree/master/1372-check-if-it-is-a-good-array) |
 | [1585-the-kth-factor-of-n](https://github.com/SRV1030/leetcode/tree/master/1585-the-kth-factor-of-n) |
 | [2125-gcd-sort-of-an-array](https://github.com/SRV1030/leetcode/tree/master/2125-gcd-sort-of-an-array) |
@@ -2480,6 +2483,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/SRV1030/leetcode/tree/master/0204-count-primes) |
 | [0900-reordered-power-of-2](https://github.com/SRV1030/leetcode/tree/master/0900-reordered-power-of-2) |
 | [1656-count-good-triplets](https://github.com/SRV1030/leetcode/tree/master/1656-count-good-triplets) |
 | [1925-count-square-sum-triples](https://github.com/SRV1030/leetcode/tree/master/1925-count-square-sum-triples) |
