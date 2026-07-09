@@ -420,6 +420,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3649-number-of-perfect-pairs](https://github.com/SRV1030/leetcode/tree/master/3649-number-of-perfect-pairs) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/SRV1030/leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/SRV1030/leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [3660-jump-game-ix](https://github.com/SRV1030/leetcode/tree/master/3660-jump-game-ix) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/SRV1030/leetcode/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/SRV1030/leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3721-longest-balanced-subarray-ii](https://github.com/SRV1030/leetcode/tree/master/3721-longest-balanced-subarray-ii) |
@@ -1652,6 +1653,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3620-network-recovery-pathways](https://github.com/SRV1030/leetcode/tree/master/3620-network-recovery-pathways) |
 | [3640-trionic-array-ii](https://github.com/SRV1030/leetcode/tree/master/3640-trionic-array-ii) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/SRV1030/leetcode/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
+| [3660-jump-game-ix](https://github.com/SRV1030/leetcode/tree/master/3660-jump-game-ix) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/SRV1030/leetcode/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/SRV1030/leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/SRV1030/leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
