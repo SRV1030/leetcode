@@ -1128,6 +1128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/SRV1030/leetcode/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/SRV1030/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/SRV1030/leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [2685-count-the-number-of-complete-components](https://github.com/SRV1030/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/SRV1030/leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/SRV1030/leetcode/tree/master/2793-count-the-number-of-complete-components) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/SRV1030/leetcode/tree/master/2872-maximum-number-of-k-divisible-components) |
@@ -1253,6 +1254,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/SRV1030/leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/SRV1030/leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/SRV1030/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [2685-count-the-number-of-complete-components](https://github.com/SRV1030/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/SRV1030/leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/SRV1030/leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/SRV1030/leetcode/tree/master/2793-count-the-number-of-complete-components) |
@@ -2593,6 +2595,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/SRV1030/leetcode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/SRV1030/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/SRV1030/leetcode/tree/master/2642-design-graph-with-shortest-path-calculator) |
+| [2685-count-the-number-of-complete-components](https://github.com/SRV1030/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/SRV1030/leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/SRV1030/leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/SRV1030/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -2612,6 +2615,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0886-possible-bipartition](https://github.com/SRV1030/leetcode/tree/master/0886-possible-bipartition) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/SRV1030/leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/SRV1030/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2685-count-the-number-of-complete-components](https://github.com/SRV1030/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/SRV1030/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/SRV1030/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/SRV1030/leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
