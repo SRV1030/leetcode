@@ -1982,6 +1982,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3623-count-number-of-trapezoids-i](https://github.com/SRV1030/leetcode/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/SRV1030/leetcode/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3649-number-of-perfect-pairs](https://github.com/SRV1030/leetcode/tree/master/3649-number-of-perfect-pairs) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/SRV1030/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/SRV1030/leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/SRV1030/leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/SRV1030/leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -2091,6 +2092,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/SRV1030/leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3001-apply-operations-to-maximize-score](https://github.com/SRV1030/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SRV1030/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/SRV1030/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Counting
 |  |
 | ------- |
