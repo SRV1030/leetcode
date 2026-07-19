@@ -1,28 +1,27 @@
 class Solution {
-public: 
+public:
     string smallestSubsequence(string s) {
-        vector<int>vis(26),f(26);
-        stack<char>st;
-        for(auto& i:s)f[i-'a']++;
-        for(auto& i:s){
-            if(!vis[i-'a']){
-                while(!st.empty() && i<st.top() && f[st.top()-'a']>1){
-                    f[st.top()-'a']--;
-                    vis[st.top()-'a']=0;
-                    st.pop();
-                }
-                vis[i-'a']=1;
-                st.push(i);
-            }
-            else f[i-'a']--;
-        }
-        s="";
-        while(!st.empty()){
-            s+=st.top();
-            st.pop();
-        }
-        reverse(s.begin(),s.end());
-        return s;
-    }
+        vector<int> freq(26, 0);
+        vector<bool> seen(26, false);
         
+        for(char &x : s) {
+            freq[x - 'a']++;
+        }
+        
+        string res = "";
+        for(char &x : s) {
+            freq[x - 'a']--;
+            
+            if(seen[x - 'a']) continue;
+            
+            while(!res.empty() && res.back() > x && freq[res.back() - 'a'] > 0) {
+                seen[res.back() - 'a'] = false;
+                res.pop_back();
+            }
+            
+            res += x;
+            seen[x - 'a'] = true;
+        }
+        return res;
+    }
 };
