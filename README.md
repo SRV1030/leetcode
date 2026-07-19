@@ -708,6 +708,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0797-rabbits-in-forest](https://github.com/SRV1030/leetcode/tree/master/0797-rabbits-in-forest) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SRV1030/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/SRV1030/leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/SRV1030/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/SRV1030/leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1304-longest-happy-string](https://github.com/SRV1030/leetcode/tree/master/1304-longest-happy-string) |
 | [1382-balance-a-binary-search-tree](https://github.com/SRV1030/leetcode/tree/master/1382-balance-a-binary-search-tree) |
@@ -983,6 +984,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0975-odd-even-jump](https://github.com/SRV1030/leetcode/tree/master/0975-odd-even-jump) |
 | [1002-maximum-width-ramp](https://github.com/SRV1030/leetcode/tree/master/1002-maximum-width-ramp) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/SRV1030/leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/SRV1030/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/SRV1030/leetcode/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/SRV1030/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1628-count-submatrices-with-all-ones](https://github.com/SRV1030/leetcode/tree/master/1628-count-submatrices-with-all-ones) |
@@ -1458,6 +1460,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0980-find-the-shortest-superstring](https://github.com/SRV1030/leetcode/tree/master/0980-find-the-shortest-superstring) |
 | [1006-vowel-spellchecker](https://github.com/SRV1030/leetcode/tree/master/1006-vowel-spellchecker) |
 | [1044-longest-duplicate-substring](https://github.com/SRV1030/leetcode/tree/master/1044-longest-duplicate-substring) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/SRV1030/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/SRV1030/leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/SRV1030/leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/SRV1030/leetcode/tree/master/1170-shortest-common-supersequence) |
@@ -2420,6 +2423,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0975-odd-even-jump](https://github.com/SRV1030/leetcode/tree/master/0975-odd-even-jump) |
 | [1002-maximum-width-ramp](https://github.com/SRV1030/leetcode/tree/master/1002-maximum-width-ramp) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/SRV1030/leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/SRV1030/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/SRV1030/leetcode/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/SRV1030/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1628-count-submatrices-with-all-ones](https://github.com/SRV1030/leetcode/tree/master/1628-count-submatrices-with-all-ones) |
