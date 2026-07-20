@@ -170,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1110-delete-nodes-and-return-forest](https://github.com/SRV1030/leetcode/tree/master/1110-delete-nodes-and-return-forest) |
 | [1127-last-stone-weight](https://github.com/SRV1030/leetcode/tree/master/1127-last-stone-weight) |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/SRV1030/leetcode/tree/master/1233-remove-sub-folders-from-the-filesystem) |
+| [1260-shift-2d-grid](https://github.com/SRV1030/leetcode/tree/master/1260-shift-2d-grid) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/SRV1030/leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1288-remove-covered-intervals](https://github.com/SRV1030/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/SRV1030/leetcode/tree/master/1301-number-of-paths-with-max-score) |
@@ -1343,6 +1344,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0967-minimum-falling-path-sum](https://github.com/SRV1030/leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/SRV1030/leetcode/tree/master/0994-rotting-oranges) |
 | [1036-rotting-oranges](https://github.com/SRV1030/leetcode/tree/master/1036-rotting-oranges) |
+| [1260-shift-2d-grid](https://github.com/SRV1030/leetcode/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/SRV1030/leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/SRV1030/leetcode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1380-number-of-closed-islands](https://github.com/SRV1030/leetcode/tree/master/1380-number-of-closed-islands) |
@@ -1714,6 +1716,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0906-walking-robot-simulation](https://github.com/SRV1030/leetcode/tree/master/0906-walking-robot-simulation) |
 | [0946-validate-stack-sequences](https://github.com/SRV1030/leetcode/tree/master/0946-validate-stack-sequences) |
 | [1094-car-pooling](https://github.com/SRV1030/leetcode/tree/master/1094-car-pooling) |
+| [1260-shift-2d-grid](https://github.com/SRV1030/leetcode/tree/master/1260-shift-2d-grid) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/SRV1030/leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/SRV1030/leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/SRV1030/leetcode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
