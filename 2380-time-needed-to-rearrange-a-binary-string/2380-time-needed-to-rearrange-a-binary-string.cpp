@@ -1,17 +1,14 @@
 class Solution {
 public:
     int secondsToRemoveOccurrences(string s) {
-        int count = 0, res = 0;
-        int ind = 0;
-        for(; ind < s.size() && s[ind] == '1'; ++ind);
-        for(; ind < s.size(); ++ind){
-            if(s[ind] == '1')
-                ++count;
-            else{
-                res += count;
-                count = 0;
+        int count = 0, z = 0;
+        for(auto& bit : s){
+            if(bit == '0')
+                ++z;
+            else if(z){
+                count = max(count + 1, z);
             }
         }
-        return res + count;
+        return count;
     }
 };
