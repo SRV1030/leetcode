@@ -1513,6 +1513,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/SRV1030/leetcode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/SRV1030/leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/SRV1030/leetcode/tree/master/2364-longest-path-with-different-adjacent-characters) |
+| [2380-time-needed-to-rearrange-a-binary-string](https://github.com/SRV1030/leetcode/tree/master/2380-time-needed-to-rearrange-a-binary-string) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/SRV1030/leetcode/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2429-design-a-food-rating-system](https://github.com/SRV1030/leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/SRV1030/leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
@@ -1661,6 +1662,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2164-two-best-non-overlapping-events](https://github.com/SRV1030/leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2188-minimum-time-to-finish-the-race](https://github.com/SRV1030/leetcode/tree/master/2188-minimum-time-to-finish-the-race) |
 | [2262-solving-questions-with-brainpower](https://github.com/SRV1030/leetcode/tree/master/2262-solving-questions-with-brainpower) |
+| [2380-time-needed-to-rearrange-a-binary-string](https://github.com/SRV1030/leetcode/tree/master/2380-time-needed-to-rearrange-a-binary-string) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/SRV1030/leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/SRV1030/leetcode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2463-minimum-total-distance-traveled](https://github.com/SRV1030/leetcode/tree/master/2463-minimum-total-distance-traveled) |
@@ -1737,6 +1739,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2265-partition-array-according-to-given-pivot](https://github.com/SRV1030/leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/SRV1030/leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/SRV1030/leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2380-time-needed-to-rearrange-a-binary-string](https://github.com/SRV1030/leetcode/tree/master/2380-time-needed-to-rearrange-a-binary-string) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/SRV1030/leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2411-spiral-matrix-iv](https://github.com/SRV1030/leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2428-equal-row-and-column-pairs](https://github.com/SRV1030/leetcode/tree/master/2428-equal-row-and-column-pairs) |
