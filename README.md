@@ -789,6 +789,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/SRV1030/leetcode/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1755-defuse-the-bomb](https://github.com/SRV1030/leetcode/tree/master/1755-defuse-the-bomb) |
 | [1813-maximum-erasure-value](https://github.com/SRV1030/leetcode/tree/master/1813-maximum-erasure-value) |
+| [1839-longest-substring-of-all-vowels-in-order](https://github.com/SRV1030/leetcode/tree/master/1839-longest-substring-of-all-vowels-in-order) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/SRV1030/leetcode/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/SRV1030/leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/SRV1030/leetcode/tree/master/2478-longest-nice-subarray) |
@@ -1502,6 +1503,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/SRV1030/leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/SRV1030/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/SRV1030/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1839-longest-substring-of-all-vowels-in-order](https://github.com/SRV1030/leetcode/tree/master/1839-longest-substring-of-all-vowels-in-order) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/SRV1030/leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1923-sentence-similarity-iii](https://github.com/SRV1030/leetcode/tree/master/1923-sentence-similarity-iii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SRV1030/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
