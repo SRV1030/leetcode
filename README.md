@@ -1850,6 +1850,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/SRV1030/leetcode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3620-network-recovery-pathways](https://github.com/SRV1030/leetcode/tree/master/3620-network-recovery-pathways) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/SRV1030/leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3634-minimum-removals-to-balance-array](https://github.com/SRV1030/leetcode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3643-zero-array-transformation-ii](https://github.com/SRV1030/leetcode/tree/master/3643-zero-array-transformation-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/SRV1030/leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/SRV1030/leetcode/tree/master/3791-fruits-into-baskets-iii) |
