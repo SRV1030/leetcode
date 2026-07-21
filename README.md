@@ -109,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/SRV1030/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0587-erect-the-fence](https://github.com/SRV1030/leetcode/tree/master/0587-erect-the-fence) |
 | [0611-valid-triangle-number](https://github.com/SRV1030/leetcode/tree/master/0611-valid-triangle-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/SRV1030/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SRV1030/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0636-exclusive-time-of-functions](https://github.com/SRV1030/leetcode/tree/master/0636-exclusive-time-of-functions) |
 | [0658-find-k-closest-elements](https://github.com/SRV1030/leetcode/tree/master/0658-find-k-closest-elements) |
@@ -824,6 +825,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0455-assign-cookies](https://github.com/SRV1030/leetcode/tree/master/0455-assign-cookies) |
 | [0539-minimum-time-difference](https://github.com/SRV1030/leetcode/tree/master/0539-minimum-time-difference) |
 | [0611-valid-triangle-number](https://github.com/SRV1030/leetcode/tree/master/0611-valid-triangle-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/SRV1030/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/SRV1030/leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/SRV1030/leetcode/tree/master/0658-find-k-closest-elements) |
 | [0720-longest-word-in-dictionary](https://github.com/SRV1030/leetcode/tree/master/0720-longest-word-in-dictionary) |
@@ -1931,6 +1933,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0556-next-greater-element-iii](https://github.com/SRV1030/leetcode/tree/master/0556-next-greater-element-iii) |
 | [0564-find-the-closest-palindrome](https://github.com/SRV1030/leetcode/tree/master/0564-find-the-closest-palindrome) |
 | [0587-erect-the-fence](https://github.com/SRV1030/leetcode/tree/master/0587-erect-the-fence) |
+| [0628-maximum-product-of-three-numbers](https://github.com/SRV1030/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/SRV1030/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0670-maximum-swap](https://github.com/SRV1030/leetcode/tree/master/0670-maximum-swap) |
 | [0679-24-game](https://github.com/SRV1030/leetcode/tree/master/0679-24-game) |
