@@ -10,30 +10,34 @@
  */
 class Solution {
 public:
-    int count(ListNode* head){
-        ListNode *p=head;
-        int c=0;
-        while(p){
-            p=p->next;
-            ++c;
+    int getLengthOfListNode(ListNode* head){
+        int length = 0;
+        while(head){
+            ++length;
+            head = head->next;
         }
-        return c;
+        return length;
     }
-    ListNode* reverse(ListNode* head,int k,int rem){
-        if(!head || rem<k) return head;
-        ListNode *cur=head,*prev=NULL,*nxt=NULL;
-        int c=0;
-        while(cur && c<k){
-            nxt=cur->next;
-            cur->next=prev;
-            prev=cur;
-            cur=nxt;
-            ++c;
+
+    ListNode* reverseKGroupRecursively(ListNode* head, int k, int remainingNodes){
+        if(!head || remainingNodes < k)
+            return head;
+        ListNode* current = head, *previous = NULL, *next = NULL;
+        int loopSize = k;
+        while(loopSize--){
+            next = current->next;
+            current->next = previous;
+            previous = current;
+            current = next;
         }
-        if(nxt) head->next=reverse(nxt,k,rem-k);
-        return prev;
+        remainingNodes -= k;
+        if(next) 
+            head->next = reverseKGroupRecursively(next, k, remainingNodes);
+        return previous;
     }
     ListNode* reverseKGroup(ListNode* head, int k) {
-        return reverse(head,k,count(head));
+        if(!head)
+            return head;
+        return reverseKGroupRecursively(head, k, getLengthOfListNode(head));
     }
 };
