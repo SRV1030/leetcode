@@ -20,19 +20,18 @@ public:
 */
 
 class Solution {
-    Node* vis[101];
+    Node* visited[101];
 public:
     Node* cloneGraph(Node* node) {
-        if(!node) return node;
-        Node* copy = new Node(node->val);
-        vis[node->val]=copy;
-        for(auto&nb:node->neighbors){
-            if(!vis[nb->val]){
-                Node* nbCopy = cloneGraph(nb);
-                copy->neighbors.push_back(nbCopy);
-            }
-            else copy->neighbors.push_back(vis[nb->val]);
+        if(!node)
+            return NULL;
+        Node* clone = new Node(node->val);
+        visited[node->val] = clone;
+        for(auto& nb : node->neighbors){
+            if(!visited[nb->val])
+                cloneGraph(nb);
+            clone->neighbors.push_back(visited[nb->val]);
         }
-        return copy;
+        return clone;
     }
 };
