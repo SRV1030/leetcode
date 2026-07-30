@@ -760,6 +760,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2716-prime-subtraction-operation](https://github.com/SRV1030/leetcode/tree/master/2716-prime-subtraction-operation) |
 | [2939-maximum-xor-product](https://github.com/SRV1030/leetcode/tree/master/2939-maximum-xor-product) |
 | [3001-apply-operations-to-maximize-score](https://github.com/SRV1030/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SRV1030/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3035-maximum-palindromes-after-operations](https://github.com/SRV1030/leetcode/tree/master/3035-maximum-palindromes-after-operations) |
 | [3195-separate-black-and-white-balls](https://github.com/SRV1030/leetcode/tree/master/3195-separate-black-and-white-balls) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/SRV1030/leetcode/tree/master/3474-lexicographically-smallest-generated-string) |
@@ -1549,6 +1550,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2887-sort-vowels-in-a-string](https://github.com/SRV1030/leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/SRV1030/leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/SRV1030/leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SRV1030/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/SRV1030/leetcode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3035-maximum-palindromes-after-operations](https://github.com/SRV1030/leetcode/tree/master/3035-maximum-palindromes-after-operations) |
 | [3093-longest-common-suffix-queries](https://github.com/SRV1030/leetcode/tree/master/3093-longest-common-suffix-queries) |
@@ -2020,6 +2022,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2939-maximum-xor-product](https://github.com/SRV1030/leetcode/tree/master/2939-maximum-xor-product) |
 | [2998-count-symmetric-integers](https://github.com/SRV1030/leetcode/tree/master/2998-count-symmetric-integers) |
 | [3001-apply-operations-to-maximize-score](https://github.com/SRV1030/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SRV1030/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3017-number-of-beautiful-integers-in-the-range](https://github.com/SRV1030/leetcode/tree/master/3017-number-of-beautiful-integers-in-the-range) |
 | [3227-find-missing-and-repeated-values](https://github.com/SRV1030/leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/SRV1030/leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
