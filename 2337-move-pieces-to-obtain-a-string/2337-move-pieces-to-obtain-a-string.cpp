@@ -1,23 +1,40 @@
 class Solution {
 public:
     bool canChange(string start, string target) {
-        queue<pair<char, int>> sq, tq;
-        for(int ind = 0; ind < start.size(); ++ind){
-            if(start[ind] != '_')
-                sq.push({start[ind], ind});
-            if(target[ind] != '_')
-                tq.push({target[ind], ind});
+        int leftCount = 0, rightCount = 0;
+        int size = start.size();
+
+        for (int ind = 0; ind < size; ++ind) {
+
+            // R in start
+            if (start[ind] == 'R') {
+                if (leftCount)
+                    return false;
+                ++rightCount;
+            }
+
+            // L in target
+            if (target[ind] == 'L') {
+                if (rightCount)
+                    return false;
+                ++leftCount;
+            }
+
+            // R in target
+            if (target[ind] == 'R') {
+                if (!rightCount)
+                    return false;
+                --rightCount;
+            }
+
+            // L in start
+            if (start[ind] == 'L') {
+                if (!leftCount)
+                    return false;
+                --leftCount;
+            }
         }
-        if(sq.size() != tq.size())
-            return false;
-        while(!sq.empty()){
-            auto[sc, si] = sq.front();
-            sq.pop();
-            auto[tc, ti] = tq.front();
-            tq.pop();
-            if(sc != tc || (sc == 'L' && si < ti) || (sc == 'R' && si > ti))
-                return false;
-        }
-        return true;
+
+        return leftCount == 0 && rightCount == 0;
     }
 };
