@@ -1,16 +1,13 @@
 class Solution {
-public:    
-    int numberOfBits(int n) {
-		  return log2(n) + 1;
-    }
-    
+public:
     int concatenatedBinary(int n) {
-        long ans = 0, MOD = 1e9 + 7;
-        
-        for (int i = 1; i <= n; ++i) {
-            int len = numberOfBits(i);
-            ans = ((ans << len) % MOD + i) % MOD;
+        long long res = 0, MOD = 1e9 + 7, len = 0;
+        for(int ind = 1; ind <= n; ++ind){
+            if((ind & (ind - 1)) == 0){
+                ++len;
+            }
+            res = ((res << len) % MOD + ind) % MOD;
         }
-        return ans;
+        return res;
     }
 };
