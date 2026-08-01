@@ -1,14 +1,14 @@
 class Solution {
 public:
-    void rotate(vector<vector<int>>& mat) {
-        int n = mat.size();
-        for(int i=0;i<n/2;++i){
-            for(int j=i;j<n-i-1;++j){
-                int x= mat[i][j];
-                mat[i][j]=mat[n-1-j][i];
-                mat[n-1-j][i]=mat[n-1-i][n-1-j];
-                mat[n-1-i][n-1-j]=mat[j][n-1-i];
-                mat[j][n-1-i]=x;
+    void rotate(vector<vector<int>>& matrix) {
+        int size = matrix.size();
+        for(int row = 0; row < size / 2; ++row){
+            for(int col = row; col < size - row - 1; ++col){
+                int storage = matrix[row][col];
+                matrix[row][col] = matrix[size - col - 1][row];
+                matrix[size - col - 1][row] = matrix[size - row - 1][size - col - 1];
+                matrix[size - row - 1][size - col - 1] = matrix[col][size - row - 1];
+                matrix[col][size - row - 1] = storage; 
             }
         }
     }
