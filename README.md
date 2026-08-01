@@ -806,6 +806,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1755-defuse-the-bomb](https://github.com/SRV1030/leetcode/tree/master/1755-defuse-the-bomb) |
 | [1813-maximum-erasure-value](https://github.com/SRV1030/leetcode/tree/master/1813-maximum-erasure-value) |
 | [1839-longest-substring-of-all-vowels-in-order](https://github.com/SRV1030/leetcode/tree/master/1839-longest-substring-of-all-vowels-in-order) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/SRV1030/leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/SRV1030/leetcode/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/SRV1030/leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/SRV1030/leetcode/tree/master/2478-longest-nice-subarray) |
@@ -1532,6 +1533,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1786-count-the-number-of-consistent-strings](https://github.com/SRV1030/leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/SRV1030/leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1839-longest-substring-of-all-vowels-in-order](https://github.com/SRV1030/leetcode/tree/master/1839-longest-substring-of-all-vowels-in-order) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/SRV1030/leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/SRV1030/leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1923-sentence-similarity-iii](https://github.com/SRV1030/leetcode/tree/master/1923-sentence-similarity-iii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SRV1030/leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -1698,6 +1700,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/SRV1030/leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/SRV1030/leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/SRV1030/leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/SRV1030/leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1989-minimum-xor-sum-of-two-arrays](https://github.com/SRV1030/leetcode/tree/master/1989-minimum-xor-sum-of-two-arrays) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/SRV1030/leetcode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/SRV1030/leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
