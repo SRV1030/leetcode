@@ -142,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0862-find-and-replace-in-string](https://github.com/SRV1030/leetcode/tree/master/0862-find-and-replace-in-string) |
 | [0869-similar-string-groups](https://github.com/SRV1030/leetcode/tree/master/0869-similar-string-groups) |
 | [0874-walking-robot-simulation](https://github.com/SRV1030/leetcode/tree/master/0874-walking-robot-simulation) |
+| [0877-stone-game](https://github.com/SRV1030/leetcode/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/SRV1030/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/SRV1030/leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0906-walking-robot-simulation](https://github.com/SRV1030/leetcode/tree/master/0906-walking-robot-simulation) |
@@ -1671,6 +1672,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0836-race-car](https://github.com/SRV1030/leetcode/tree/master/0836-race-car) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/SRV1030/leetcode/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0867-new-21-game](https://github.com/SRV1030/leetcode/tree/master/0867-new-21-game) |
+| [0877-stone-game](https://github.com/SRV1030/leetcode/tree/master/0877-stone-game) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/SRV1030/leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0907-sum-of-subarray-minimums](https://github.com/SRV1030/leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [0931-minimum-falling-path-sum](https://github.com/SRV1030/leetcode/tree/master/0931-minimum-falling-path-sum) |
@@ -1996,6 +1998,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0826-soup-servings](https://github.com/SRV1030/leetcode/tree/master/0826-soup-servings) |
 | [0830-largest-triangle-area](https://github.com/SRV1030/leetcode/tree/master/0830-largest-triangle-area) |
 | [0867-new-21-game](https://github.com/SRV1030/leetcode/tree/master/0867-new-21-game) |
+| [0877-stone-game](https://github.com/SRV1030/leetcode/tree/master/0877-stone-game) |
 | [0900-reordered-power-of-2](https://github.com/SRV1030/leetcode/tree/master/0900-reordered-power-of-2) |
 | [0912-random-pick-with-weight](https://github.com/SRV1030/leetcode/tree/master/0912-random-pick-with-weight) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/SRV1030/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -2698,6 +2701,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/SRV1030/leetcode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/SRV1030/leetcode/tree/master/0877-stone-game) |
 | [3462-vowels-game-in-a-string](https://github.com/SRV1030/leetcode/tree/master/3462-vowels-game-in-a-string) |
 ## Database
 |  |
