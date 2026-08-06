@@ -2736,6 +2736,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Database
 |  |
 | ------- |
+| [1321-restaurant-growth](https://github.com/SRV1030/leetcode/tree/master/1321-restaurant-growth) |
 | [1452-restaurant-growth](https://github.com/SRV1030/leetcode/tree/master/1452-restaurant-growth) |
 ## Bitmask DP
 |  |
