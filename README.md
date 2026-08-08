@@ -1915,6 +1915,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3643-zero-array-transformation-ii](https://github.com/SRV1030/leetcode/tree/master/3643-zero-array-transformation-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/SRV1030/leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/SRV1030/leetcode/tree/master/3791-fruits-into-baskets-iii) |
+| [3932-count-k-th-roots-in-a-range](https://github.com/SRV1030/leetcode/tree/master/3932-count-k-th-roots-in-a-range) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -2116,6 +2117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3830-find-closest-person](https://github.com/SRV1030/leetcode/tree/master/3830-find-closest-person) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/SRV1030/leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/SRV1030/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3932-count-k-th-roots-in-a-range](https://github.com/SRV1030/leetcode/tree/master/3932-count-k-th-roots-in-a-range) |
 ## Linked List
 |  |
 | ------- |
