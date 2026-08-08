@@ -783,6 +783,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SRV1030/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3035-maximum-palindromes-after-operations](https://github.com/SRV1030/leetcode/tree/master/3035-maximum-palindromes-after-operations) |
 | [3195-separate-black-and-white-balls](https://github.com/SRV1030/leetcode/tree/master/3195-separate-black-and-white-balls) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/SRV1030/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/SRV1030/leetcode/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/SRV1030/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/SRV1030/leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
@@ -1602,6 +1603,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3195-separate-black-and-white-balls](https://github.com/SRV1030/leetcode/tree/master/3195-separate-black-and-white-balls) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/SRV1030/leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/SRV1030/leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/SRV1030/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/SRV1030/leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/SRV1030/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3447-clear-digits](https://github.com/SRV1030/leetcode/tree/master/3447-clear-digits) |
@@ -1751,6 +1753,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/SRV1030/leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3225-maximum-score-from-grid-operations](https://github.com/SRV1030/leetcode/tree/master/3225-maximum-score-from-grid-operations) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/SRV1030/leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/SRV1030/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/SRV1030/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/SRV1030/leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/SRV1030/leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -2479,6 +2482,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/SRV1030/leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/SRV1030/leetcode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3195-separate-black-and-white-balls](https://github.com/SRV1030/leetcode/tree/master/3195-separate-black-and-white-balls) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/SRV1030/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/SRV1030/leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/SRV1030/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/SRV1030/leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
