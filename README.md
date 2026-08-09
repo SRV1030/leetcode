@@ -181,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1095-find-in-mountain-array](https://github.com/SRV1030/leetcode/tree/master/1095-find-in-mountain-array) |
 | [1110-delete-nodes-and-return-forest](https://github.com/SRV1030/leetcode/tree/master/1110-delete-nodes-and-return-forest) |
 | [1127-last-stone-weight](https://github.com/SRV1030/leetcode/tree/master/1127-last-stone-weight) |
+| [1140-stone-game-ii](https://github.com/SRV1030/leetcode/tree/master/1140-stone-game-ii) |
 | [1219-path-with-maximum-gold](https://github.com/SRV1030/leetcode/tree/master/1219-path-with-maximum-gold) |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/SRV1030/leetcode/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [1260-shift-2d-grid](https://github.com/SRV1030/leetcode/tree/master/1260-shift-2d-grid) |
@@ -1709,6 +1710,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1025-minimum-cost-for-tickets](https://github.com/SRV1030/leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1057-numbers-with-repeated-digits](https://github.com/SRV1030/leetcode/tree/master/1057-numbers-with-repeated-digits) |
 | [1063-best-sightseeing-pair](https://github.com/SRV1030/leetcode/tree/master/1063-best-sightseeing-pair) |
+| [1140-stone-game-ii](https://github.com/SRV1030/leetcode/tree/master/1140-stone-game-ii) |
 | [1170-shortest-common-supersequence](https://github.com/SRV1030/leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/SRV1030/leetcode/tree/master/1250-longest-common-subsequence) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/SRV1030/leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -1930,6 +1932,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0974-subarray-sums-divisible-by-k](https://github.com/SRV1030/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/SRV1030/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1094-car-pooling](https://github.com/SRV1030/leetcode/tree/master/1094-car-pooling) |
+| [1140-stone-game-ii](https://github.com/SRV1030/leetcode/tree/master/1140-stone-game-ii) |
 | [1352-product-of-the-last-k-numbers](https://github.com/SRV1030/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1435-xor-queries-of-a-subarray](https://github.com/SRV1030/leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/SRV1030/leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -2035,6 +2038,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0912-random-pick-with-weight](https://github.com/SRV1030/leetcode/tree/master/0912-random-pick-with-weight) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/SRV1030/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1057-numbers-with-repeated-digits](https://github.com/SRV1030/leetcode/tree/master/1057-numbers-with-repeated-digits) |
+| [1140-stone-game-ii](https://github.com/SRV1030/leetcode/tree/master/1140-stone-game-ii) |
 | [1276-closest-divisors](https://github.com/SRV1030/leetcode/tree/master/1276-closest-divisors) |
 | [1352-product-of-the-last-k-numbers](https://github.com/SRV1030/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1372-check-if-it-is-a-good-array](https://github.com/SRV1030/leetcode/tree/master/1372-check-if-it-is-a-good-array) |
@@ -2741,6 +2745,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0486-predict-the-winner](https://github.com/SRV1030/leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/SRV1030/leetcode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/SRV1030/leetcode/tree/master/1140-stone-game-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/SRV1030/leetcode/tree/master/3462-vowels-game-in-a-string) |
 ## Database
 |  |
@@ -2814,4 +2819,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1095-find-in-mountain-array](https://github.com/SRV1030/leetcode/tree/master/1095-find-in-mountain-array) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/SRV1030/leetcode/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/SRV1030/leetcode/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
