@@ -19,25 +19,20 @@ public:
     bool kmpSearch(string &text, string &pat) {
         vector<int> lps = buildLPS(pat);
 
-        int i = 0, j = 0;
-        int n = text.size();
-        int m = pat.size();
-
-        while (i < n) {
-            if (text[i] == pat[j]) {
-                i++;
-                j++;
-
-                if (j == m)
+        int tSz = text.size(), pSz = pat.size();
+        for(int ti = 0, pi = 0; ti < tSz;){
+            if(text[ti] == pat[pi]){
+                ++ti;
+                ++pi;
+                if(pi == pSz)
                     return true;
-            } else {
-                if (j)
-                    j = lps[j - 1];
-                else
-                    i++;
             }
+            else if(pi){
+                pi = lps[pi - 1];
+            }
+            else
+                ++ti;
         }
-
         return false;
     }
 
