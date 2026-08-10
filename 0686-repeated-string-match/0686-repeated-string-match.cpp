@@ -2,22 +2,17 @@ class Solution {
 public:
     vector<int> buildLPS(string &pat) {
         int m = pat.size();
-        vector<int> lps(m, 0);
-
-        int len = 0;
-        int i = 1;
-
-        while (i < m) {
-            if (pat[i] == pat[len]) {
-                lps[i++] = ++len;
-            } else {
-                if (len)
-                    len = lps[len - 1];
-                else
-                    i++;
+        vector<int> lps(m);
+        for(int ind = 1, len = 0; ind < m;){
+            if(pat[ind] == pat[len]){
+                lps[ind++] = ++len;
             }
+            else if(len){
+                len = lps[len - 1];
+            }
+            else
+                ++ind;
         }
-
         return lps;
     }
 
