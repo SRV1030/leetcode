@@ -456,6 +456,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3737-count-subarrays-with-majority-element-i](https://github.com/SRV1030/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/SRV1030/leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/SRV1030/leetcode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
+| [3743-maximize-cyclic-partition-score](https://github.com/SRV1030/leetcode/tree/master/3743-maximize-cyclic-partition-score) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/SRV1030/leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3748-sort-matrix-by-diagonals](https://github.com/SRV1030/leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/SRV1030/leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -1772,6 +1773,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3699-number-of-zigzag-arrays-i](https://github.com/SRV1030/leetcode/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/SRV1030/leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/SRV1030/leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
+| [3743-maximize-cyclic-partition-score](https://github.com/SRV1030/leetcode/tree/master/3743-maximize-cyclic-partition-score) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/SRV1030/leetcode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/SRV1030/leetcode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3765-minimum-cost-to-divide-array-into-subarrays](https://github.com/SRV1030/leetcode/tree/master/3765-minimum-cost-to-divide-array-into-subarrays) |
