@@ -7,8 +7,8 @@ public:
     void fillSum(vector<vector<int>>& grid) {
         prefixColSum.assign(size + 1, vector<long long>(size, 0));
 
-        for (int col = 0; col < size; ++col) {
-            for (int row = 0; row < size; ++row) {
+        for (int row = 0; row < size; ++row) {
+            for (int col = 0; col < size; ++col) {
                 prefixColSum[row + 1][col] =
                     prefixColSum[row][col] + grid[row][col];
             }
