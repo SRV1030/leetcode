@@ -244,6 +244,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/SRV1030/leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/SRV1030/leetcode/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/SRV1030/leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
+| [1834-single-threaded-cpu](https://github.com/SRV1030/leetcode/tree/master/1834-single-threaded-cpu) |
 | [1840-maximum-building-height](https://github.com/SRV1030/leetcode/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SRV1030/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/SRV1030/leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -892,6 +893,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/SRV1030/leetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1675-magnetic-force-between-two-balls](https://github.com/SRV1030/leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 | [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/SRV1030/leetcode/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
+| [1834-single-threaded-cpu](https://github.com/SRV1030/leetcode/tree/master/1834-single-threaded-cpu) |
 | [1840-maximum-building-height](https://github.com/SRV1030/leetcode/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SRV1030/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/SRV1030/leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -966,6 +968,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/SRV1030/leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/SRV1030/leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1612-avoid-flood-in-the-city](https://github.com/SRV1030/leetcode/tree/master/1612-avoid-flood-in-the-city) |
+| [1834-single-threaded-cpu](https://github.com/SRV1030/leetcode/tree/master/1834-single-threaded-cpu) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/SRV1030/leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1882-process-tasks-using-servers](https://github.com/SRV1030/leetcode/tree/master/1882-process-tasks-using-servers) |
 | [1917-maximum-average-pass-ratio](https://github.com/SRV1030/leetcode/tree/master/1917-maximum-average-pass-ratio) |
