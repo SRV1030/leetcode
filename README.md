@@ -216,6 +216,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/SRV1030/leetcode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1559-cherry-pickup-ii](https://github.com/SRV1030/leetcode/tree/master/1559-cherry-pickup-ii) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/SRV1030/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1563-stone-game-v](https://github.com/SRV1030/leetcode/tree/master/1563-stone-game-v) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/SRV1030/leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/SRV1030/leetcode/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1590-make-sum-divisible-by-p](https://github.com/SRV1030/leetcode/tree/master/1590-make-sum-divisible-by-p) |
@@ -1739,6 +1740,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1531-number-of-ways-to-wear-different-hats-to-each-other](https://github.com/SRV1030/leetcode/tree/master/1531-number-of-ways-to-wear-different-hats-to-each-other) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/SRV1030/leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1559-cherry-pickup-ii](https://github.com/SRV1030/leetcode/tree/master/1559-cherry-pickup-ii) |
+| [1563-stone-game-v](https://github.com/SRV1030/leetcode/tree/master/1563-stone-game-v) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/SRV1030/leetcode/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1628-count-submatrices-with-all-ones](https://github.com/SRV1030/leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/SRV1030/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -2069,6 +2071,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1477-product-of-the-last-k-numbers](https://github.com/SRV1030/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1500-count-largest-group](https://github.com/SRV1030/leetcode/tree/master/1500-count-largest-group) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/SRV1030/leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1563-stone-game-v](https://github.com/SRV1030/leetcode/tree/master/1563-stone-game-v) |
 | [1585-the-kth-factor-of-n](https://github.com/SRV1030/leetcode/tree/master/1585-the-kth-factor-of-n) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/SRV1030/leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/SRV1030/leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
@@ -2771,6 +2774,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0486-predict-the-winner](https://github.com/SRV1030/leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/SRV1030/leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/SRV1030/leetcode/tree/master/1140-stone-game-ii) |
+| [1563-stone-game-v](https://github.com/SRV1030/leetcode/tree/master/1563-stone-game-v) |
 | [3462-vowels-game-in-a-string](https://github.com/SRV1030/leetcode/tree/master/3462-vowels-game-in-a-string) |
 ## Database
 |  |
