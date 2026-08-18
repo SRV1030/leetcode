@@ -2889,4 +2889,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0834-sum-of-distances-in-tree](https://github.com/SRV1030/leetcode/tree/master/0834-sum-of-distances-in-tree) |
 | [0968-binary-tree-cameras](https://github.com/SRV1030/leetcode/tree/master/0968-binary-tree-cameras) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/SRV1030/leetcode/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
