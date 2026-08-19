@@ -25,17 +25,15 @@ public:
 
 
     int lca(int node1, int node2){
-        if(depths[node1] < depths[node2]){
+        if(depths[node1] < depths[node2])
             swap(node1, node2);
-        }
 
         int diff = depths[node1] - depths[node2];
         for(int bit = 0; diff > 0; ++bit){
             if(diff & 1)
-                node1 = ancestors[node1][bit];
+                node1 =  ancestors[node1][bit];
             diff >>= 1;
         }
-
         if(node1 == node2)
             return node1;
         
@@ -45,8 +43,6 @@ public:
                 node2 = ancestors[node2][bit];
             }
         }
-
-
         return ancestors[node1][0];
     }
 
