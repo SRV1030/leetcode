@@ -2891,6 +2891,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## DP on Trees
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/SRV1030/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0834-sum-of-distances-in-tree](https://github.com/SRV1030/leetcode/tree/master/0834-sum-of-distances-in-tree) |
 | [0968-binary-tree-cameras](https://github.com/SRV1030/leetcode/tree/master/0968-binary-tree-cameras) |
 ## Dijkstra's Algorithm
