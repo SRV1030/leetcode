@@ -1130,6 +1130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/SRV1030/leetcode/tree/master/2364-longest-path-with-different-adjacent-characters) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/SRV1030/leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/SRV1030/leetcode/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
+| [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/SRV1030/leetcode/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/SRV1030/leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/SRV1030/leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2603-collect-coins-in-a-tree](https://github.com/SRV1030/leetcode/tree/master/2603-collect-coins-in-a-tree) |
@@ -1219,6 +1220,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/SRV1030/leetcode/tree/master/2364-longest-path-with-different-adjacent-characters) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/SRV1030/leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/SRV1030/leetcode/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
+| [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/SRV1030/leetcode/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/SRV1030/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/SRV1030/leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2685-count-the-number-of-complete-components](https://github.com/SRV1030/leetcode/tree/master/2685-count-the-number-of-complete-components) |
@@ -1348,6 +1350,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2035-count-sub-islands](https://github.com/SRV1030/leetcode/tree/master/2035-count-sub-islands) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/SRV1030/leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2458-height-of-binary-tree-after-subtree-removal-queries](https://github.com/SRV1030/leetcode/tree/master/2458-height-of-binary-tree-after-subtree-removal-queries) |
+| [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/SRV1030/leetcode/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/SRV1030/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/SRV1030/leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/SRV1030/leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -2820,6 +2823,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0847-shortest-path-visiting-all-nodes](https://github.com/SRV1030/leetcode/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0886-possible-bipartition](https://github.com/SRV1030/leetcode/tree/master/0886-possible-bipartition) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/SRV1030/leetcode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/SRV1030/leetcode/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/SRV1030/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2603-collect-coins-in-a-tree](https://github.com/SRV1030/leetcode/tree/master/2603-collect-coins-in-a-tree) |
 | [2642-design-graph-with-shortest-path-calculator](https://github.com/SRV1030/leetcode/tree/master/2642-design-graph-with-shortest-path-calculator) |
