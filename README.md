@@ -2867,10 +2867,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Minimax
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/SRV1030/leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/SRV1030/leetcode/tree/master/1140-stone-game-ii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/SRV1030/leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/SRV1030/leetcode/tree/master/1140-stone-game-ii) |
 ## Z Algorithm
 |  |
