@@ -182,6 +182,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1110-delete-nodes-and-return-forest](https://github.com/SRV1030/leetcode/tree/master/1110-delete-nodes-and-return-forest) |
 | [1127-last-stone-weight](https://github.com/SRV1030/leetcode/tree/master/1127-last-stone-weight) |
 | [1140-stone-game-ii](https://github.com/SRV1030/leetcode/tree/master/1140-stone-game-ii) |
+| [1146-snapshot-array](https://github.com/SRV1030/leetcode/tree/master/1146-snapshot-array) |
 | [1219-path-with-maximum-gold](https://github.com/SRV1030/leetcode/tree/master/1219-path-with-maximum-gold) |
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/SRV1030/leetcode/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [1260-shift-2d-grid](https://github.com/SRV1030/leetcode/tree/master/1260-shift-2d-grid) |
@@ -563,6 +564,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/SRV1030/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1034-subarrays-with-k-different-integers](https://github.com/SRV1030/leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1110-delete-nodes-and-return-forest](https://github.com/SRV1030/leetcode/tree/master/1110-delete-nodes-and-return-forest) |
+| [1146-snapshot-array](https://github.com/SRV1030/leetcode/tree/master/1146-snapshot-array) |
 | [1160-letter-tile-possibilities](https://github.com/SRV1030/leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/SRV1030/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/SRV1030/leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -1915,6 +1917,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1044-longest-duplicate-substring](https://github.com/SRV1030/leetcode/tree/master/1044-longest-duplicate-substring) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/SRV1030/leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1095-find-in-mountain-array](https://github.com/SRV1030/leetcode/tree/master/1095-find-in-mountain-array) |
+| [1146-snapshot-array](https://github.com/SRV1030/leetcode/tree/master/1146-snapshot-array) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/SRV1030/leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/SRV1030/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/SRV1030/leetcode/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -2430,6 +2433,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0789-kth-largest-element-in-a-stream](https://github.com/SRV1030/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0911-online-election](https://github.com/SRV1030/leetcode/tree/master/0911-online-election) |
 | [0981-time-based-key-value-store](https://github.com/SRV1030/leetcode/tree/master/0981-time-based-key-value-store) |
+| [1146-snapshot-array](https://github.com/SRV1030/leetcode/tree/master/1146-snapshot-array) |
 | [1352-product-of-the-last-k-numbers](https://github.com/SRV1030/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/SRV1030/leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/SRV1030/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
@@ -2926,4 +2930,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/SRV1030/leetcode/tree/master/0743-network-delay-time) |
+## Persistent Data Structure
+|  |
+| ------- |
+| [1146-snapshot-array](https://github.com/SRV1030/leetcode/tree/master/1146-snapshot-array) |
 <!---LeetCode Topics End-->
