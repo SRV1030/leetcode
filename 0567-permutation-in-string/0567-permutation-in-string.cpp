@@ -9,7 +9,7 @@ public:
             if((right - left + 1) > s1.size()){
                 f2[s2[left++] - 'a']--;
             }
-            if(f1 == f2)
+            if(((right - left + 1) == s1.size()) && f1 == f2)
                 return true;
         }
         return false;
