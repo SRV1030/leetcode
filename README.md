@@ -1311,6 +1311,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/SRV1030/leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/SRV1030/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/SRV1030/leetcode/tree/master/0210-course-schedule-ii) |
+| [0279-perfect-squares](https://github.com/SRV1030/leetcode/tree/master/0279-perfect-squares) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/SRV1030/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/SRV1030/leetcode/tree/master/0322-coin-change) |
 | [0399-evaluate-division](https://github.com/SRV1030/leetcode/tree/master/0399-evaluate-division) |
@@ -1712,6 +1713,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0221-maximal-square](https://github.com/SRV1030/leetcode/tree/master/0221-maximal-square) |
 | [0233-number-of-digit-one](https://github.com/SRV1030/leetcode/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/SRV1030/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0279-perfect-squares](https://github.com/SRV1030/leetcode/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/SRV1030/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/SRV1030/leetcode/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/SRV1030/leetcode/tree/master/0322-coin-change) |
@@ -2063,6 +2065,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0233-number-of-digit-one](https://github.com/SRV1030/leetcode/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/SRV1030/leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/SRV1030/leetcode/tree/master/0273-integer-to-english-words) |
+| [0279-perfect-squares](https://github.com/SRV1030/leetcode/tree/master/0279-perfect-squares) |
 | [0319-bulb-switcher](https://github.com/SRV1030/leetcode/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/SRV1030/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/SRV1030/leetcode/tree/master/0342-power-of-four) |
@@ -2956,4 +2959,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/SRV1030/leetcode/tree/master/0056-merge-intervals) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/SRV1030/leetcode/tree/master/0279-perfect-squares) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/SRV1030/leetcode/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
