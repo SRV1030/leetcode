@@ -154,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0911-online-election](https://github.com/SRV1030/leetcode/tree/master/0911-online-election) |
 | [0912-random-pick-with-weight](https://github.com/SRV1030/leetcode/tree/master/0912-random-pick-with-weight) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/SRV1030/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0930-binary-subarrays-with-sum](https://github.com/SRV1030/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0931-minimum-falling-path-sum](https://github.com/SRV1030/leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/SRV1030/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0934-shortest-bridge](https://github.com/SRV1030/leetcode/tree/master/0934-shortest-bridge) |
@@ -557,6 +558,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0911-online-election](https://github.com/SRV1030/leetcode/tree/master/0911-online-election) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/SRV1030/leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/SRV1030/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0930-binary-subarrays-with-sum](https://github.com/SRV1030/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0940-fruit-into-baskets](https://github.com/SRV1030/leetcode/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/SRV1030/leetcode/tree/master/0952-word-subsets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/SRV1030/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -834,6 +836,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/SRV1030/leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0867-new-21-game](https://github.com/SRV1030/leetcode/tree/master/0867-new-21-game) |
 | [0904-fruit-into-baskets](https://github.com/SRV1030/leetcode/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/SRV1030/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0940-fruit-into-baskets](https://github.com/SRV1030/leetcode/tree/master/0940-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/SRV1030/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1034-subarrays-with-k-different-integers](https://github.com/SRV1030/leetcode/tree/master/1034-subarrays-with-k-different-integers) |
@@ -1992,6 +1995,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/SRV1030/leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0731-my-calendar-ii](https://github.com/SRV1030/leetcode/tree/master/0731-my-calendar-ii) |
 | [0912-random-pick-with-weight](https://github.com/SRV1030/leetcode/tree/master/0912-random-pick-with-weight) |
+| [0930-binary-subarrays-with-sum](https://github.com/SRV1030/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/SRV1030/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/SRV1030/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1094-car-pooling](https://github.com/SRV1030/leetcode/tree/master/1094-car-pooling) |
