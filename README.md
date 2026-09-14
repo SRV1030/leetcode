@@ -140,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0808-number-of-matching-subsequences](https://github.com/SRV1030/leetcode/tree/master/0808-number-of-matching-subsequences) |
 | [0827-making-a-large-island](https://github.com/SRV1030/leetcode/tree/master/0827-making-a-large-island) |
 | [0830-largest-triangle-area](https://github.com/SRV1030/leetcode/tree/master/0830-largest-triangle-area) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/SRV1030/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0853-car-fleet](https://github.com/SRV1030/leetcode/tree/master/0853-car-fleet) |
 | [0854-making-a-large-island](https://github.com/SRV1030/leetcode/tree/master/0854-making-a-large-island) |
 | [0862-find-and-replace-in-string](https://github.com/SRV1030/leetcode/tree/master/0862-find-and-replace-in-string) |
@@ -1924,6 +1925,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0744-find-smallest-letter-greater-than-target](https://github.com/SRV1030/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0794-swim-in-rising-water](https://github.com/SRV1030/leetcode/tree/master/0794-swim-in-rising-water) |
 | [0808-number-of-matching-subsequences](https://github.com/SRV1030/leetcode/tree/master/0808-number-of-matching-subsequences) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/SRV1030/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0911-online-election](https://github.com/SRV1030/leetcode/tree/master/0911-online-election) |
 | [0912-random-pick-with-weight](https://github.com/SRV1030/leetcode/tree/master/0912-random-pick-with-weight) |
 | [0981-time-based-key-value-store](https://github.com/SRV1030/leetcode/tree/master/0981-time-based-key-value-store) |
@@ -2971,4 +2973,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/SRV1030/leetcode/tree/master/0279-perfect-squares) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/SRV1030/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
