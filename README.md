@@ -587,6 +587,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1487-cinema-seat-allocation](https://github.com/SRV1030/leetcode/tree/master/1487-cinema-seat-allocation) |
 | [1500-count-largest-group](https://github.com/SRV1030/leetcode/tree/master/1500-count-largest-group) |
 | [1502-construct-k-palindrome-strings](https://github.com/SRV1030/leetcode/tree/master/1502-construct-k-palindrome-strings) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/SRV1030/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/SRV1030/leetcode/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1590-make-sum-divisible-by-p](https://github.com/SRV1030/leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [1612-avoid-flood-in-the-city](https://github.com/SRV1030/leetcode/tree/master/1612-avoid-flood-in-the-city) |
@@ -772,6 +773,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1448-maximum-69-number](https://github.com/SRV1030/leetcode/tree/master/1448-maximum-69-number) |
 | [1487-cinema-seat-allocation](https://github.com/SRV1030/leetcode/tree/master/1487-cinema-seat-allocation) |
 | [1502-construct-k-palindrome-strings](https://github.com/SRV1030/leetcode/tree/master/1502-construct-k-palindrome-strings) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/SRV1030/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/SRV1030/leetcode/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1612-avoid-flood-in-the-city](https://github.com/SRV1030/leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/SRV1030/leetcode/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
@@ -910,6 +912,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/SRV1030/leetcode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1366-rank-teams-by-votes](https://github.com/SRV1030/leetcode/tree/master/1366-rank-teams-by-votes) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/SRV1030/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/SRV1030/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/SRV1030/leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/SRV1030/leetcode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/SRV1030/leetcode/tree/master/1669-minimum-cost-to-cut-a-stick) |
@@ -1593,6 +1596,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/SRV1030/leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1502-construct-k-palindrome-strings](https://github.com/SRV1030/leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/SRV1030/leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/SRV1030/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1524-string-matching-in-an-array](https://github.com/SRV1030/leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/SRV1030/leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/SRV1030/leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
