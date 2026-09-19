@@ -2120,6 +2120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1352-product-of-the-last-k-numbers](https://github.com/SRV1030/leetcode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1372-check-if-it-is-a-good-array](https://github.com/SRV1030/leetcode/tree/master/1372-check-if-it-is-a-good-array) |
 | [1390-four-divisors](https://github.com/SRV1030/leetcode/tree/master/1390-four-divisors) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/SRV1030/leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/SRV1030/leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1448-maximum-69-number](https://github.com/SRV1030/leetcode/tree/master/1448-maximum-69-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/SRV1030/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
@@ -2764,6 +2765,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0149-max-points-on-a-line](https://github.com/SRV1030/leetcode/tree/master/0149-max-points-on-a-line) |
 | [0587-erect-the-fence](https://github.com/SRV1030/leetcode/tree/master/0587-erect-the-fence) |
 | [0830-largest-triangle-area](https://github.com/SRV1030/leetcode/tree/master/0830-largest-triangle-area) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/SRV1030/leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/SRV1030/leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3623-count-number-of-trapezoids-i](https://github.com/SRV1030/leetcode/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/SRV1030/leetcode/tree/master/3625-count-number-of-trapezoids-ii) |
