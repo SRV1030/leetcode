@@ -1670,6 +1670,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3462-vowels-game-in-a-string](https://github.com/SRV1030/leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/SRV1030/leetcode/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/SRV1030/leetcode/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
+| [3498-reverse-degree-of-a-string](https://github.com/SRV1030/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/SRV1030/leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/SRV1030/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3541-report-spam-message](https://github.com/SRV1030/leetcode/tree/master/3541-report-spam-message) |
@@ -1903,6 +1904,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3433-count-mentions-per-user](https://github.com/SRV1030/leetcode/tree/master/3433-count-mentions-per-user) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/SRV1030/leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/SRV1030/leetcode/tree/master/3447-clear-digits) |
+| [3498-reverse-degree-of-a-string](https://github.com/SRV1030/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/SRV1030/leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/SRV1030/leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/SRV1030/leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
