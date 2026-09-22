@@ -543,6 +543,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0690-employee-importance](https://github.com/SRV1030/leetcode/tree/master/0690-employee-importance) |
 | [0720-longest-word-in-dictionary](https://github.com/SRV1030/leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0721-accounts-merge](https://github.com/SRV1030/leetcode/tree/master/0721-accounts-merge) |
+| [0756-pyramid-transition-matrix](https://github.com/SRV1030/leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [0763-partition-labels](https://github.com/SRV1030/leetcode/tree/master/0763-partition-labels) |
 | [0768-partition-labels](https://github.com/SRV1030/leetcode/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/SRV1030/leetcode/tree/master/0797-rabbits-in-forest) |
@@ -695,6 +696,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/SRV1030/leetcode/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0476-number-complement](https://github.com/SRV1030/leetcode/tree/master/0476-number-complement) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/SRV1030/leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0756-pyramid-transition-matrix](https://github.com/SRV1030/leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/SRV1030/leetcode/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/SRV1030/leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0980-find-the-shortest-superstring](https://github.com/SRV1030/leetcode/tree/master/0980-find-the-shortest-superstring) |
@@ -1564,6 +1566,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0720-longest-word-in-dictionary](https://github.com/SRV1030/leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0721-accounts-merge](https://github.com/SRV1030/leetcode/tree/master/0721-accounts-merge) |
 | [0730-count-different-palindromic-subsequences](https://github.com/SRV1030/leetcode/tree/master/0730-count-different-palindromic-subsequences) |
+| [0756-pyramid-transition-matrix](https://github.com/SRV1030/leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [0763-partition-labels](https://github.com/SRV1030/leetcode/tree/master/0763-partition-labels) |
 | [0768-partition-labels](https://github.com/SRV1030/leetcode/tree/master/0768-partition-labels) |
 | [0777-swap-adjacent-in-lr-string](https://github.com/SRV1030/leetcode/tree/master/0777-swap-adjacent-in-lr-string) |
@@ -2616,6 +2619,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0494-target-sum](https://github.com/SRV1030/leetcode/tree/master/0494-target-sum) |
 | [0679-24-game](https://github.com/SRV1030/leetcode/tree/master/0679-24-game) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/SRV1030/leetcode/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0756-pyramid-transition-matrix](https://github.com/SRV1030/leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [1160-letter-tile-possibilities](https://github.com/SRV1030/leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1219-path-with-maximum-gold](https://github.com/SRV1030/leetcode/tree/master/1219-path-with-maximum-gold) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/SRV1030/leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
