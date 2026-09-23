@@ -288,6 +288,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2078-two-furthest-houses-with-different-colors](https://github.com/SRV1030/leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2089-maximum-matrix-sum](https://github.com/SRV1030/leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2107-find-unique-binary-string](https://github.com/SRV1030/leetcode/tree/master/2107-find-unique-binary-string) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/SRV1030/leetcode/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/SRV1030/leetcode/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 | [2125-gcd-sort-of-an-array](https://github.com/SRV1030/leetcode/tree/master/2125-gcd-sort-of-an-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/SRV1030/leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -606,6 +607,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/SRV1030/leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/SRV1030/leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/SRV1030/leetcode/tree/master/2107-find-unique-binary-string) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/SRV1030/leetcode/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/SRV1030/leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/SRV1030/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2300-construct-string-with-repeat-limit](https://github.com/SRV1030/leetcode/tree/master/2300-construct-string-with-repeat-limit) |
@@ -1631,6 +1633,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/SRV1030/leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/SRV1030/leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2107-find-unique-binary-string](https://github.com/SRV1030/leetcode/tree/master/2107-find-unique-binary-string) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/SRV1030/leetcode/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/SRV1030/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/SRV1030/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/SRV1030/leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
@@ -2765,6 +2768,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0820-find-eventual-safe-states](https://github.com/SRV1030/leetcode/tree/master/0820-find-eventual-safe-states) |
 | [1558-course-schedule-iv](https://github.com/SRV1030/leetcode/tree/master/1558-course-schedule-iv) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/SRV1030/leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/SRV1030/leetcode/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/SRV1030/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/SRV1030/leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2364-longest-path-with-different-adjacent-characters](https://github.com/SRV1030/leetcode/tree/master/2364-longest-path-with-different-adjacent-characters) |
@@ -2882,6 +2886,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0847-shortest-path-visiting-all-nodes](https://github.com/SRV1030/leetcode/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0886-possible-bipartition](https://github.com/SRV1030/leetcode/tree/master/0886-possible-bipartition) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/SRV1030/leetcode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/SRV1030/leetcode/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2467-most-profitable-path-in-a-tree](https://github.com/SRV1030/leetcode/tree/master/2467-most-profitable-path-in-a-tree) |
 | [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/SRV1030/leetcode/tree/master/2477-minimum-fuel-cost-to-report-to-the-capital) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/SRV1030/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -3001,4 +3006,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/SRV1030/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/SRV1030/leetcode/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 <!---LeetCode Topics End-->
