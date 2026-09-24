@@ -565,6 +565,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/SRV1030/leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0930-binary-subarrays-with-sum](https://github.com/SRV1030/leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0940-fruit-into-baskets](https://github.com/SRV1030/leetcode/tree/master/0940-fruit-into-baskets) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/SRV1030/leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0952-word-subsets](https://github.com/SRV1030/leetcode/tree/master/0952-word-subsets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/SRV1030/leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0981-time-based-key-value-store](https://github.com/SRV1030/leetcode/tree/master/0981-time-based-key-value-store) |
@@ -1224,6 +1225,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0886-possible-bipartition](https://github.com/SRV1030/leetcode/tree/master/0886-possible-bipartition) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/SRV1030/leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0934-shortest-bridge](https://github.com/SRV1030/leetcode/tree/master/0934-shortest-bridge) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/SRV1030/leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0968-binary-tree-cameras](https://github.com/SRV1030/leetcode/tree/master/0968-binary-tree-cameras) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/SRV1030/leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/SRV1030/leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -2887,6 +2889,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0834-sum-of-distances-in-tree](https://github.com/SRV1030/leetcode/tree/master/0834-sum-of-distances-in-tree) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/SRV1030/leetcode/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0886-possible-bipartition](https://github.com/SRV1030/leetcode/tree/master/0886-possible-bipartition) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/SRV1030/leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/SRV1030/leetcode/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/SRV1030/leetcode/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2467-most-profitable-path-in-a-tree](https://github.com/SRV1030/leetcode/tree/master/2467-most-profitable-path-in-a-tree) |
@@ -2912,6 +2915,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0547-number-of-provinces](https://github.com/SRV1030/leetcode/tree/master/0547-number-of-provinces) |
 | [0827-making-a-large-island](https://github.com/SRV1030/leetcode/tree/master/0827-making-a-large-island) |
 | [0886-possible-bipartition](https://github.com/SRV1030/leetcode/tree/master/0886-possible-bipartition) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/SRV1030/leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/SRV1030/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/SRV1030/leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/SRV1030/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -3012,4 +3016,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/SRV1030/leetcode/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/SRV1030/leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 <!---LeetCode Topics End-->
