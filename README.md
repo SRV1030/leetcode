@@ -2987,6 +2987,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SRV1030/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0834-sum-of-distances-in-tree](https://github.com/SRV1030/leetcode/tree/master/0834-sum-of-distances-in-tree) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/SRV1030/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0968-binary-tree-cameras](https://github.com/SRV1030/leetcode/tree/master/0968-binary-tree-cameras) |
 ## Dijkstra's Algorithm
 |  |
@@ -3020,4 +3021,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/SRV1030/leetcode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+## Binary Lifting
+|  |
+| ------- |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/SRV1030/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/SRV1030/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 <!---LeetCode Topics End-->
