@@ -502,6 +502,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/SRV1030/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3868-minimum-cost-to-equalize-arrays-using-swaps](https://github.com/SRV1030/leetcode/tree/master/3868-minimum-cost-to-equalize-arrays-using-swaps) |
 | [3875-construct-uniform-parity-array-i](https://github.com/SRV1030/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/SRV1030/leetcode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 | [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/SRV1030/leetcode/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 ## Hash Table
 |  |
